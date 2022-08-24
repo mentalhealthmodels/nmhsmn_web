@@ -1,0 +1,359 @@
+baseurl: https://devcows.github.io/hugo-universal-theme/ 
+title: National Mental Health Systems Modelling Network
+theme: hugo-universal-theme
+languageCode: en-us
+defaultContentLanguage: en
+#disqusShortname: # Option for future.
+googleAnalytics: '' # Option
+summaryLength: 70
+paginate: 10
+pluralizelisttitles: no
+menu:
+  main:
+    - identifier: menu.home # Resources (publications / talks) / Models / Code & Data / Blogs
+      name: Home
+      url: /
+      weight: 1
+    - name: 'About us'
+      parent: menu.home
+      url: /
+      weight: 1
+    - name: 'Membership'
+      parent: menu.home
+      url: /
+      weight: 2
+    - name: 'Support our work'
+      parent: menu.home
+      url: /
+      weight: 3
+    # - name: 'Option 4: Agency'
+    #   parent: menu.home
+    #   url: /
+    #   weight: 4
+    # - name: 'Option 5: Portfolio'
+    #   parent: menu.home
+    #   url: /
+    #   weight: 5
+    - identifier: menu.features
+      name: Resources
+      url: /img/template-easy-customize.png
+      weight: 2
+    - identifier: section.planners
+      name: Resources for planners
+      parent: menu.features
+      post: 1
+      url: ''
+      weight: 1
+    - identifier: section.modellers
+      name: Resources for modellers
+      parent: menu.features
+      post: 2
+      url: ''
+      weight: 2
+    - name: Introduction to modelling
+      parent: section.planners
+      url: ''
+      weight: 1
+    - name: Directory of decision aids
+      parent: section.planners
+      url: ''
+      weight: 2
+    - name: Publications
+      parent: section.planners
+      url: ''
+      weight: 3
+    - name: Talks
+      parent: section.planners
+      url: ''
+      weight: 4
+    # - name: Horizontal Blocks
+    #   parent: section.planners
+    #   url: ''
+    #   weight: 5
+    # - name: Pagination
+    #   parent: section.planners
+    #   url: ''
+    #   weight: 6
+    # - name: Tabs
+    #   parent: section.planners
+    #   url: ''
+    #   weight: 7
+    # - name: Typography
+    #   parent: section.planners
+    #   url: ''
+    #   weight: 8
+    - name: Peer Network
+      parent: section.modellers
+      url: ''
+      weight: 1
+    - name: Open code and data
+      parent: section.modellers
+      url: ''
+      weight: 2
+    - name: Workshops
+      parent: section.modellers
+      url: ''
+      weight: 3
+    - name: Guidance
+      parent: section.modellers
+      url: ''
+      weight: 4
+    - identifier: menu.models
+      name: Models
+      url: /img/template-homepage.png
+      weight: 3
+    - identifier: section.portfolio
+      name: Types of Models
+      parent: menu.models
+      post: 1
+      url: ''
+      weight: 1
+    - name: 2 Current Model Based Decision Aids
+      parent: section.portfolio
+      url: ''
+      weight: 1
+    - name: 2 Current Modelling Projects
+      parent: section.portfolio
+      url: ''
+      weight: 2
+    # - name: 3 Columns
+    #   parent: section.portfolio
+    #   url: ''
+    #   weight: 3
+    # - name: 3 Columns With Negative Space
+    #   parent: section.portfolio
+    #   url: ''
+    #   weight: 4
+    # - name: 4 Columns
+    #   parent: section.portfolio
+    #   url: ''
+    #   weight: 5
+    # - name: 4 Columns With Negative Space
+    #   parent: section.portfolio
+    #   url: ''
+    #   weight: 6
+    # - name: Portfolio - detail
+    #   parent: section.portfolio
+    #   url: ''
+    #   weight: 7
+    # - name: Portfolio - detail 2
+    #   parent: section.portfolio
+    #   url: ''
+    #   weight: 8
+    - identifier: section.about
+      name: About
+      parent: menu.models
+      post: 2
+      url: ''
+      weight: 2
+    - name: About Us
+      parent: section.about
+      url: ''
+      weight: 1
+    - name: Members
+      parent: section.about
+      url: ''
+      weight: 2
+    - identifier: section.marketing
+      name: Marketing
+      parent: menu.models
+      post: 2
+      url: ''
+      weight: 3
+    - name: Packages
+      parent: section.marketing
+      url: ''
+      weight: 1
+    - identifier: menu.allpages
+      name: All Pages
+      url: ''
+      weight: 4
+    - identifier: section.ap-home
+      name: Home
+      parent: menu.allpages
+      post: 1
+      url: ''
+      weight: 1
+    - identifier: section.ap-about
+      name: About
+      parent: menu.allpages
+      post: 1
+      url: ''
+      weight: 2
+    - identifier: section.ap-marketing
+      name: Marketing
+      parent: menu.allpages
+      post: 1
+      url: ''
+      weight: 3
+    - identifier: section.ap-portfolio
+      name: Portfolio
+      parent: menu.allpages
+      post: 2
+      url: ''
+      weight: 1
+    - identifier: section.ap-userpages
+      name: User Pages
+      parent: menu.allpages
+      post: 2
+      url: ''
+      weight: 2
+    - identifier: section.ap-shop
+      name: Shop
+      parent: menu.allpages
+      post: 3
+      url: ''
+      weight: 1
+    - identifier: section.ap-shoporderprocess
+      name: Shop - Order Process
+      parent: menu.allpages
+      post: 3
+      url: ''
+      weight: 2
+    - identifier: section.ap-contact
+      name: Contact
+      parent: menu.allpages
+      post: 4
+      url: ''
+      weight: 1
+    - identifier: section.ap-pages
+      name: Pages
+      parent: menu.allpages
+      post: 4
+      url: ''
+      weight: 2
+    - identifier: section.ap-blog
+      name: Blog
+      parent: menu.allpages
+      post: 4
+      url: /blog/
+      weight: 3
+    - name: Blog Listing Big
+      parent: section.ap-blog
+      url: /blog/
+      weight: 1
+    - identifier: menu.blog
+      name: Blog
+      url: /blog/
+      weight: 5
+    - identifier: menu.faq
+      name: FAQ
+      url: /faq/
+      weight: 6
+    - identifier: contact # Note need for Google API Key and Formspree free plan. Will also need to update email paramter on contact page.
+      name: Contact
+      url: /contact/
+      weight: 7
+  topbar:
+    - name: Phone # We can remove
+      pre: <i class='fas fa-2x fa-phone'></i>
+      url: tel:+12 34 567 89 01 # Update if using
+      weight: 1
+    - name: GitHub
+      pre: <i class='fab fa-2x fa-github'></i>
+      url: https://github.com/mentalhealthmodels/
+      weight: 2
+    # - name: Facebook
+    #   pre: <i class='fab fa-2x fa-facebook'></i>
+    #   url: http://facebook.com
+    #   weight: 3
+    # - name: Twitter
+    #   pre: <i class='fab fa-2x fa-twitter'></i>
+    #   url: http://twitter.com
+    #   weight: 4
+    - name: Email
+      pre: <i class='fas fa-2x fa-envelope'></i>
+      url: mailto:info@qcmhr.uq.edu.au # Need to update
+      weight: 5
+params:
+  about_us: <p>We are a network of academics and service planners who build and use models of mental health systems. We collaborate to improve the quality, usefulness and impact of these models.</p>
+  address: "<p class=\"text-uppercase\"><strong>National Mental Health Systems Modelling Network.</strong>\n        <br>Queensland Centre for Mental Health Research\n        <br>Level 3, Dawson House\n        <br>The Park Centre for Mental Health Treatment,
+Research and Education\n        <br>Wacol\n <br>QLD 4076\n
+    \       <br>\n        <strong>Australia</strong>\n      </p>\n      "
+  author: DevCows
+  carouselCustomers:
+    auto_play: no
+    items: 6
+    pagination_speed: 1000
+    slide_speed: 2000
+  carouselHomepage:
+    auto_play: yes
+    enable: yes
+    pagination_speed: 1000
+    slide_speed: 2000
+  carouselTestimonials:
+    auto_play: no
+    items: 4
+    pagination_speed: 1000
+    slide_speed: 2000
+  clients:
+    enable: yes
+    subtitle: ''
+    title: Network Members
+  contact_form_ajax: no
+  contact_url: /contact
+  copyright: Copyright (c) 2022 - 2022, National Mental Health Systems Modelling Network; all rights reserved.
+  date_format: January 2, 2006
+  default_sharing_image: img/sharing-default.png
+  defaultDescription: Supporting mental health reform through better decision models
+  defaultKeywords:
+    - mental health
+    - systems modelling
+    - decision models
+    - simulation
+  disabled_logo: yes # Can change when we have a logo
+  dropdown_mouse_over: yes # Better on?
+  enableGoogleMaps: yes # May decide to change this
+  enableRecaptchaInContactForm: no
+  #facebook_site: ''
+  features:
+    cols: 3
+    enable: yes
+  footer:
+    recent_posts:
+      enable: yes
+  formspree_action: https://formspree.io/sample/of/endpoint ### We need to set up an acount and update this.
+  googleMapsApiKey: AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY ## Need to update this
+  googleRecaptchaKey: site_key_for_google_recaptcha ## And probably this too
+  latitude: '-27.49873516764946' #-, 
+  logo: img/logo.png # Need to update when we have a logo
+  logo_small: img/logo-small.png # Need to update when we have a logo
+  logo_text: National Mental Health Systems Modelling Network
+  longitude: '153.0118860343866'
+  mainSections: blog
+  recent_posts:
+    enable: yes
+    hide_summary: no
+    subtitle: The latest news and views from network members.
+    title: From our blog
+  see_more:
+    enable: yes
+    icon: far fa-file-alt
+    link_text: Learn more
+    link_url: '#'
+    subtitle: We facilitate the sharing of model code and data through open access repositories.
+    title: Open code and data
+  style: turquoise
+  testimonials:
+    enable: yes
+    subtitle: We are a network of modellers and service planners who work together to improve Australian population mental health.
+    title: Why we work together
+  topbar:
+    enable: no # Could switch on
+    text: "<p class=\"hidden-sm hidden-xs\">Contact us on +61 7 3271 8660 or info@qcmhr.uq.edu.au.</p>\n
+      \     <p class=\"hidden-md hidden-lg\"><a href=\"tel:+61 7 3271 8660\" data-animate-hover=\"pulse\"><i
+      class=\"fas fa-phone\"></i></a>\n      <a href=\"mailto:info@qcmhr.uq.edu.au\"
+      data-animate-hover=\"pulse\"><i class=\"fas fa-envelope\"></i></a>\n      </p>\n
+      \     "
+  #twitter_site: GoHugoIO # Can add if we have a Twitter Account
+  viewMorePostLink: /blog/
+  widgets:
+    categories: yes
+    search: yes
+    tags: yes
+permalinks:
+  blog: /blog/:year/:month/:day/:filename/
+taxonomies:
+  author: authors
+  category: categories
+  tag: tags

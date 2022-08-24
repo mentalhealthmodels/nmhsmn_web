@@ -1,0 +1,41 @@
+---
+title: "An open source tool to gain economic insight from measures collected in youth mental health services."
+author: "Matthew Hamilton"
+date: 2020-12-01T21:13:14-05:00
+#banner: ["img/banners/youthu.png"]
+categories: ["R", "resources for modellers"]
+tags: ["utility mapping", "youth mental health"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Motivation
+
+Explanatory text..
+
+
+# Installation
+
+Information about how to install.
+
+```{r cars}
+summary(cars)
+fit <- lm(dist ~ speed, data = cars)
+fit
+```
+
+# Worked example
+
+Some simple code to demonstrate how to use it.
+
+```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
+par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
+  col = c('#0292D8', '#F7EA39', '#C4B632'),
+  init.angle = -50, border = NA
+)
+```
