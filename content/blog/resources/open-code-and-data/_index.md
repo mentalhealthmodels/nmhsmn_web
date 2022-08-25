@@ -1,5 +1,5 @@
 ---
-title: News and Events
+title: Open code and data
 # menu:
 #   main:
 #     weight: 40

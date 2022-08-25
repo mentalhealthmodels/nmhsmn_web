@@ -1,11 +1,10 @@
 ---
-title: "An open source tool to gain economic insight from measures collected in youth mental health services."
+title: "Managing data in online open access repositories."
 author: "Matthew Hamilton"
-date: 2020-12-01T21:13:14-05:00
-#banner: ["img/banners/youthu.png"]
+date: 2022-08-01T21:13:14-05:00
+banner: ["https://ready4-dev.github.io/ready4use/logo.png"]
 categories: ["resources for modellers"]
-tags: ["R", "utility mapping", "youth mental health"]
-output: hugodown::md_document()
+tags: ["data repositories", "open access"]
 ---
 
 ```{r setup, include=FALSE}

@@ -1,5 +1,5 @@
 ---
-title: News and Events
+title: How to use models
 # menu:
 #   main:
 #     weight: 40

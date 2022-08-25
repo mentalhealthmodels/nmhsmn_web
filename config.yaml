@@ -62,11 +62,11 @@ menu:
       weight: 1
     - name: Modelling methods
       parent: section.publications
-      url: ''
+      url: /tags/modelling-methods/
       weight: 1
     - name: Mental health policy
       parent: section.publications
-      url: ''
+      url: /tags/mental-health-policy/
       weight: 2
     - identifier: section.decisionaids
       name: Decision Aids
@@ -76,11 +76,11 @@ menu:
       weight: 2
     - name: Publicly available
       parent: section.decisionaids
-      url: ''
+      url: /tags/decision-aids-publicly-available/
       weight: 1
     - name: Restricted use
       parent: section.decisionaids
-      url: ''
+      url: /tags/decision-aids-restricted-use/
       weight: 2
     - identifier: menu.resources
       name: Resources
@@ -94,11 +94,11 @@ menu:
       weight: 1
     - name: How to use models
       parent: section.planners
-      url: ''
+      url: /blog/resources/how-and-why/
       weight: 1
     - name: Talks
       parent: section.planners
-      url: ''
+      url: /blog/resources/talks/
       weight: 2    
     - identifier: section.modellers
       name: Resources for modellers
@@ -112,7 +112,7 @@ menu:
     #   weight: 1
     - name: Open code and data
       parent: section.modellers
-      url: ''
+      url: /blog/resources/open-code-and-data
       weight: 2
     # - name: Peer Network
     #   parent: section.modellers
@@ -120,7 +120,7 @@ menu:
     #   weight: 3
     - name: Tutorials
       parent: section.modellers
-      url: ''
+      url: /blog/resources/tutorials/
       weight: 4
     # - name: Workshops
     #   parent: section.modellers
@@ -128,7 +128,7 @@ menu:
     #   weight: 5
     - identifier: menu.blog
       name: News and events
-      url: /blog/
+      url: /blog/news-and-events/
       weight: 5
   topbar:
     - name: Phone # We can remove
@@ -156,7 +156,7 @@ params:
   address: "<p class=\"text-uppercase\"><strong>National Mental Health Systems Modelling Network.</strong>\n        <br>Queensland Centre for Mental Health Research\n        <br>Level 3, Dawson House\n        <br>The Park Centre for Mental Health Treatment,
 Research and Education\n        <br>Wacol\n <br>QLD 4076\n
     \       <br>\n        <strong>Australia</strong>\n      </p>\n      "
-  author: DevCows
+  author: National Mental Health Systems Modelling Network
   carouselCustomers:
     auto_play: no
     items: 6
@@ -216,10 +216,10 @@ Research and Education\n        <br>Wacol\n <br>QLD 4076\n
     enable: yes
     icon: far fa-file-alt
     link_text: Learn more
-    link_url: '#'
+    link_url: '/hugo-universal-theme/blog/resources/open-code-and-data/'
     subtitle: We facilitate the sharing of model code and data through open access repositories.
     title: Open code and data
-  style: turquoise
+  style: marsala
   testimonials:
     enable: yes
     subtitle: We are a network of modellers and service planners who work together to improve Australian population mental health.

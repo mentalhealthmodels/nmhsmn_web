@@ -11,7 +11,7 @@ tags:
 - mental health policy
 - uses of modelling
 - types of models
-title: First network authored paper published.
+title: Introducing the National Mental Health Systems Modelling Network.
 ---
 
 Article about our first modelling paper.

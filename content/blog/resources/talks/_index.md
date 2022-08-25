@@ -1,5 +1,5 @@
 ---
-title: News and Events
+title: Talks
 # menu:
 #   main:
 #     weight: 40

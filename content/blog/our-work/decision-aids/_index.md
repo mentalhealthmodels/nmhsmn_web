@@ -1,5 +1,5 @@
 ---
-title: Decision aids
+title: National Mental Health Planning Framework Tool
 # menu:
 #   main:
 #     weight: 40

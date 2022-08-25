@@ -9,7 +9,7 @@ date: "2022-08-22T21:29:20+02:00"
 tags:
 - uses of modelling
 - types of models
-title: First network authored paper published.
+title: First network authored paper.
 ---
 
 Article about our first modelling paper.
