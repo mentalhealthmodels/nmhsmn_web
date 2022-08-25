@@ -3,8 +3,9 @@ title: "An open source tool to gain economic insight from measures collected in 
 author: "Matthew Hamilton"
 date: 2020-12-01T21:13:14-05:00
 #banner: ["img/banners/youthu.png"]
-categories: ["R", "resources for modellers"]
-tags: ["utility mapping", "youth mental health"]
+categories: ["resources for modellers"]
+tags: ["R", "utility mapping", "youth mental health"]
+output: hugodown::md_document()
 ---
 
 ```{r setup, include=FALSE}

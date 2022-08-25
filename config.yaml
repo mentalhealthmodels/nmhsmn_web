@@ -1,4 +1,4 @@
-baseurl: https://devcows.github.io/hugo-universal-theme/ 
+baseurl: https://devcows.github.io/hugo-universal-theme/ # Update
 title: National Mental Health Systems Modelling Network
 theme: hugo-universal-theme
 languageCode: en-us
@@ -14,236 +14,122 @@ menu:
       name: Home
       url: /
       weight: 1
-    - name: 'About us'
-      parent: menu.home
-      url: /
-      weight: 1
-    - name: 'Membership'
-      parent: menu.home
-      url: /
+    - identifier: menu.aboutus
+      name: About us
+      url: /img/template-homepage.png
       weight: 2
-    - name: 'Support our work'
-      parent: menu.home
-      url: /
-      weight: 3
-    # - name: 'Option 4: Agency'
-    #   parent: menu.home
-    #   url: /
-    #   weight: 4
-    # - name: 'Option 5: Portfolio'
-    #   parent: menu.home
-    #   url: /
-    #   weight: 5
-    - identifier: menu.features
-      name: Resources
-      url: /img/template-easy-customize.png
-      weight: 2
-    - identifier: section.planners
-      name: Resources for planners
-      parent: menu.features
+    - identifier: section.whyandwho
+      name: Motivation and expertise
+      parent: menu.aboutus
       post: 1
       url: ''
       weight: 1
-    - identifier: section.modellers
-      name: Resources for modellers
-      parent: menu.features
+    - name: 'Our purpose'
+      parent: section.whyandwho
+      url: /purpose
+      weight: 1
+    - name: 'Our members'
+      parent: section.whyandwho
+      url: /members
+      weight: 2
+    - identifier: section.learnmore
+      name: Learn more
+      parent: menu.aboutus
+      post: 2
+      url: ''
+      weight: 1
+    - name: 'Support our work'
+      parent: section.learnmore
+      url: /supportus
+      weight: 1
+    - name: Contact us # Note need for Google API Key and Formspree free plan. Will also need to update email paramter on contact page.
+      parent: section.learnmore
+      url: /contact/
+      weight: 2
+    # - identifier: contact # Note need for Google API Key and Formspree free plan. Will also need to update email paramter on contact page.
+    #   name: Contact
+    #   url: /contact/
+    #   weight: 7
+    - identifier: menu.ourwork
+      name: Our work
+      url: /img/template-homepage.png
+      weight: 3
+    - identifier: section.publications
+      name: Publications
+      parent: menu.ourwork
+      post: 1
+      url: ''
+      weight: 1
+    - name: Modelling methods
+      parent: section.publications
+      url: ''
+      weight: 1
+    - name: Mental health policy
+      parent: section.publications
+      url: ''
+      weight: 2
+    - identifier: section.decisionaids
+      name: Decision Aids
+      parent: menu.ourwork
       post: 2
       url: ''
       weight: 2
-    - name: Introduction to modelling
+    - name: Publicly available
+      parent: section.decisionaids
+      url: ''
+      weight: 1
+    - name: Restricted use
+      parent: section.decisionaids
+      url: ''
+      weight: 2
+    - identifier: menu.resources
+      name: Resources
+      url: /img/template-easy-customize.png
+      weight: 4
+    - identifier: section.planners
+      name: Resources for planners
+      parent: menu.resources
+      post: 1
+      url: ''
+      weight: 1
+    - name: How to use models
       parent: section.planners
       url: ''
       weight: 1
-    - name: Directory of decision aids
-      parent: section.planners
-      url: ''
-      weight: 2
-    - name: Publications
-      parent: section.planners
-      url: ''
-      weight: 3
     - name: Talks
       parent: section.planners
       url: ''
-      weight: 4
-    # - name: Horizontal Blocks
-    #   parent: section.planners
-    #   url: ''
-    #   weight: 5
-    # - name: Pagination
-    #   parent: section.planners
-    #   url: ''
-    #   weight: 6
-    # - name: Tabs
-    #   parent: section.planners
-    #   url: ''
-    #   weight: 7
-    # - name: Typography
-    #   parent: section.planners
-    #   url: ''
-    #   weight: 8
-    - name: Peer Network
-      parent: section.modellers
+      weight: 2    
+    - identifier: section.modellers
+      name: Resources for modellers
+      parent: menu.resources
+      post: 2
       url: ''
-      weight: 1
+      weight: 3
+    # - name: Guidance
+    #   parent: section.modellers
+    #   url: ''
+    #   weight: 1
     - name: Open code and data
       parent: section.modellers
       url: ''
       weight: 2
-    - name: Workshops
-      parent: section.modellers
-      url: ''
-      weight: 3
-    - name: Guidance
-      parent: section.modellers
-      url: ''
-      weight: 4
-    - identifier: menu.models
-      name: Models
-      url: /img/template-homepage.png
-      weight: 3
-    - identifier: section.portfolio
-      name: Types of Models
-      parent: menu.models
-      post: 1
-      url: ''
-      weight: 1
-    - name: 2 Current Model Based Decision Aids
-      parent: section.portfolio
-      url: ''
-      weight: 1
-    - name: 2 Current Modelling Projects
-      parent: section.portfolio
-      url: ''
-      weight: 2
-    # - name: 3 Columns
-    #   parent: section.portfolio
+    # - name: Peer Network
+    #   parent: section.modellers
     #   url: ''
     #   weight: 3
-    # - name: 3 Columns With Negative Space
-    #   parent: section.portfolio
-    #   url: ''
-    #   weight: 4
-    # - name: 4 Columns
-    #   parent: section.portfolio
-    #   url: ''
-    #   weight: 5
-    # - name: 4 Columns With Negative Space
-    #   parent: section.portfolio
-    #   url: ''
-    #   weight: 6
-    # - name: Portfolio - detail
-    #   parent: section.portfolio
-    #   url: ''
-    #   weight: 7
-    # - name: Portfolio - detail 2
-    #   parent: section.portfolio
-    #   url: ''
-    #   weight: 8
-    - identifier: section.about
-      name: About
-      parent: menu.models
-      post: 2
-      url: ''
-      weight: 2
-    - name: About Us
-      parent: section.about
-      url: ''
-      weight: 1
-    - name: Members
-      parent: section.about
-      url: ''
-      weight: 2
-    - identifier: section.marketing
-      name: Marketing
-      parent: menu.models
-      post: 2
-      url: ''
-      weight: 3
-    - name: Packages
-      parent: section.marketing
-      url: ''
-      weight: 1
-    - identifier: menu.allpages
-      name: All Pages
+    - name: Tutorials
+      parent: section.modellers
       url: ''
       weight: 4
-    - identifier: section.ap-home
-      name: Home
-      parent: menu.allpages
-      post: 1
-      url: ''
-      weight: 1
-    - identifier: section.ap-about
-      name: About
-      parent: menu.allpages
-      post: 1
-      url: ''
-      weight: 2
-    - identifier: section.ap-marketing
-      name: Marketing
-      parent: menu.allpages
-      post: 1
-      url: ''
-      weight: 3
-    - identifier: section.ap-portfolio
-      name: Portfolio
-      parent: menu.allpages
-      post: 2
-      url: ''
-      weight: 1
-    - identifier: section.ap-userpages
-      name: User Pages
-      parent: menu.allpages
-      post: 2
-      url: ''
-      weight: 2
-    - identifier: section.ap-shop
-      name: Shop
-      parent: menu.allpages
-      post: 3
-      url: ''
-      weight: 1
-    - identifier: section.ap-shoporderprocess
-      name: Shop - Order Process
-      parent: menu.allpages
-      post: 3
-      url: ''
-      weight: 2
-    - identifier: section.ap-contact
-      name: Contact
-      parent: menu.allpages
-      post: 4
-      url: ''
-      weight: 1
-    - identifier: section.ap-pages
-      name: Pages
-      parent: menu.allpages
-      post: 4
-      url: ''
-      weight: 2
-    - identifier: section.ap-blog
-      name: Blog
-      parent: menu.allpages
-      post: 4
-      url: /blog/
-      weight: 3
-    - name: Blog Listing Big
-      parent: section.ap-blog
-      url: /blog/
-      weight: 1
+    # - name: Workshops
+    #   parent: section.modellers
+    #   url: ''
+    #   weight: 5
     - identifier: menu.blog
-      name: Blog
+      name: News and events
       url: /blog/
       weight: 5
-    - identifier: menu.faq
-      name: FAQ
-      url: /faq/
-      weight: 6
-    - identifier: contact # Note need for Google API Key and Formspree free plan. Will also need to update email paramter on contact page.
-      name: Contact
-      url: /contact/
-      weight: 7
   topbar:
     - name: Phone # We can remove
       pre: <i class='fas fa-2x fa-phone'></i>

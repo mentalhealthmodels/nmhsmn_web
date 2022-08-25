@@ -3,8 +3,6 @@ id: contact
 title: Contact
 ---
 
-# We are here to help you
+# How to contact us
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
-
-Please feel free to contact us, our customer service center is working for you 24/7.
+If you would like to contact us, you can do so by post at the address provided in the side panel or by email using the contact form below. Please note that as we are currently a network sustained by the voluntary time commitments of our members we may be slow to respond to contacts. 
