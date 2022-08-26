@@ -1,5 +1,5 @@
 ---
-title: Open code and data
+title: Resources for modellers
 # menu:
 #   main:
 #     weight: 40

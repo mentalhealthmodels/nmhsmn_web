@@ -1,6 +1,6 @@
 ---
 authors:
-- Sandra Diminc
+- Katrina Long
 banner: img/banners/banner-4.jpg
 categories:
 - resources for modellers
@@ -14,4 +14,4 @@ tags:
 title: Introducing the National Mental Health Systems Modelling Network.
 ---
 
-Article about our first modelling paper.
+To introduce the National Mental Health Systems Modelling Network, members pooled their expertise to draft an article about the role of modelling in Australian mental health reform processes. That article is shortly due to be submitted for peer-review and once it is publicly available a link to it will be provided here. 

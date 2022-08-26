@@ -5,4 +5,4 @@ title: News and Events
 #     weight: 40
 ---
 
-<!--add blocks of content here to add more sections to the community page -->
+News about the network and any upcoming activities that we are organising will appear in this section.

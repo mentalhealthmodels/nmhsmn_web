@@ -16,7 +16,7 @@ menu:
       weight: 1
     - identifier: menu.aboutus
       name: About us
-      url: /img/template-homepage.png
+      url: /img/upsplash/hadija-saidi-unsplash.jpg #Photo by <a href="https://unsplash.com/@hadijasaidi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hadija Saidi</a> on <a href="https://unsplash.com/s/photos/question?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
       weight: 2
     - identifier: section.whyandwho
       name: Motivation and expertise
@@ -52,13 +52,13 @@ menu:
     #   weight: 7
     - identifier: menu.ourwork
       name: Our work
-      url: /img/template-homepage.png
+      url: /img/upsplash/rohan-makhecha-unsplash.jpg
       weight: 3
     - identifier: section.publications
       name: Publications
       parent: menu.ourwork
       post: 1
-      url: ''
+      url: /blog/our-work/publications/ #Not used
       weight: 1
     - name: Modelling methods
       parent: section.publications
@@ -72,19 +72,19 @@ menu:
       name: Decision Aids
       parent: menu.ourwork
       post: 2
-      url: ''
+      url: /blog/our-work/decision-aids/ #Not used
       weight: 2
     - name: Publicly available
       parent: section.decisionaids
-      url: /tags/decision-aids-publicly-available/
+      url: /blog/our-work/decision-aids/publicly-available/
       weight: 1
     - name: Restricted use
       parent: section.decisionaids
-      url: /tags/decision-aids-restricted-use/
+      url: /blog/our-work/decision-aids/restricted-access/
       weight: 2
     - identifier: menu.resources
       name: Resources
-      url: /img/template-easy-customize.png
+      url: /img/upsplash/marek-levak-unsplash.jpg
       weight: 4
     - identifier: section.planners
       name: Resources for planners
@@ -94,11 +94,11 @@ menu:
       weight: 1
     - name: How to use models
       parent: section.planners
-      url: /blog/resources/how-and-why/
+      url: /blog/resources/planner-resources/how-and-why/
       weight: 1
     - name: Talks
       parent: section.planners
-      url: /blog/resources/talks/
+      url: /blog/resources/planner-resources/talks/
       weight: 2    
     - identifier: section.modellers
       name: Resources for modellers
@@ -112,7 +112,7 @@ menu:
     #   weight: 1
     - name: Open code and data
       parent: section.modellers
-      url: /blog/resources/open-code-and-data
+      url: /blog/resources/modeller-resources/open-code-and-data
       weight: 2
     # - name: Peer Network
     #   parent: section.modellers
@@ -173,11 +173,11 @@ Research and Education\n        <br>Wacol\n <br>QLD 4076\n
     pagination_speed: 1000
     slide_speed: 2000
   clients:
-    enable: yes
+    enable: no
     subtitle: ''
     title: Network Members
   contact_form_ajax: no
-  contact_url: /contact
+  contact_url: /hugo-universal-theme/contact/
   copyright: Copyright (c) 2022 - 2022, National Mental Health Systems Modelling Network; all rights reserved.
   date_format: January 2, 2006
   default_sharing_image: img/sharing-default.png
@@ -188,7 +188,7 @@ Research and Education\n        <br>Wacol\n <br>QLD 4076\n
     - decision models
     - simulation
   disabled_logo: yes # Can change when we have a logo
-  dropdown_mouse_over: yes # Better on?
+  dropdown_mouse_over: no # Better on?
   enableGoogleMaps: yes # May decide to change this
   enableRecaptchaInContactForm: no
   #facebook_site: ''
@@ -210,16 +210,16 @@ Research and Education\n        <br>Wacol\n <br>QLD 4076\n
   recent_posts:
     enable: yes
     hide_summary: no
-    subtitle: The latest news and views from network members.
-    title: From our blog
+    subtitle: Some recently added resources about mental health modelling.
+    title: Latest news and resources
   see_more:
     enable: yes
     icon: far fa-file-alt
     link_text: Learn more
-    link_url: '/hugo-universal-theme/blog/resources/open-code-and-data/'
+    link_url: '/hugo-universal-theme/blog/resources/modeller-resources/open-code-and-data/'
     subtitle: We facilitate the sharing of model code and data through open access repositories.
     title: Open code and data
-  style: marsala
+  style: turquoise
   testimonials:
     enable: yes
     subtitle: We are a network of modellers and service planners who work together to improve Australian population mental health.
