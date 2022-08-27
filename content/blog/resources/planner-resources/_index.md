@@ -1,5 +1,5 @@
 ---
-title: Resources for planners
+title: Resources for Planners
 # menu:
 #   main:
 #     weight: 40

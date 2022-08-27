@@ -1,14 +1,14 @@
 ---
 authors:
-- MAtthew Hamilton
-banner: img/banners/banner-4.jpg
+- Katrina Long
+banner: img/blog/sydneyCOVID2020.png
 categories:
-- resources for modellers
-- resources for planners
+- Resources for Modellers
+- Resources for Planners
 date: "2022-08-22T21:29:20+02:00"
 tags:
-- uses of modelling
-- types of models
+- Uses of Modelling
+- Types of Models
 title: Modelling the predicted mental health impacts of and potential responses to the early COVID-19 pandemic.
 ---
 

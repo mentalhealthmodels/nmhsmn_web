@@ -3,12 +3,12 @@ authors:
 - Matthew Hamilton
 banner: img/banners/youthu.png
 categories:
-- resources for modellers
-- resources for planners
+- Resources for Modellers
+- Resources for Planners
 date: "2022-08-22T21:29:20+02:00"
 tags:
-- decision aids (publicly available)
-- utility mapping
+- Decision Aids (Publicly Available)
+- Utility Mapping
 title: youthu - Youth Outcomes To Health Utility
 ---
 

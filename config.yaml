@@ -62,11 +62,11 @@ menu:
       weight: 1
     - name: Modelling methods
       parent: section.publications
-      url: /tags/modelling-methods/
+      url: /categories/publications-modelling-methods/
       weight: 1
     - name: Mental health policy
       parent: section.publications
-      url: /tags/mental-health-policy/
+      url: /categories/publications-mental-health-policy/
       weight: 2
     - identifier: section.decisionaids
       name: Decision Aids
@@ -87,7 +87,7 @@ menu:
       url: /img/upsplash/marek-levak-unsplash.jpg
       weight: 4
     - identifier: section.planners
-      name: Resources for planners
+      name: Resources for Planners
       parent: menu.resources
       post: 1
       url: ''
@@ -101,7 +101,7 @@ menu:
       url: /blog/resources/planner-resources/talks/
       weight: 2    
     - identifier: section.modellers
-      name: Resources for modellers
+      name: Resources for Modellers
       parent: menu.resources
       post: 2
       url: ''
@@ -120,7 +120,7 @@ menu:
     #   weight: 3
     - name: Tutorials
       parent: section.modellers
-      url: /blog/resources/tutorials/
+      url: /blog/resources/modeller-resources/tutorials/
       weight: 4
     # - name: Workshops
     #   parent: section.modellers
@@ -189,7 +189,7 @@ Research and Education\n        <br>Wacol\n <br>QLD 4076\n
     - simulation
   disabled_logo: yes # Can change when we have a logo
   dropdown_mouse_over: no # Better on?
-  enableGoogleMaps: yes # May decide to change this
+  enableGoogleMaps: no # May decide to change this
   enableRecaptchaInContactForm: no
   #facebook_site: ''
   features:
@@ -198,7 +198,7 @@ Research and Education\n        <br>Wacol\n <br>QLD 4076\n
   footer:
     recent_posts:
       enable: yes
-  formspree_action: https://formspree.io/sample/of/endpoint ### We need to set up an acount and update this.
+  #formspree_action: https://formspree.io/sample/of/endpoint ### We need to set up an acount and update this.
   googleMapsApiKey: AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY ## Need to update this
   googleRecaptchaKey: site_key_for_google_recaptcha ## And probably this too
   latitude: '-27.49873516764946' #-, 

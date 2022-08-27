@@ -3,8 +3,8 @@ title: "Managing data in online open access repositories."
 author: "Matthew Hamilton"
 date: 2022-08-01T21:13:14-05:00
 banner: ["https://ready4-dev.github.io/ready4use/logo.png"]
-categories: ["resources for modellers"]
-tags: ["data repositories", "open access"]
+categories: ["Resources for Modellers"]
+tags: ["Data Repositories", "Open Access"]
 ---
 
 ```{r setup, include=FALSE}

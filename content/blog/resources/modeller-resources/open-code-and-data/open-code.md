@@ -1,13 +1,13 @@
 ---
 authors:
 - Matthew Hamilton
-banner: img/banners/banner-4.jpg
+banner: img/blog/openmindzen.png
 categories:
-- resources for modellers
+- Resources for Modellers
 date: "2022-08-22T21:29:20+02:00"
 tags:
-- data repositories
-- open access
+- Data Repositories
+- Open Access
 title: Australian Mental Health Systems Models Zenodo Community
 ---
 

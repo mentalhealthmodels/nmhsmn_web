@@ -1,5 +1,6 @@
 ---
 title: Publicly available decision aids
+banner: img/upsplash/brett-jordan-unsplash.jpg
 # menu:
 #   main:
 #     weight: 40
