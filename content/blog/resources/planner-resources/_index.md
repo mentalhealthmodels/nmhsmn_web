@@ -1,5 +1,8 @@
 ---
 title: Resources for Planners
+banner: img/banners/alvaro-reyes-unsplash.jpg
+# Photo by <a href="https://unsplash.com/@alvarordesign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alvaro Reyes</a> on <a href="https://unsplash.com/s/photos/service-design?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+weight: 1
 # menu:
 #   main:
 #     weight: 40

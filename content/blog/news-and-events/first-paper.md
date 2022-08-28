@@ -1,7 +1,7 @@
 ---
 authors:
 - Caroline Gao
-banner: img/upsplash/alessandro-bianchi-unsplash.jpg
+banner: img/banners/alessandro-bianchi-unsplash.jpg
 # Photo by <a href="https://unsplash.com/@ale_s_bianchi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alessandro Bianchi</a> on <a href="https://unsplash.com/s/photos/research?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 categories:
 - Resources for Modellers

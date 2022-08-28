@@ -1,7 +1,7 @@
 ---
 authors:
 - Matthew Hamilton
-banner: img/blog/openminddv.png
+banner: img/banners/openminddv.png
 categories:
 - Resources for Modellers
 date: "2022-08-22T21:29:20+02:00"

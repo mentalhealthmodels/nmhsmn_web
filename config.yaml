@@ -16,7 +16,7 @@ menu:
       weight: 1
     - identifier: menu.aboutus
       name: About us
-      url: /img/upsplash/hadija-saidi-unsplash.jpg #Photo by <a href="https://unsplash.com/@hadijasaidi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hadija Saidi</a> on <a href="https://unsplash.com/s/photos/question?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      url: /img/banners/hadija-saidi-unsplash.jpg #Photo by <a href="https://unsplash.com/@hadijasaidi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hadija Saidi</a> on <a href="https://unsplash.com/s/photos/question?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
       weight: 2
     - identifier: section.whyandwho
       name: Motivation and expertise
@@ -52,7 +52,7 @@ menu:
     #   weight: 7
     - identifier: menu.ourwork
       name: Our work
-      url: /img/upsplash/rohan-makhecha-unsplash.jpg
+      url: /img/banners/rohan-makhecha-unsplash.jpg  #Photo by <a href="https://unsplash.com/@rohanmakhecha?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rohan Makhecha</a> on <a href="https://unsplash.com/s/photos/insight?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
       weight: 3
     - identifier: section.publications
       name: Publications
@@ -84,7 +84,7 @@ menu:
       weight: 2
     - identifier: menu.resources
       name: Resources
-      url: /img/upsplash/marek-levak-unsplash.jpg
+      url: /img/banners/marek-levak-unsplash.jpg #Photo by <a href="https://unsplash.com/@designmesk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marek Levák</a> on <a href="https://unsplash.com/s/photos/tablet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
       weight: 4
     - identifier: section.planners
       name: Resources for Planners
@@ -92,9 +92,9 @@ menu:
       post: 1
       url: ''
       weight: 1
-    - name: How to use models
+    - name: Primers
       parent: section.planners
-      url: /blog/resources/planner-resources/how-and-why/
+      url: /blog/resources/planner-resources/primers/
       weight: 1
     - name: Talks
       parent: section.planners

@@ -1,6 +1,6 @@
 ---
 title: Publications
-banner: img/upsplash/tamara-gak-unsplash.jpg
+banner: img/banners/tamara-gak-unsplash.jpg
 #glassesonbooks - Photo by <a href="https://unsplash.com/@tamara_photography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tamara Gak</a> on <a href="https://unsplash.com/s/photos/publication?utm_source=unsplash&utm_mediu
 # menu:
 #   main:

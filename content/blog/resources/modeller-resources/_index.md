@@ -1,5 +1,8 @@
 ---
 title: Resources for Modellers
+banner: img/banners/sigmund-unsplash.jpg
+# Photo by <a href="https://unsplash.com/@sigmund?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sigmund</a> on <a href="https://unsplash.com/s/photos/empower?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+weight: 2
 # menu:
 #   main:
 #     weight: 40

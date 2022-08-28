@@ -1,7 +1,7 @@
 ---
 authors:
 - Matthew Hamilton
-banner: img/blog/openmindzen.png
+banner: img/banners/openmindzen.png
 categories:
 - Resources for Modellers
 date: "2022-08-22T21:29:20+02:00"

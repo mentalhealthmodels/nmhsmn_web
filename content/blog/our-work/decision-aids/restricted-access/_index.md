@@ -1,6 +1,6 @@
 ---
 title: Restricted access decision aids
-banner: img/upsplash/franck-unsplash.jpg
+banner: img/banners/franck-unsplash.jpg
 # menu:
 #   main:
 #     weight: 40
