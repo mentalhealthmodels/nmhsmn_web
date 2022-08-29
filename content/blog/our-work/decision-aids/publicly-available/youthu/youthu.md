@@ -8,7 +8,7 @@ categories:
 - Resources for Planners
 date: "2022-08-22T21:29:20+02:00"
 tags:
-- Economic Evaluation
+- Open Source Models
 - Utility Mapping
 - Youth Mental Health
 title: youthu - Youth Outcomes To Health Utility
@@ -22,7 +22,7 @@ title: youthu - Youth Outcomes To Health Utility
 
 **Intended users**: Mental health planners and researchers with at least basic skills in using statistical software. Users must have an up to date version of the R statistical software installed on their machine to install and use the youth u R package.
 
-**Who can access it?**: Free to all to use and to derive derivative works from under the terms of the GPL-3 license.
+**Who can access it?**: Free to all to use and to create derivative works from under the terms of the GPL-3 license.
 
 **Documentation / training**: Available at: https://ready4-dev.github.io/youthu/
 

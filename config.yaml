@@ -221,7 +221,7 @@ Research and Education\n        <br>Wacol\n <br>QLD 4076\n
     title: Open code and data
   style: turquoise
   testimonials:
-    enable: yes
+    enable: no
     subtitle: We are a network of modellers and service planners who work together to improve Australian population mental health.
     title: Why we work together
   topbar:

@@ -4,7 +4,7 @@ author: "Matthew Hamilton"
 date: 2022-08-01T21:13:14-05:00
 banner: ["https://ready4-dev.github.io/ready4use/logo.png"]
 categories: ["Resources for Modellers"]
-tags: ["Data Repositories", "Open Access"]
+tags: ["Repositories", "Repositories (Data)"]
 ---
 
 ```{r setup, include=FALSE}
