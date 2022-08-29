@@ -9,20 +9,21 @@ categories:
 - Resources for Planners
 date: "2021-03-12T21:29:20+02:00"
 tags:
+- Suicide Prevention
+- System Dynamics Models
 - Youth Mental Health
-- Suicide
 title: "Reducing youth suicide: systems modelling and simulation to guide targeted investments across the determinants"
 ---
 
-**Peer reviewed**: Yes
+**Peer reviewed**: Yes.
 
-**Authors**: Occhipinti, Jo-An and Skinner, Adam and Iorfino, Frank and Lawson, Kenny and Sturgess, Julie and Burgess, Warren and Davenport, Tracey and Hudson, Danica and Hickie, Ian
+**Authors**: Occhipinti, Jo-An and Skinner, Adam and Iorfino, Frank and Lawson, Kenny and Sturgess, Julie and Burgess, Warren and Davenport, Tracey and Hudson, Danica and Hickie, Ian.
 
-**Publication**: BMC Medicine
+**Publication**: BMC Medicine.
 
-**Year** 2021
+**Year**: 2021
 
-**Available at**: https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-01935-4
+**DOI**: https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-01935-4
 
 **Method**: Using a participatory approach, and informed by a range of national, state, and local datasets, a system dynamics model was developed, tested, and validated for a regional population catchment. The model incorporated defined pathways from social determinants of mental health to psychological distress, mental health care, and suicidal behaviour. Intervention scenarios were investigated to forecast their impact on suicidal behaviour over a 20-year period. 
 

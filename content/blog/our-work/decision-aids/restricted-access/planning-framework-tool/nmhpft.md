@@ -9,7 +9,7 @@ categories:
 date: "2022-08-22T21:29:20+02:00"
 tags:
 - Epidemiology
-- Needs Based Planning Tools
+- Needs Based Planning Models
 title: National Mental Health Service Planning Framework - Planning Support Tool
 ---
 

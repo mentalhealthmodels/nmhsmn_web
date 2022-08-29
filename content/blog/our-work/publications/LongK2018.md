@@ -9,8 +9,8 @@ categories:
 - Resources for Planners
 date: "2017-12-01T21:29:20+02:00"
 tags:
-- Uses of Modelling
 - Types of Models
+- Uses of Modelling
 title: "Simulation modelling in mental health: A systematic review"
 ---
 
@@ -20,9 +20,9 @@ title: "Simulation modelling in mental health: A systematic review"
 
 **Publication**: Journal of Simulation
 
-**Year** 2018
+**Year**: 2018
 
-**Available at**: https://doi.org/10.1057/s41273-017-0062-0
+**DOI**: https://doi.org/10.1057/s41273-017-0062-0
 
 **Method**: A systematic review the use of simulation modelling in mental healthcare. 
 
