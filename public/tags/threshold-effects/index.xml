@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Threshold Effects on National Mental Health Systems Modelling Network</title>
+    <link>/tags/threshold-effects/</link>
+    <description>Recent content in Threshold Effects on National Mental Health Systems Modelling Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jul 2019 21:29:20 +0200</lastBuildDate><atom:link href="/tags/threshold-effects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The impact of reducing psychiatric beds on suicide rates</title>
+      <link>/blog/2019/07/02/atkinsonj2021/</link>
+      <pubDate>Tue, 02 Jul 2019 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2019/07/02/atkinsonj2021/</guid>
+      <description>Peer reviewed: Yes.
+Authors: Atkinson, Jo-An and Page, Andrew and Skinner, Adam and Heffernan, Mark and Prodan, Ante and Hickie, Ian B.
+Publication: Frontiers in Psychiatry.
+Year: 2019
+DOI: https://doi.org/10.3389/fpsyt.2019.00448
+Method: A systems dynamics model was developed for Western Sydney Primary Health Network.
+Message: Study findings suggest that i) not all reductions to psychiatric beds will result in increases in suicide deaths; ii) a threshold appears to exist beyond which cuts are likely to adversely impact suicides; and iii) the threshold can be significantly increased by strengthening community-based mental health services capacity.</description>
+    </item>
+    
+  </channel>
+</rss>

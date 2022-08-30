@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Restricted access decision aids on National Mental Health Systems Modelling Network</title>
+    <link>/blog/our-work/decision-aids/restricted-access/</link>
+    <description>Recent content in Restricted access decision aids on National Mental Health Systems Modelling Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Aug 2022 21:29:20 +0200</lastBuildDate><atom:link href="/blog/our-work/decision-aids/restricted-access/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>National Mental Health Service Planning Framework - Planning Support Tool</title>
+      <link>/blog/2022/08/22/nmhpft/</link>
+      <pubDate>Mon, 22 Aug 2022 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2022/08/22/nmhpft/</guid>
+      <description>Purpose: To estimate need and expected demand for mental health care and the level and mix of mental health services required for a given population.
+Type: Tableau user interface to a needs based planning tool model.
+Release status: Production release (V4.0).
+Intended users: Mental health planners working in licensed organisations (typically State and Territory Government departments, Local Hospital Networks and Primary Health Networks).
+Who can access it?: Intended users in licensed organisations can apply to be trained on using NMHSPF-PST.</description>
+    </item>
+    
+  </channel>
+</rss>

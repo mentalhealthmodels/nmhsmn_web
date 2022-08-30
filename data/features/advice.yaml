@@ -1,5 +1,5 @@
-weight: 6
-name: "Providing advice"
-icon: "fas fa-user"
-url: ""
-description: "How we provide quantitatively supported advice on mental helath policy and service design."
+weight: 1
+name: "Expertise"
+icon: "fas fa-user-check"
+url: "/members/"
+description: "We are a network of Australia's leading experts in mental health systems modelling, service planning and policy."

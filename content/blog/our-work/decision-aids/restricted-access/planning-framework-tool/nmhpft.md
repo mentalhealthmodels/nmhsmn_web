@@ -25,6 +25,8 @@ title: National Mental Health Service Planning Framework - Planning Support Tool
 
 **Documentation / training**: Available at: https://www.aihw.gov.au/nmhspf
 
+**Publications**: [Peer-reviewed](/blog/2020/11/02/whitefordh2020/) 
+
 **Developed / Maintained by**: Queensland Centre for Mental Health Research, University of Queensland and Australian Institute of Health and Welfare.
 
 

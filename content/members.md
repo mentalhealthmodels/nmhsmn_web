@@ -5,7 +5,7 @@ title: Our members
 #     weight: 40
 ---
 
-Our network comprises experienced stakeholders in modelling mental health policy topics from across Australia.
+Our network comprises experts in mental health modelling, service planning and policy from across Australia.
 
 
 - Monash University, Division of Health Economics – Professor Cathy Mihalopoulos, Dr Yong Yi Lee and Dr Long Le

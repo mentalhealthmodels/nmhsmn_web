@@ -1,4 +1,4 @@
-baseurl: https://devcows.github.io/hugo-universal-theme/ # Update
+#baseurl: https://devcows.github.io/hugo-universal-theme/ # Update
 title: National Mental Health Systems Modelling Network
 theme: hugo-universal-theme
 languageCode: en-us
@@ -177,7 +177,7 @@ Research and Education\n        <br>Wacol\n <br>QLD 4076\n
     subtitle: ''
     title: Network Members
   contact_form_ajax: no
-  contact_url: /hugo-universal-theme/contact/
+  contact_url: /contact/
   copyright: Copyright (c) 2022 - 2022, National Mental Health Systems Modelling Network; all rights reserved.
   date_format: January 2, 2006
   default_sharing_image: img/sharing-default.png
@@ -216,7 +216,7 @@ Research and Education\n        <br>Wacol\n <br>QLD 4076\n
     enable: yes
     icon: far fa-file-alt
     link_text: Learn more
-    link_url: '/hugo-universal-theme/blog/resources/modeller-resources/open-code-and-data/'
+    link_url: '/blog/resources/modeller-resources/open-code-and-data/'
     subtitle: We facilitate the sharing of model code and data through open access repositories.
     title: Open code and data
   style: turquoise
@@ -243,3 +243,17 @@ taxonomies:
   author: authors
   category: categories
   tag: tags
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+pygmentsUseClasses: true 
+#pygmentsStyle: "native"
+#pygmentsCodefences: true
+ignoreFiles:
+    - \.Rmd$
+    - _files$
+    - _cache$
+    - \.knit\.md$
+    - \.utf8\.md$

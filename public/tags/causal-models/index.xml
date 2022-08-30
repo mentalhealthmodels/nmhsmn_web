@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Causal Models on National Mental Health Systems Modelling Network</title>
+    <link>/tags/causal-models/</link>
+    <description>Recent content in Causal Models on National Mental Health Systems Modelling Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Jan 2019 21:29:20 +0200</lastBuildDate><atom:link href="/tags/causal-models/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Causal modelling for supporting planning and management of mental health services and systems: a systematic review</title>
+      <link>/blog/2019/01/25/almeda2019/</link>
+      <pubDate>Fri, 25 Jan 2019 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2019/01/25/almeda2019/</guid>
+      <description>Peer reviewed: Yes.
+Authors: Almeda, Nerea and García-Alonso, Carlos R and Salinas-Pérez, José A and Gutiérrez-Colosía, Mencía R and Salvador-Carulla, Luis.
+Publication: International Journal of Environmental Research and Public Health.
+Year: 2019
+DOI: https://doi.org/10.3390/ijerph16030332
+Method: A systematic review the use of causal modelling (a tool for decision-making based on identifying critical variables and their causal relationships) in mental health services and systems.
+Message: The papers included in the review showed very different objectives and subjects of study.</description>
+    </item>
+    
+  </channel>
+</rss>

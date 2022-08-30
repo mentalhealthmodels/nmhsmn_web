@@ -1,6 +1,6 @@
 ---
 authors:
-- Caroline Gao
+- Admin
 banner: img/banners/alessandro-bianchi-unsplash.jpg
 # Photo by <a href="https://unsplash.com/@ale_s_bianchi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alessandro Bianchi</a> on <a href="https://unsplash.com/s/photos/research?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 categories:

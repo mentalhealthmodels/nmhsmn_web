@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources for Modellers on National Mental Health Systems Modelling Network</title>
+    <link>/categories/resources-for-modellers/</link>
+    <description>Recent content in Resources for Modellers on National Mental Health Systems Modelling Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Aug 2022 21:13:14 -0500</lastBuildDate><atom:link href="/categories/resources-for-modellers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Managing data in online open access repositories.</title>
+      <link>/blog/2022/08/28/managing_open_data/</link>
+      <pubDate>Sun, 28 Aug 2022 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2022/08/28/managing_open_data/</guid>
+      <description>Motivation Explanatory text..
+Installation Information about how to install.
+summary(cars)#&amp;gt; speed dist #&amp;gt; Min. : 4.0 Min. : 2.00 #&amp;gt; 1st Qu.:12.0 1st Qu.: 26.00 #&amp;gt; Median :15.0 Median : 36.00 #&amp;gt; Mean :15.4 Mean : 42.98 #&amp;gt; 3rd Qu.:19.0 3rd Qu.: 56.00 #&amp;gt; Max. :25.0 Max. :120.00 fit &amp;lt;- lm(dist ~ speed, data = cars) fit#&amp;gt; #&amp;gt; Call: #&amp;gt; lm(formula = dist ~ speed, data = cars) #&amp;gt; #&amp;gt; Coefficients: #&amp;gt; (Intercept) speed #&amp;gt; -17.</description>
+    </item>
+    
+    <item>
+      <title>Using systems modelling for evidence-informed mental health reform in Australia.</title>
+      <link>/blog/2022/08/27/first-paper/</link>
+      <pubDate>Sat, 27 Aug 2022 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2022/08/27/first-paper/</guid>
+      <description>To introduce the National Mental Health Systems Modelling Network, members pooled their expertise to draft an article about the role of systems modelling in Australian mental health reform processes. The article provides an overview of current and previous mental health reform plans in Australia, identifies and describes different modelling approaches and the types of topics they are particularly well suited to addressing and discusses challenges and opportunities for planners and policymakers relating to the commissioning, development and use of model based tools.</description>
+    </item>
+    
+    <item>
+      <title>Australian Mental Health Systems Models Dataverse</title>
+      <link>/blog/2022/08/22/open-data/</link>
+      <pubDate>Mon, 22 Aug 2022 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2022/08/22/open-data/</guid>
+      <description>To facilitate the sharing of model data by the Australian mental health modelling community, our network curates an open access data repository. The data repository is the Australian Mental Health Systems Models Dataverse.
+If you have data from a mental health modelling project that you would like to share via this repository, check out this tutorial about how to do so.</description>
+    </item>
+    
+    <item>
+      <title>Australian Mental Health Systems Models Zenodo Community</title>
+      <link>/blog/2022/08/22/open-code/</link>
+      <pubDate>Mon, 22 Aug 2022 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2022/08/22/open-code/</guid>
+      <description>To facilitate the sharing of model code by the Australian mental health modelling community, our network curates an open access code repository. The code repository is the Australian Mental Health Systems Models Zenodo Community.
+Linked to this repository is the network&amp;rsquo;s GitHub organisation. Currently our GitHub organisation is just used to host the source code for this website, but over time we aim to use it to share brief code snippets that may not be appropriate for archiving in our Zenodo repository.</description>
+    </item>
+    
+    <item>
+      <title>National Mental Health Service Planning Framework - Planning Support Tool</title>
+      <link>/blog/2022/08/22/nmhpft/</link>
+      <pubDate>Mon, 22 Aug 2022 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2022/08/22/nmhpft/</guid>
+      <description>Purpose: To estimate need and expected demand for mental health care and the level and mix of mental health services required for a given population.
+Type: Tableau user interface to a needs based planning tool model.
+Release status: Production release (V4.0).
+Intended users: Mental health planners working in licensed organisations (typically State and Territory Government departments, Local Hospital Networks and Primary Health Networks).
+Who can access it?: Intended users in licensed organisations can apply to be trained on using NMHSPF-PST.</description>
+    </item>
+    
+    <item>
+      <title>youthu - Youth Outcomes To Health Utility</title>
+      <link>/blog/2022/08/22/youthu/</link>
+      <pubDate>Mon, 22 Aug 2022 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2022/08/22/youthu/</guid>
+      <description>Purpose: To map measures routinely collected in youth mental health services to Quality Adjusted Life Years (QALYs).
+Type: R package
+Release status: Development release. Development releases should be viewed as &amp;ldquo;experimental&amp;rdquo; and have yet to complete all of the verification and validation checks expected of production releases.
+Intended users: Mental health planners and researchers with at least basic skills in using statistical software. Users must have an up to date version of the R statistical software installed on their machine to install and use the youth u R package.</description>
+    </item>
+    
+    <item>
+      <title>Engaging Healthcare Staff and Stakeholders in Healthcare Simulation Modelling for Research Translation: A Systematic Review</title>
+      <link>/blog/2021/11/23/zabellt2021/</link>
+      <pubDate>Tue, 23 Nov 2021 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2021/11/23/zabellt2021/</guid>
+      <description>Peer reviewed: Yes.
+Authors: Zabell, Thea Simone and Long, Katrina M and Scott, Debbie and Hope, Judith and McLoughlin, Ian and Enticott, Joanne.
+Publication: Frontiers in Health Services.
+Year: 2021
+DOI: https://doi.org/10.3389/frhs.2021.644831
+Method: A systematic review on simulation modelling studies with a health outcome which engaged stakeholders in model design.
+Message: There is a large gap in the current literature of formal evaluation of simulation modelling stakeholder engagement, and a lack of consensus about the processes required for effective simulation modelling stakeholder engagement.</description>
+    </item>
+    
+    <item>
+      <title>Federal and state cooperation necessary but not sufficient for effective regional mental health systems: insights from systems modelling and simulation</title>
+      <link>/blog/2021/05/21/occhipintij2021a/</link>
+      <pubDate>Fri, 21 May 2021 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2021/05/21/occhipintij2021a/</guid>
+      <description>Peer reviewed: Yes
+Authors: Occhipinti, Jo-An and Skinner, Adam and Carter, Samantha and Heath, Jacinta and Lawson, Kenny and McGill, Katherine and McClure, Rod and Hickie, Ian B.
+Publication: Scientific Reports.
+Year: 2021
+DOI: https://doi.org/10.1038/s41598-021-90762-x
+Method: A system dynamics model of pathways between psychological distress, the mental health care system, suicidal behaviour and their drivers was developed, tested, and validated for a large, geographically diverse region of New South Wales; the Hunter New England and Central Coast Primary Health Network.</description>
+    </item>
+    
+    <item>
+      <title>Reducing youth suicide: systems modelling and simulation to guide targeted investments across the determinants</title>
+      <link>/blog/2021/03/12/occhipintij2021/</link>
+      <pubDate>Fri, 12 Mar 2021 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2021/03/12/occhipintij2021/</guid>
+      <description>Peer reviewed: Yes.
+Authors: Occhipinti, Jo-An and Skinner, Adam and Iorfino, Frank and Lawson, Kenny and Sturgess, Julie and Burgess, Warren and Davenport, Tracey and Hudson, Danica and Hickie, Ian.
+Publication: BMC Medicine.
+Year: 2021
+DOI: https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-01935-4
+Method: Using a participatory approach, and informed by a range of national, state, and local datasets, a system dynamics model was developed, tested, and validated for a regional population catchment. The model incorporated defined pathways from social determinants of mental health to psychological distress, mental health care, and suicidal behaviour.</description>
+    </item>
+    
+    <item>
+      <title>The science of complex systems is needed to ameliorate the impacts of COVID-19 on mental health</title>
+      <link>/blog/2020/11/25/atkinsonj2020/</link>
+      <pubDate>Wed, 25 Nov 2020 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2020/11/25/atkinsonj2020/</guid>
+      <description>Peer reviewed: Yes.
+Authors: Atkinson, Jo-An and Song, Yun Ju Christine and Merikangas, Kathleen R and Skinner, Adam and Prodan, Ante and Iorfino, Frank and Freebairn, Louise and Rose, Danya and Ho, Nicholas and Crouse, Jacob and Zipunnikov, Vadim and Hickie, Ian.
+Publication: Frontiers in Psychiatry.
+Year: 2020
+DOI: https://doi.org/10.3389/fpsyt.2020.606035
+Method: Editorial.
+Message: Applications of systems modeling in mental health research and practice have already demonstrated value in providing improved decision support capability and a better understanding of the different ways even “evidence-based” interventions can play out in diverse systems and settings.</description>
+    </item>
+    
+    <item>
+      <title>The National Mental Health Service Planning Framework: Where has it come from and what is its future?</title>
+      <link>/blog/2020/11/02/whitefordh2020/</link>
+      <pubDate>Mon, 02 Nov 2020 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2020/11/02/whitefordh2020/</guid>
+      <description>Peer reviewed: Yes.
+Authors: Whiteford, Harvey and Diminic, Sandra.
+Publication: Australian and New Zealand Journal of Psychiatry
+Year: 2020
+DOI: https://doi.org/10.1177/0004867420963723
+Method: Descriptive account of the background and application of the National Mental Health Service Planning Framework.
+Message: Decentralised regional planning requires the application of a planning framework that sets targets for the same level of care for all Australians with equivalent needs, accounting for the specific characteristics and needs of local populations and the existing services and barriers to care.</description>
+    </item>
+    
+    <item>
+      <title>Systems modelling and simulation to inform strategic decision making for suicide prevention in rural New South Wales (Australia)</title>
+      <link>/blog/2020/06/17/atkinsonj2020b/</link>
+      <pubDate>Wed, 17 Jun 2020 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2020/06/17/atkinsonj2020b/</guid>
+      <description>Peer reviewed: Yes.
+Authors: Atkinson, Jo-An and Skinner, Adam and Hackney, Sue and Mason, Linda and Heffernan, Mark and Currier, Dianne and King, Kylie and Pirkis, Jane.
+Publication: Australian and New Zealand Journal of Psychiatry.
+Year 2020
+DOI: https://doi.org/10.1177/0004867420932639
+Method: A system dynamics model for the rural and remote population catchment of Western New South Wales was developed. The model was based on defined pathways to mental health care and suicidal behaviour and reproduced historic trends in the incidence of attempted suicide (self-harm hospitalisations) and suicide deaths in the region.</description>
+    </item>
+    
+    <item>
+      <title>Beyond prevention: which interventions will flatten the mental health and suicide curve post COVID-19.</title>
+      <link>/blog/2020/05/14/covid-sky/</link>
+      <pubDate>Thu, 14 May 2020 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2020/05/14/covid-sky/</guid>
+      <description>Year: 2020
+Type: Webinar
+Presenters: Hickie, Ian and Occhipinti, Jo-An and Sturgess, Julie and Iorfino, Frank and Lawson, Kenny and Hamilton, Matthew
+Institution: Brain and Mind Centre, University of Sydney
+Topic: An overview of a number of modelling projects to help identify appropriate policy responses to the anticipated mental health impacts of the COVID-19 pandemic.
+Duration: 1 hour, 12 minutes</description>
+    </item>
+    
+    <item>
+      <title>Experts’ perceptions on the use of visual analytics for complex mental healthcare planning: an exploratory study</title>
+      <link>/blog/2020/05/07/walshe2020/</link>
+      <pubDate>Thu, 07 May 2020 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2020/05/07/walshe2020/</guid>
+      <description>Peer reviewed: Yes.
+Authors: Walsh, Erin I and Chung, Younjin and Cherbuin, Nicolas and Salvador-Carulla, Luis.
+Publication: BMC Medical Research Methodology
+Year: 2020
+DOI: https://doi.org/10.1186/s12874-020-00986-0
+Method: Online survey of an international pool of policy-makers, health agency directors, and researchers with extensive and direct experience of using visual analytics tools for complex mental healthcare systems planning.
+Message: Preliminary findings indicated that, despite a clear need to extract information from highly complex data, experts tend to utilise visualisations that are most familiar to them, widely understood, and not necessarily the most appropriate.</description>
+    </item>
+    
+    <item>
+      <title>An ecosystems approach to mental health services research</title>
+      <link>/blog/2020/03/24/furstm2021/</link>
+      <pubDate>Tue, 24 Mar 2020 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2020/03/24/furstm2021/</guid>
+      <description>Peer reviewed: Yes
+Authors: Furst, Mary Anne and Bagheri, Nasser and Salvador-Carulla, Luis}
+Publication: BJPsych International
+Year: 2020
+DOI: https://doi.org/10.1192/bji.2020.24
+Method: Descriptive summary of mental health ecosystems methods.
+Message: Mental health ecosystems research is an emerging discipline which takes a whole-systems approach to mental healthcare, facilitating analysis of the complex environment and context of mental health systems, and translation of this knowledge into policy and practice. Evidence from the local context is needed in the analysis of complex interventions and of geographic variations in the outcomes of care.</description>
+    </item>
+    
+    <item>
+      <title>Factors affecting the implementation of simulation modelling in healthcare: A longitudinal case study evaluation</title>
+      <link>/blog/2019/08/20/longk2020/</link>
+      <pubDate>Tue, 20 Aug 2019 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2019/08/20/longk2020/</guid>
+      <description>Peer reviewed: Yes
+Authors: Long, Katrina M and McDermott, F and Meadows, Graham N
+Publication: Journal of the Operational Research Society
+Year: 2020
+DOI: https://doi.org/10.1080/01605682.2019.1650624
+Method: A qualitative, longitudinal case study approach, grounded in Pragmatism, complexity theory, and the critical incident approach exploring implementation of simulation modelling in healthcare.
+Message: Twenty-three critical incidents were identified, including changes in government policy and funding, organisational context, intervention activities, project management, and staffing. The analysis revealed a complex adaptive system, where the role of specific implementation factors changed over time, and through interaction with each other.</description>
+    </item>
+    
+    <item>
+      <title>The impact of reducing psychiatric beds on suicide rates</title>
+      <link>/blog/2019/07/02/atkinsonj2021/</link>
+      <pubDate>Tue, 02 Jul 2019 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2019/07/02/atkinsonj2021/</guid>
+      <description>Peer reviewed: Yes.
+Authors: Atkinson, Jo-An and Page, Andrew and Skinner, Adam and Heffernan, Mark and Prodan, Ante and Hickie, Ian B.
+Publication: Frontiers in Psychiatry.
+Year: 2019
+DOI: https://doi.org/10.3389/fpsyt.2019.00448
+Method: A systems dynamics model was developed for Western Sydney Primary Health Network.
+Message: Study findings suggest that i) not all reductions to psychiatric beds will result in increases in suicide deaths; ii) a threshold appears to exist beyond which cuts are likely to adversely impact suicides; and iii) the threshold can be significantly increased by strengthening community-based mental health services capacity.</description>
+    </item>
+    
+    <item>
+      <title>Causal modelling for supporting planning and management of mental health services and systems: a systematic review</title>
+      <link>/blog/2019/01/25/almeda2019/</link>
+      <pubDate>Fri, 25 Jan 2019 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2019/01/25/almeda2019/</guid>
+      <description>Peer reviewed: Yes.
+Authors: Almeda, Nerea and García-Alonso, Carlos R and Salinas-Pérez, José A and Gutiérrez-Colosía, Mencía R and Salvador-Carulla, Luis.
+Publication: International Journal of Environmental Research and Public Health.
+Year: 2019
+DOI: https://doi.org/10.3390/ijerph16030332
+Method: A systematic review the use of causal modelling (a tool for decision-making based on identifying critical variables and their causal relationships) in mental health services and systems.
+Message: The papers included in the review showed very different objectives and subjects of study.</description>
+    </item>
+    
+    <item>
+      <title>Regional planning for meaningful person-centred care in mental health: context is the signal not the noise</title>
+      <link>/blog/2017/12/01/rockd2020/</link>
+      <pubDate>Fri, 01 Dec 2017 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2017/12/01/rockd2020/</guid>
+      <description>Peer reviewed: Yes.
+Authors: Rock, D and Cross, SP
+Publication: Epidemiology and Psychiatric Sciences
+Year: 2020
+DOI: doi:10.1017/S2045796020000153
+Method: Editorial.
+Message: To ensure planned and provided care is most appropriate to more than merely the ‘average’ person requires a combination of (1) relevant, local and sophisticated data planning, collection and analysis systems, (2) more detailed person-centred service planning and delivery and (3) system accountability through co-design and transparent public reporting of health system performance in a manner that is understandable, relevant, and locally applicable.</description>
+    </item>
+    
+    <item>
+      <title>Simulation modelling in mental health: A systematic review</title>
+      <link>/blog/2017/12/01/longk2018/</link>
+      <pubDate>Fri, 01 Dec 2017 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2017/12/01/longk2018/</guid>
+      <description>Peer reviewed: Yes
+Authors: Long, Katrina M and Meadows, Graham N
+Publication: Journal of Simulation
+Year: 2018
+DOI: https://doi.org/10.1057/s41273-017-0062-0
+Method: A systematic review the use of simulation modelling in mental healthcare.
+Message: There were widespread and innovative applications of simulation in the areas of medical decision making and epidemiology, with health system planning and optimisation relatively underrepresented. Markov modelling was the preferred method across area and illness. However, the literature is currently undermined by a lack of coherence and evidence of implementation, and there is an ongoing issue of accessing unpublished models from healthcare and government organisations.</description>
+    </item>
+    
+    <item>
+      <title>Integrating clinicians, knowledge and data: expert-based cooperative analysis in healthcare decision support</title>
+      <link>/blog/2010/09/30/gilbertk2010/</link>
+      <pubDate>Thu, 30 Sep 2010 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2010/09/30/gilbertk2010/</guid>
+      <description>Peer reviewed: Yes
+Authors: Gibert, Karina and García-Alonso, Carlos and Salvador-Carulla, Luis
+Publication: Health research policy and systems
+Year: 2010
+DOI: https://doi.org/10.1186/1478-4505-8-28
+Method: Descriptive introduction of a new hybrid methodology Expert-based Cooperative Analysis (EbCA), which incorporates explicit prior expert knowledge in data analysis methods, and elicits implicit or tacit expert knowledge to improve decision support in healthcare systems. EbCA was compared to classical procedures using qualitative explicit prior knowledge in two case examples: 1) Bench-marking of small mental health areas based on technical efficiency estimated by EbCA-Data Envelopment Analysis (EbCA-DEA), and 2) Case-mix of schizophrenia based on functional dependency using Clustering Based on Rules (ClBR).</description>
+    </item>
+    
+    <item>
+      <title>Resources for mental health: scarcity, inequity, and inefficiency</title>
+      <link>/blog/2007/12/01/saxenas2007/</link>
+      <pubDate>Sat, 01 Dec 2007 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2007/12/01/saxenas2007/</guid>
+      <description>Peer reviewed: Yes.
+Authors: Saxena, Shekhar and Thornicroft, Graham and Knapp, Martin and Whiteford, Harvey.
+Publication: The Lancet.
+Year: 2007
+DOI: https://doi.org/10.1016/S0140-6736(07)61239-2
+Method: Narrative review and discussion of the international availability of resources for mental health, including policy and infrastructure within countries, mental health services, community resources, human resources, and funding.
+Message: Government spending on mental health in most of the relevant countries is far lower than is needed, based on the proportionate burden of mental disorders and the availability of cost-effective and affordable interventions.</description>
+    </item>
+    
+  </channel>
+</rss>

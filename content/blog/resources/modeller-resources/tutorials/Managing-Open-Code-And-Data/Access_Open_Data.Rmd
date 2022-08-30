@@ -1,0 +1,61 @@
+---
+title: "Access data in the Australian Mental Health Systems Models Dataverse repository."
+authors: 
+- Matthew Hamilton
+date: 2022-08-28T21:13:14-05:00
+banner: img/banners/openminddv.png
+categories: 
+- Resources for Modellers
+- Tutorials
+tags: 
+- R
+- Repositories
+- Repositories (Data)
+output: hugodown::md_document
+autonumbering: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# 1. Objectives
+
+In this tutorial we will:
+
+1. Briefly describe the concepts relating to the Australian Mental Health Systems Models Dataverse repository; and
+
+1. Outline the steps required to search for and download files contained in repository datasets using two alternative approaches;
+    - Using a web based interface (very simple, suitable for low volume requests where reproducibility is not required); and
+    - Using R commands (an approach that requires a little more up-front learning, but which can be used in automated and reproducible workflows)
+
+
+# 2. Concepts
+
+Information about how to install.
+
+```{r cars}
+summary(cars)
+
+fit <- lm(dist ~ speed, data = cars)
+```
+
+
+
+```{r}
+fit
+```
+
+# Worked example
+
+Some simple code to demonstrate how to use it.
+
+```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
+par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
+  col = c('#0292D8', '#F7EA39', '#C4B632'),
+  init.angle = -50, border = NA
+)
+```

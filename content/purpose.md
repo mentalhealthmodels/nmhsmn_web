@@ -9,10 +9,10 @@ The National Mental Health Systems Modelling Network aims to improve population 
 
 The National Mental Health Systems Modelling Network will do this by:
 
-- Creating a national network to [identify opportunities for collaboration](/hugo-universal-theme/blog/resources/planner-resources/) and [data sharing](/hugo-universal-theme/blog/resources/modeller-resources/open-code-and-data/) in mental health systems modelling;
+- Creating a national network to [identify opportunities for collaboration](/blog/resources/planner-resources/) and [data sharing](/blog/resources/modeller-resources/open-code-and-data/) in mental health systems modelling;
 
-- Providing a central national reference point for [expert advice](/hugo-universal-theme/members/) and [best practice in evidence-based modelling](/hugo-universal-theme/blog/resources/modeller-resources/) for mental health policy and services;
+- Providing a central national reference point for [expert advice](/members/) and [best practice in evidence-based modelling](/blog/resources/modeller-resources/) for mental health policy and services;
 
-- Providing scientific peer review and recommendations to relevant parties that could be provided as [tools to assist regional mental health planning](/hugo-universal-theme/blog/our-work/decision-aids/); and
+- Providing scientific peer review and recommendations to relevant parties that could be provided as [tools to assist regional mental health planning](/blog/our-work/decision-aids/); and
 
-- Supporting implementation of [evidence-based mental health planning](/hugo-universal-theme/categories/publications-mental-health-policy/) on-the-ground.
+- Supporting implementation of [evidence-based mental health planning](/categories/publications-mental-health-policy/) on-the-ground.

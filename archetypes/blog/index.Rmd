@@ -1,0 +1,6 @@
+---
+site: blogdown:::blogdown_site
+output: hugodown::md_document
+---
+
+<!-- This file is for hugodown only. Please do not edit it. -->

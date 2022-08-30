@@ -26,4 +26,6 @@ title: youthu - Youth Outcomes To Health Utility
 
 **Documentation / training**: Available at: https://ready4-dev.github.io/youthu/
 
+**Publications**: [Preprint](https://www.medrxiv.org/content/10.1101/2021.07.07.21260129v2.full) 
+
 **Developed / Maintained by**: Orygen.

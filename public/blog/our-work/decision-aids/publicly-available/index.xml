@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publicly available decision aids on National Mental Health Systems Modelling Network</title>
+    <link>/blog/our-work/decision-aids/publicly-available/</link>
+    <description>Recent content in Publicly available decision aids on National Mental Health Systems Modelling Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Aug 2022 21:29:20 +0200</lastBuildDate><atom:link href="/blog/our-work/decision-aids/publicly-available/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>youthu - Youth Outcomes To Health Utility</title>
+      <link>/blog/2022/08/22/youthu/</link>
+      <pubDate>Mon, 22 Aug 2022 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2022/08/22/youthu/</guid>
+      <description>Purpose: To map measures routinely collected in youth mental health services to Quality Adjusted Life Years (QALYs).
+Type: R package
+Release status: Development release. Development releases should be viewed as &amp;ldquo;experimental&amp;rdquo; and have yet to complete all of the verification and validation checks expected of production releases.
+Intended users: Mental health planners and researchers with at least basic skills in using statistical software. Users must have an up to date version of the R statistical software installed on their machine to install and use the youth u R package.</description>
+    </item>
+    
+  </channel>
+</rss>

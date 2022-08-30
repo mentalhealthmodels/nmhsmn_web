@@ -1,6 +1,6 @@
 ---
 authors:
-- Katrina Long
+- Admin
 banner: img/banners/sydneyCOVID2020.png
 categories:
 - Resources for Modellers

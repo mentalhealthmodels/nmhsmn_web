@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Efficiency on National Mental Health Systems Modelling Network</title>
+    <link>/tags/technical-efficiency/</link>
+    <description>Recent content in Technical Efficiency on National Mental Health Systems Modelling Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Sep 2010 21:29:20 +0200</lastBuildDate><atom:link href="/tags/technical-efficiency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Integrating clinicians, knowledge and data: expert-based cooperative analysis in healthcare decision support</title>
+      <link>/blog/2010/09/30/gilbertk2010/</link>
+      <pubDate>Thu, 30 Sep 2010 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2010/09/30/gilbertk2010/</guid>
+      <description>Peer reviewed: Yes
+Authors: Gibert, Karina and García-Alonso, Carlos and Salvador-Carulla, Luis
+Publication: Health research policy and systems
+Year: 2010
+DOI: https://doi.org/10.1186/1478-4505-8-28
+Method: Descriptive introduction of a new hybrid methodology Expert-based Cooperative Analysis (EbCA), which incorporates explicit prior expert knowledge in data analysis methods, and elicits implicit or tacit expert knowledge to improve decision support in healthcare systems. EbCA was compared to classical procedures using qualitative explicit prior knowledge in two case examples: 1) Bench-marking of small mental health areas based on technical efficiency estimated by EbCA-Data Envelopment Analysis (EbCA-DEA), and 2) Case-mix of schizophrenia based on functional dependency using Clustering Based on Rules (ClBR).</description>
+    </item>
+    
+  </channel>
+</rss>

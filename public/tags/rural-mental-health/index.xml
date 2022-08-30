@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rural Mental Health on National Mental Health Systems Modelling Network</title>
+    <link>/tags/rural-mental-health/</link>
+    <description>Recent content in Rural Mental Health on National Mental Health Systems Modelling Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 21:29:20 +0200</lastBuildDate><atom:link href="/tags/rural-mental-health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Systems modelling and simulation to inform strategic decision making for suicide prevention in rural New South Wales (Australia)</title>
+      <link>/blog/2020/06/17/atkinsonj2020b/</link>
+      <pubDate>Wed, 17 Jun 2020 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2020/06/17/atkinsonj2020b/</guid>
+      <description>Peer reviewed: Yes.
+Authors: Atkinson, Jo-An and Skinner, Adam and Hackney, Sue and Mason, Linda and Heffernan, Mark and Currier, Dianne and King, Kylie and Pirkis, Jane.
+Publication: Australian and New Zealand Journal of Psychiatry.
+Year 2020
+DOI: https://doi.org/10.1177/0004867420932639
+Method: A system dynamics model for the rural and remote population catchment of Western New South Wales was developed. The model was based on defined pathways to mental health care and suicidal behaviour and reproduced historic trends in the incidence of attempted suicide (self-harm hospitalisations) and suicide deaths in the region.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Repositories (Data) on National Mental Health Systems Modelling Network</title>
+    <link>/tags/repositories-data/</link>
+    <description>Recent content in Repositories (Data) on National Mental Health Systems Modelling Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Aug 2022 21:13:14 -0500</lastBuildDate><atom:link href="/tags/repositories-data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Managing data in online open access repositories.</title>
+      <link>/blog/2022/08/28/managing_open_data/</link>
+      <pubDate>Sun, 28 Aug 2022 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2022/08/28/managing_open_data/</guid>
+      <description>Motivation Explanatory text..
+Installation Information about how to install.
+summary(cars)#&amp;gt; speed dist #&amp;gt; Min. : 4.0 Min. : 2.00 #&amp;gt; 1st Qu.:12.0 1st Qu.: 26.00 #&amp;gt; Median :15.0 Median : 36.00 #&amp;gt; Mean :15.4 Mean : 42.98 #&amp;gt; 3rd Qu.:19.0 3rd Qu.: 56.00 #&amp;gt; Max. :25.0 Max. :120.00 fit &amp;lt;- lm(dist ~ speed, data = cars) fit#&amp;gt; #&amp;gt; Call: #&amp;gt; lm(formula = dist ~ speed, data = cars) #&amp;gt; #&amp;gt; Coefficients: #&amp;gt; (Intercept) speed #&amp;gt; -17.</description>
+    </item>
+    
+    <item>
+      <title>Australian Mental Health Systems Models Dataverse</title>
+      <link>/blog/2022/08/22/open-data/</link>
+      <pubDate>Mon, 22 Aug 2022 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2022/08/22/open-data/</guid>
+      <description>To facilitate the sharing of model data by the Australian mental health modelling community, our network curates an open access data repository. The data repository is the Australian Mental Health Systems Models Dataverse.
+If you have data from a mental health modelling project that you would like to share via this repository, check out this tutorial about how to do so.</description>
+    </item>
+    
+  </channel>
+</rss>

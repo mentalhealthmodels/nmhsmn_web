@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Needs Based Planning Models on National Mental Health Systems Modelling Network</title>
+    <link>/tags/needs-based-planning-models/</link>
+    <description>Recent content in Needs Based Planning Models on National Mental Health Systems Modelling Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Aug 2022 21:29:20 +0200</lastBuildDate><atom:link href="/tags/needs-based-planning-models/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>National Mental Health Service Planning Framework - Planning Support Tool</title>
+      <link>/blog/2022/08/22/nmhpft/</link>
+      <pubDate>Mon, 22 Aug 2022 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2022/08/22/nmhpft/</guid>
+      <description>Purpose: To estimate need and expected demand for mental health care and the level and mix of mental health services required for a given population.
+Type: Tableau user interface to a needs based planning tool model.
+Release status: Production release (V4.0).
+Intended users: Mental health planners working in licensed organisations (typically State and Territory Government departments, Local Hospital Networks and Primary Health Networks).
+Who can access it?: Intended users in licensed organisations can apply to be trained on using NMHSPF-PST.</description>
+    </item>
+    
+    <item>
+      <title>The National Mental Health Service Planning Framework: Where has it come from and what is its future?</title>
+      <link>/blog/2020/11/02/whitefordh2020/</link>
+      <pubDate>Mon, 02 Nov 2020 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2020/11/02/whitefordh2020/</guid>
+      <description>Peer reviewed: Yes.
+Authors: Whiteford, Harvey and Diminic, Sandra.
+Publication: Australian and New Zealand Journal of Psychiatry
+Year: 2020
+DOI: https://doi.org/10.1177/0004867420963723
+Method: Descriptive account of the background and application of the National Mental Health Service Planning Framework.
+Message: Decentralised regional planning requires the application of a planning framework that sets targets for the same level of care for all Australians with equivalent needs, accounting for the specific characteristics and needs of local populations and the existing services and barriers to care.</description>
+    </item>
+    
+  </channel>
+</rss>
