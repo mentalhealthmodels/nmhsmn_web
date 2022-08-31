@@ -8,6 +8,8 @@
     <loc>/blog/resources/planner-resources/</loc>
     <lastmod>2020-05-14T21:29:20+02:00</lastmod>
   </url><url>
+    <loc>/blog/1/01/01/motivation/</loc>
+  </url><url>
     <loc>/blog/resources/planner-resources/primers/</loc>
   </url><url>
     <loc>/blog/resources/</loc>
@@ -19,6 +21,9 @@
     <loc>/blog/resources/planner-resources/talks/</loc>
     <lastmod>2020-05-14T21:29:20+02:00</lastmod>
   </url><url>
+    <loc>/blog/2022/08/28/access_open_data/</loc>
+    <lastmod>2022-08-28T21:13:14-05:00</lastmod>
+  </url><url>
     <loc>/blog/news-and-events/</loc>
     <lastmod>2022-08-27T21:29:20+02:00</lastmod>
   </url><url>
@@ -28,13 +33,16 @@
     <loc>/categories/</loc>
     <lastmod>2022-08-28T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/blog/2022/08/28/managing_open_data/</loc>
+    <loc>/blog/resources/modeller-resources/tutorials/managing-open-code-and-data/</loc>
     <lastmod>2022-08-28T21:13:14-05:00</lastmod>
   </url><url>
     <loc>/authors/matthew-hamilton/</loc>
     <lastmod>2022-08-28T21:13:14-05:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2022-08-28T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>/tags/r/</loc>
     <lastmod>2022-08-28T21:13:14-05:00</lastmod>
   </url><url>
     <loc>/tags/repositories/</loc>
@@ -52,10 +60,13 @@
     <loc>/tags/</loc>
     <lastmod>2022-08-28T21:13:14-05:00</lastmod>
   </url><url>
+    <loc>/categories/tutorials/</loc>
+    <lastmod>2022-08-28T21:13:14-05:00</lastmod>
+  </url><url>
     <loc>/blog/resources/modeller-resources/tutorials/</loc>
     <lastmod>2022-08-28T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/authors/caroline-gao/</loc>
+    <loc>/authors/admin/</loc>
     <lastmod>2022-08-27T21:29:20+02:00</lastmod>
   </url><url>
     <loc>/categories/resources-for-planners/</loc>
@@ -69,9 +80,6 @@
   </url><url>
     <loc>/blog/2022/08/27/first-paper/</loc>
     <lastmod>2022-08-27T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2022-08-22T21:29:20+02:00</lastmod>
   </url><url>
     <loc>/blog/2022/08/22/open-data/</loc>
     <lastmod>2022-08-22T21:29:20+02:00</lastmod>
@@ -170,9 +178,6 @@
     <lastmod>2020-06-17T21:29:20+02:00</lastmod>
   </url><url>
     <loc>/blog/2020/05/14/covid-sky/</loc>
-    <lastmod>2020-05-14T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>/authors/katrina-long/</loc>
     <lastmod>2020-05-14T21:29:20+02:00</lastmod>
   </url><url>
     <loc>/tags/data-visualisation/</loc>
