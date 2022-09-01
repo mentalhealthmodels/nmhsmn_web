@@ -20,7 +20,7 @@ title: youthu - Youth Outcomes To Health Utility
 
 **Release status**: Development release. Development releases should be viewed as "experimental" and have yet to complete all of the verification and validation checks expected of production releases.
 
-**Intended users**: Mental health planners and researchers with at least basic skills in using statistical software. Users must have an up to date version of the R statistical software installed on their machine to install and use the youth u R package.
+**Intended users**: Mental health planners and researchers with at least basic skills in using statistical software. Users must have an up to date version of the R statistical software installed on their machine to install and use the youthu R package.
 
 **Who can access it?**: Free to all to use and to create derivative works from under the terms of the GPL-3 license.
 
