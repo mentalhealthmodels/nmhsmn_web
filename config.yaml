@@ -133,7 +133,7 @@ menu:
   topbar:
     - name: Phone # We can remove
       pre: <i class='fas fa-2x fa-phone'></i>
-      url: tel:+12 34 567 89 01 # Update if using
+      url: tel:+61 7 3271 8660 # Update if using
       weight: 1
     - name: GitHub
       pre: <i class='fab fa-2x fa-github'></i>
@@ -152,7 +152,7 @@ menu:
       url: mailto:info@qcmhr.uq.edu.au # Need to update
       weight: 5
 params:
-  about_us: <p>We are a network of academics and service planners who build and use models of mental health systems. We collaborate to improve the quality, usefulness and impact of these models.</p>
+  about_us: <p>We are a network of academics, service planners and policy professionals who build and use models of mental health systems. We collaborate to improve the quality, usefulness and impact of these models.</p>
   address: "<p class=\"text-uppercase\"><strong>National Mental Health Systems Modelling Network.</strong>\n        <br>Queensland Centre for Mental Health Research\n        <br>Level 3, Dawson House\n        <br>The Park Centre for Mental Health Treatment,
 Research and Education\n        <br>Wacol\n <br>QLD 4076\n
     \       <br>\n        <strong>Australia</strong>\n      </p>\n      "
