@@ -10,11 +10,11 @@ Our network comprises experts in mental health modelling, service planning and p
 
 - Monash University, Division of Health Economics – Professor Cathy Mihalopoulos, Dr Yong Yi Lee and Dr Long Le
 
-- Orygen – Professor Pat McGorry, Matthew Hamilton and Dr Caroline Gao
+- Orygen – Professor Patrick McGorry, Matthew Hamilton and Dr Caroline Gao
 
-- The Queensland Centre for Mental Health Research (QCMHR) – Professor Harvey Whiteford, Dr Sandra Diminic and Dr Zoe Rutherford
+- The Queensland Centre for Mental Health Research (QCMHR) – Professor Harvey Whiteford and Dr Sandra Diminic
 
-- Southern Synergy – Dr Joanne Enticott, Dr Katrina Long and Professor Graham Meadows
+- Southern Synergy – Professor Graham Meadows, Dr Joanne Enticott and Dr Katrina Long 
 
 - University of Canberra – Professor Luis Salvador-Carulla and Dr Nasser Bagheri
 
