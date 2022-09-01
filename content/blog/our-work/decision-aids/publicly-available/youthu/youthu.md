@@ -16,7 +16,7 @@ title: youthu - Youth Outcomes To Health Utility
 
 **Purpose**: To map measures routinely collected in youth mental health services to Quality Adjusted Life Years (QALYs).
 
-**Type**: R package
+**Type**: R package.
 
 **Release status**: Development release. Development releases should be viewed as "experimental" and have yet to complete all of the verification and validation checks expected of production releases.
 

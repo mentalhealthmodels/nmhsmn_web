@@ -17,7 +17,7 @@ title: "Beyond prevention: which interventions will flatten the mental health an
 
 **Type**: Webinar
 
-**Presenters**: Hickie, Ian and Occhipinti, Jo-An and Sturgess, Julie and Iorfino, Frank and Lawson, Kenny and Hamilton, Matthew
+**Presenters**: Hickie, Ian and Occhipinti, Jo-An and Sturgess, Julie and Iorfino, Frank and Lawson, Kenny and Hamilton, Matthew.
 
 **Institution**: Brain and Mind Centre, University of Sydney
 

@@ -15,7 +15,7 @@ title: National Mental Health Service Planning Framework - Planning Support Tool
 
 **Purpose**: To estimate need and expected demand for mental health care and the level and mix of mental health services required for a given population. 
 
-**Type**: Tableau user interface to a needs based planning tool model.
+**Type**: Tableau user interface to a needs based planning model.
 
 **Release status**: Production release (V4.0).
 

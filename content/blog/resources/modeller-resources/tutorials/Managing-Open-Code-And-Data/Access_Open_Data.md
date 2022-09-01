@@ -13,7 +13,7 @@ tags:
 - Repositories (Data)
 weight: 3
 output: hugodown::md_document
-rmd_hash: 4f44eadc11008ef6
+rmd_hash: 82ac4419dcda33af
 ---
 
 # 1. Objectives
@@ -22,32 +22,32 @@ On completion of this tutorial you should be able to:
 
 -   Understand basic concepts relating to the Australian Mental Health Systems Models Dataverse Collection; and
 
--   Have the ability to search for and download files contained in Australian Mental Health Systems Models Dataverse Collection Linked Dataverse Datasets using two alternative approaches;
+-   Have the ability to search for, download and ingest files contained in Dataverse Datasets that are linked to by the Australian Mental Health Systems Models Dataverse Collection using two alternative approaches;
 
     -   Using a web based interface; and
-    -   Using R commands
+    -   Using R commands.
 
 # 2. Prerequisites
 
-You can complete most of this tutorial without any specialist skills or software other than a web-browser connected to the Internet. However, if you wish to try running the R code for finding and downloading files described in the last part of the tutorial, then you must have R (and ideally RStudio as well) installed on your machine. Instructions for how to install this software are available here: <https://rstudio-education.github.io/hopr/starting.html>
+You can complete most of this tutorial without any specialist skills or software other than having a web-browser connected to the Internet. However, if you wish to try running the R code for finding and downloading files described in the last part of the tutorial, then you must have R (and ideally RStudio as well) installed on your machine. Instructions for how to install this software are available at <https://rstudio-education.github.io/hopr/starting.html> .
 
 # 3. Concepts
 
-Before searching for or retrieving data from the Australian Mental Health Systems Models Dataverse, the following concepts are useful to understand:
+Before searching for or retrieving data from the Australian Mental Health Systems Models Dataverse Collection, the following concepts are useful to understand:
 
 -   The **Dataverse Project** is "an open source web application to share, preserve, cite, explore, and analyze research data." It is developed at Harvard's Institute for Quantitative Social Science (IQSS). More information about the project is available on the [Dataverse Project's website](https://dataverse.org).
 
--   There are many **Dataverse installations** around the world (85 at the time of writing this tutorial). Each installation is an instance of an institution installing the Dataverse Project's software on its own servers to create and manage online data repositories. At the time of writing there is one Australian Dataverse installation, the [Australian Data Archive](https://dataverse.ada.edu.au).
+-   There are many **Dataverse Installations** around the world (85 at the time of writing this tutorial). Each Dataverse Installation is an instance of an organisation installing the Dataverse Project's software on its own servers to create and manage online data repositories. At the time of writing there is one Australian Dataverse Installation listed on the Dataverse Project's website, which is the [Australian Data Archive](https://dataverse.ada.edu.au).
 
--   The **Harvard Dataverse** is a Dataverse installation that is managed by Harvard University, that is open to researchers from any discipline from anywhere in the world. More details are available from [its website](https://dataverse.harvard.edu).
+-   The **Harvard Dataverse** is a Dataverse Installation that is managed by Harvard University, that is open to researchers from all disciplines from anywhere in the world. More details are available from [its website](https://dataverse.harvard.edu).
 
--   A **Dataverse Collection** (frequently and confusingly also referred to as simply a "Dataverse") is a part of a Dataverse installation that a user can set up to host multiple "Dataverse Datasets" (see next bullet point). Dataverse Collections typically share common attributes (for example, are in the same topic area or produced by the same group(s) of researchers) and can be branded to a limited degree. Dataverse Collections will also contain descriptive metadata about the purpose and ownership of the collection.
+-   A **Dataverse Collection** (frequently and confusingly also referred to as simply a "Dataverse") is a part of a Dataverse Installation that a user can set up to host multiple "Dataverse Datasets" (see next bullet point). Dataverse Collections typically share common attributes (for example, are in the same topic area or produced by the same group(s) of researchers) and can be branded to a limited degree. Dataverse Collections will also contain descriptive metadata about the purpose and ownership of the collection.
 
 -   A **Dataverse Dataset** is a uniquely identified collection of files (some of which, again confusingly, can be tabular data files of the type that researchers typically refer to as "datasets") within a **Dataverse Collection**. Each Dataverse Dataset will have a name, a Digital Object Identifier, a version number, citation information and details of the licensing/terms of use that apply to its contents.
 
--   A **Linked Dataverse Dataset** is a Dataverse Dataset that appears in a Dataverse Collection's list of contents without actually being in that Dataverse collection (it is hosted in another Dataverse Collection and is potentially owned and controlled by another user).
+-   A **Linked Dataverse Dataset** is a Dataverse Dataset that appears in a Dataverse Collection's list of contents without actually being in that Dataverse Collection (it is hosted in another Dataverse Collection and is potentially owned and controlled by another user).
 
--   The **Australian Mental Health Systems Models Dataverse Collection** (which we will refer to as "our Dataverse Collection") is a Dataverse Collection of Linked Dataverse Datasets within the Harvard Dataverse. We established our Dataverse Collectionin the Harvard Dataverse because of the robustness and flexibility that this service provides. As it is a collection of Linked Dataverse Datasets, modelling groups can use our Dataverse Collection as an additional promotion / distribution channel to share Dataverse Datasets from their own Harvard Dataverse Collections without surrendering any control over the management of their data (they continue to curate their Dataverse Dataset and can modify Dataverse Dataset contents, metadata and terms of use as they see fit). Our intention with this collection is for it to promote easy access to **non-confidential data** relevant to modelling Australian mental health policy and service planning topics.
+-   The **Australian Mental Health Systems Models Dataverse Collection** (which we will refer to as "our Dataverse Collection") is a Dataverse Collection of Linked Dataverse Datasets within the Harvard Dataverse. We established our Dataverse Collection in the Harvard Dataverse because of the robustness and flexibility that this service provides. A factor in our choice of the Harvard Dataverse was that the aim of our Dataverse Collection is to promote easy access to **non-confidential data** relevant to modelling Australian mental health policy and service planning topics. The non-confidential nature of the data means that the additional administrative requirements that some other Dataverse Installations place on users were potentially unnecessary for our specific purposes. As a collection of Linked Dataverse Datasets, our Dataverse Collection can be used by modelling groups as both a centralised location to find relevant data and as an additional promotion / distribution channel to share Dataverse Datasets from their own Harvard Dataverse Collections without surrendering any control over the management of their data (they continue to curate their Dataverse Dataset and can modify Dataverse Dataset contents, metadata and terms of use as they see fit).
 
 # 3. Search and download dataset files
 
@@ -75,17 +75,17 @@ More detail on some of the above steps is available in the following section of 
 
 ## 3.2 Using R commands
 
-Some limitations of relying purely on a web-browser are that it is manual (therefore becoming inefficient for large number of data requests) and not reproducible (lessening transparency about the specific data items / versions used in an analysis). It can therefore be desirable to explore alternatives that are based on programming commands. Programmatic approaches have the advantage of being more readily incorporated into automated workflows that can make decision aids easier to work with.
+Some limitations of relying purely on a web-browser are that it is a purely manual approach that can become inefficient for large number of data requests and which is not reproducible (thereby limiting transparency about the specific data items / versions used in an analysis). It can therefore be desirable to explore alternatives that are based on programming commands. Programmatic approaches have the advantage of being more readily incorporated into automated and reproducible workflows.
 
 There are a range of software tools in different languages that can be used to programmatically search and retrieve files in Dataverse Collections. More information on these resources on [a dedicated page within the Dataverse Project's documentation](https://guides.dataverse.org/en/latest/api/client-libraries.html).
 
-One of these tools is "dataverse - the R Client for Dataverse Repositories". For general search and retrieval of files other than the ".RDS" formats that are specific to R, the dataverse R package has a range of functions that are very helpful. These functions are not the focus of this tutorial, but you can read more about them on the \[packages documentation website\]((<https://iqss.github.io/dataverse-client-r/>).
+One of these tools is `dataverse` - "the R Client for Dataverse Repositories". The `dataverse` R package has a range of functions that are very helpful for general tasks relating to the search and retrieval of files contained in Dataverse Datasets. These functions are not the focus of this tutorial, but you can read more about them on the \[packages documentation website\]((<https://iqss.github.io/dataverse-client-r/>).
 
-The remainder of this tutorial is focused on the use of another R package called ready4use which created by Orygen to help manage open-source data for use in mental health models. The ready4use R package extends the dataverse R package and one of its applications is to ingest R objects stored in Dataverse Datasets directly into an R Session's working memory without saving any local files as an intermediary step. More information about ready4use is available on its [documentation website](https://ready4-dev.github.io/ready4use/index.html).
+The remainder of this tutorial is focused on the use of another R package called `ready4use` which created by Orygen to help manage open-source data for use in mental health models. The `ready4use` R package extends the `dataverse` R package and one of its applications is to ingest R objects stored in Dataverse Datasets in the ".Rds" file format directly into an R Session's working memory. More information about `ready4use` is available on its [documentation website](https://ready4-dev.github.io/ready4use/index.html).
 
 ### 3.2.1 Install and load required R packages
 
-As ready4use is still a development package, you may need to first install the devtools package to help install it. The following commands entered in your R console will do this.
+As `ready4use` is still a development package, you may need to first install the `devtools` package to help install it. The following commands entered in your R console will do this.
 
 <div class="highlight">
 
@@ -94,7 +94,7 @@ As ready4use is still a development package, you may need to first install the d
 
 </div>
 
-We now load the `ready4use` package and the `ready4` framework that it depends on. The ready4 framework will have been automatically installed along with `ready4use.`
+We now load the `ready4use` package and the `ready4` framework for youth mental health modelling that it depends on. The `ready4` framework will have been automatically installed along with `ready4use.`
 
 <div class="highlight">
 
@@ -105,7 +105,7 @@ We now load the `ready4use` package and the `ready4` framework that it depends o
 
 ### 3.2.2 Specify repository details
 
-The next step is to create a `Ready4useRepos` object, which in this example we will call X, that contains the details of the Dataverse Dataset from which we wish to retrieve R objects. We need to supply three pieces of information to `Ready4useRepos`. Two of these items of information will always be the same when retrieving data from our Dataverse Collection - the Dataverse Collection identifier (which for us is "openmind") and the server on which the containing Dataverse Installation is hosted (in our case "dataverse.harvard.edu"). The one item of information that will vary based on your requirements is the identifier (DOI) of the Dataverse Dataset from which we wish to retrieve data. In this example we are using the DOI for the "Synthetic (fake) youth mental health datasets and data dictionaries" Dataverse Dataset.
+The next step is to create a `Ready4useRepos` object, which in this example we will call `X`, that contains the details of the Dataverse Dataset from which we wish to retrieve R objects. We need to supply three pieces of information to `Ready4useRepos`. Two of these items of information will be the same for any data item retrieved from our Dataverse Collection and are the Dataverse Collection identifier (which for us is "openmind") and the server on which the containing Dataverse Installation is hosted (in our case "dataverse.harvard.edu"). The one item of information that will vary based on your requirements is the name / identifier (DOI) of the Dataverse Dataset from which we wish to retrieve data. In this example we are using the DOI for the "Synthetic (fake) youth mental health datasets and data dictionaries" Dataverse Dataset.
 
 <div class="highlight">
 
@@ -115,7 +115,7 @@ The next step is to create a `Ready4useRepos` object, which in this example we w
 
 </div>
 
-Having supplied the details of where the data is stored we can now ingest the data we are interested in. We can either ingest all R object in the selected Dataverse Dataset or just those objects we specify. By default the objects are ingested along with their metadata, but we can choose not to ingest the metadata if we wish.
+Having supplied the details of where the data is stored we can now ingest the data we are interested in. We can either ingest all R object in the selected Dataverse Dataset or just objects that we specify. By default R objects are ingested along with their metadata, but we can choose not to ingest the metadata.
 
 ### 3.2.3 Ingest all R objects from a Dataverse Dataset along with its metadata
 
@@ -127,7 +127,7 @@ To ingest all R objects in the dataset, we enter the following command.
 
 </div>
 
-We can create separate list objects for the data and metadata that we have ingested.
+We can now create separate list objects for the ingested data and its metadata.
 
 <div class="highlight">
 
@@ -136,7 +136,7 @@ We can create separate list objects for the data and metadata that we have inges
 
 </div>
 
-We can access the names of the data objects we have ingested with the following command.
+We can itemise the data objects we have ingested with the following command.
 
 <div class="highlight">
 
@@ -269,8 +269,8 @@ We can also request to ingest multiple specified objects from a Dataverse Datase
 <div class="highlight">
 
 <pre class='chroma'><code class='language-r' data-lang='r'><span><span class='nv'>data_3_ls</span> <span class='o'>&lt;-</span> <span class='nf'><a href='https://ready4-dev.github.io/ready4/reference/ingest-methods.html'>ingest</a></span><span class='o'>(</span><span class='nv'>X</span>,</span>
-<span>                   fls_to_ingest_chr <span class='o'>=</span> <span class='nf'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='o'>(</span><span class='s'>"ymh_clinical_tb"</span>,<span class='s'>"ymh_clinical_dict_r3"</span><span class='o'>)</span>,</span>
-<span>                   metadata_1L_lgl <span class='o'>=</span> <span class='kc'>F</span><span class='o'>)</span></span></code></pre>
+<span>                    fls_to_ingest_chr <span class='o'>=</span> <span class='nf'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='o'>(</span><span class='s'>"ymh_clinical_tb"</span>,<span class='s'>"ymh_clinical_dict_r3"</span><span class='o'>)</span>,</span>
+<span>                    metadata_1L_lgl <span class='o'>=</span> <span class='kc'>F</span><span class='o'>)</span></span></code></pre>
 
 </div>
 

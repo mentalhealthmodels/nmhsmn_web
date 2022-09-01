@@ -1,7 +1,17 @@
 ---
-title: "Motivation: why share model code and data?"
+title: "Why share model code and data?"
+authors: 
+- Matthew Hamilton
+date: '2022-08-28T21:13:14-05:00'
 banner: img/banners/markus-winkler-unsplash.jpg
 weight: 1
+categories:
+- Resources for Modellers
+- Tutorials
+tags:
+- R
+- Repositories
+- Repositories (Data)
 #tutorial - Photo by <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Winkler</a> on <a href="https://unsplash.com/s/photos/tutorial?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 # menu:
 #   main:
