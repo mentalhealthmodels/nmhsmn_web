@@ -1,5 +1,5 @@
-baseurl: https://sprightly-crisp-e68084.netlify.app  # Update 
-title: National Mental Health Systems Modelling Network
+baseurl: "https://www.acument-mh.org" 
+title: Acumen - Alliance for Mental Health Systems Modelling
 theme: hugo-universal-theme
 languageCode: en-us
 defaultContentLanguage: en
@@ -152,11 +152,11 @@ menu:
       url: mailto:info@qcmhr.uq.edu.au # Need to update
       weight: 5
 params:
-  about_us: <p>We are a network of academics, service planners and policy professionals who build and use models of mental health systems. We collaborate to improve the quality, usefulness and impact of these models.</p>
-  address: "<p class=\"text-uppercase\"><strong>National Mental Health Systems Modelling Network.</strong>\n        <br>Queensland Centre for Mental Health Research\n        <br>Level 3, Dawson House\n        <br>The Park Centre for Mental Health Treatment,
+  about_us: <p>We are an alliance of academics, service planners and policy professionals who build and use models of mental health systems. We collaborate to improve the quality, usefulness and impact of these models.</p>
+  address: "<p class=\"text-uppercase\"><strong>Acumen - Alliance for Mental Health Systems Modelling.</strong>\n        <br>Queensland Centre for Mental Health Research\n        <br>Level 3, Dawson House\n        <br>The Park Centre for Mental Health Treatment,
 Research and Education\n        <br>Wacol\n <br>QLD 4076\n
     \       <br>\n        <strong>Australia</strong>\n      </p>\n      "
-  author: National Mental Health Systems Modelling Network
+  author: Acumen - Alliance for Mental Health Systems Modelling
   carouselCustomers:
     auto_play: no
     items: 6
@@ -175,10 +175,10 @@ Research and Education\n        <br>Wacol\n <br>QLD 4076\n
   clients:
     enable: no
     subtitle: ''
-    title: Network Members
+    title: Alliance Members
   contact_form_ajax: no
   contact_url: /contact/
-  copyright: Copyright (c) 2022 - 2022, National Mental Health Systems Modelling Network; all rights reserved.
+  copyright: Copyright (c) 2022 - 2022, Acumen - Alliance for Mental Health Systems Modelling; all rights reserved.
   date_format: January 2, 2006
   default_sharing_image: img/sharing-default.png
   defaultDescription: Supporting mental health reform through better decision models
@@ -204,7 +204,7 @@ Research and Education\n        <br>Wacol\n <br>QLD 4076\n
   latitude: '-27.49873516764946' #-, 
   logo: img/logo.png # Need to update when we have a logo
   logo_small: img/logo-small.png # Need to update when we have a logo
-  logo_text: National Mental Health Systems Modelling Network
+  logo_text: Acumen - Alliance for Mental Health Systems Modelling
   longitude: '153.0118860343866'
   mainSections: blog
   recent_posts:
@@ -222,7 +222,7 @@ Research and Education\n        <br>Wacol\n <br>QLD 4076\n
   style: marsala
   testimonials:
     enable: no
-    subtitle: We are a network of modellers and service planners who work together to improve Australian population mental health.
+    subtitle: We are an alliance of modellers and service planners who work together to improve Australian population mental health.
     title: Why we work together
   topbar:
     enable: no # Could switch on

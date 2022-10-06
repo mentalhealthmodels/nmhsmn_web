@@ -5,11 +5,11 @@ title: Our purpose
 #     weight: 40
 ---
 
-The National Mental Health Systems Modelling Network aims to improve population mental health through ensuring mental health system planners have access to the highest quality decision aids and to provide policymakers with the tools to better addres the social determinants of mental ill-health.
+Acumen aims to improve population mental health through ensuring mental health system planners have access to the highest quality decision aids and to provide policymakers with the tools to better addres the social determinants of mental ill-health.
 
-The National Mental Health Systems Modelling Network will do this by:
+Acumen will do this by:
 
-- Creating a national network to [identify opportunities for collaboration](/blog/resources/planner-resources/) and [data sharing](/blog/resources/modeller-resources/open-code-and-data/) in mental health systems modelling;
+- Creating a national alliance to [identify opportunities for collaboration](/blog/resources/planner-resources/) and [data sharing](/blog/resources/modeller-resources/open-code-and-data/) in mental health systems modelling;
 
 - Providing a central national reference point for [expert advice](/members/) and [best practice in evidence-based modelling](/blog/resources/modeller-resources/) for mental health policy and services;
 

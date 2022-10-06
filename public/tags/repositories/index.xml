@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Repositories on National Mental Health Systems Modelling Network</title>
+    <title>Repositories on Acumen - Alliance for Mental Health Systems Modelling</title>
     <link>/tags/repositories/</link>
-    <description>Recent content in Repositories on National Mental Health Systems Modelling Network</description>
+    <description>Recent content in Repositories on Acumen - Alliance for Mental Health Systems Modelling</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Aug 2022 21:13:14 -0500</lastBuildDate><atom:link href="/tags/repositories/index.xml" rel="self" type="application/rss+xml" />
@@ -26,7 +26,7 @@ Using a web based interface (very simple, suitable for low volume requests where
       <pubDate>Mon, 22 Aug 2022 21:29:20 +0200</pubDate>
       
       <guid>/blog/2022/08/22/open-data/</guid>
-      <description>To facilitate the sharing of model data by the Australian mental health modelling community, our network curates an open access data repository. The data repository is the Australian Mental Health Systems Models Dataverse.
+      <description>To facilitate the sharing of model data by the Australian mental health modelling community, Acumen curates an open access data repository. The data repository is the Australian Mental Health Systems Models Dataverse.
 If you have data from a mental health modelling project that you would like to share via this repository, check out this tutorial about how to do so.</description>
     </item>
     
@@ -36,8 +36,8 @@ If you have data from a mental health modelling project that you would like to s
       <pubDate>Mon, 22 Aug 2022 21:29:20 +0200</pubDate>
       
       <guid>/blog/2022/08/22/open-code/</guid>
-      <description>To facilitate the sharing of model code by the Australian mental health modelling community, our network curates an open access code repository. The code repository is the Australian Mental Health Systems Models Zenodo Community.
-Linked to this repository is the network&amp;rsquo;s GitHub organisation. Currently our GitHub organisation is just used to host the source code for this website, but over time we aim to use it to share brief code snippets that may not be appropriate for archiving in our Zenodo repository.</description>
+      <description>To facilitate the sharing of model code by the Australian mental health modelling community, Acumen curates an open access code repository. The code repository is the Australian Mental Health Systems Models Zenodo Community.
+Linked to this repository is Acumen&amp;rsquo;s GitHub organisation. Currently our GitHub organisation is just used to host the source code for this website, but over time we aim to use it to share brief code snippets that may not be appropriate for archiving in our Zenodo repository.</description>
     </item>
     
   </channel>

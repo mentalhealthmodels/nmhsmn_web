@@ -8,4 +8,4 @@ weight: 3
 #     weight: 40
 ---
 
-We post periodic updates about our network and any upcoming activities or outputs that may be of interest to mental health planners, policy-makers and modellers.
+We post periodic updates about Acumen and any upcoming activities or outputs that may be of interest to mental health planners, policy-makers and modellers.

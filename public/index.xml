@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>National Mental Health Systems Modelling Network</title>
+    <title>Acumen - Alliance for Mental Health Systems Modelling</title>
     <link>/</link>
-    <description>Recent content on National Mental Health Systems Modelling Network</description>
+    <description>Recent content on Acumen - Alliance for Mental Health Systems Modelling</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Aug 2022 21:13:14 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -37,7 +37,7 @@ Using a web based interface (very simple, suitable for low volume requests where
       <pubDate>Sat, 27 Aug 2022 21:29:20 +0200</pubDate>
       
       <guid>/blog/2022/08/27/first-paper/</guid>
-      <description>To introduce the National Mental Health Systems Modelling Network, members pooled their expertise to draft an article about the role of systems modelling in Australian mental health reform processes. The article provides an overview of current and previous mental health reform plans in Australia, identifies and describes different modelling approaches and the types of topics they are particularly well suited to addressing and discusses challenges and opportunities for planners and policymakers relating to the commissioning, development and use of model based tools.</description>
+      <description>To introduce Acumen, members pooled their expertise to draft an article about the role of systems modelling in Australian mental health reform processes. The article provides an overview of current and previous mental health reform plans in Australia, identifies and describes different modelling approaches and the types of topics they are particularly well suited to addressing and discusses challenges and opportunities for planners and policymakers relating to the commissioning, development and use of model based tools.</description>
     </item>
     
     <item>
@@ -46,7 +46,7 @@ Using a web based interface (very simple, suitable for low volume requests where
       <pubDate>Mon, 22 Aug 2022 21:29:20 +0200</pubDate>
       
       <guid>/blog/2022/08/22/open-data/</guid>
-      <description>To facilitate the sharing of model data by the Australian mental health modelling community, our network curates an open access data repository. The data repository is the Australian Mental Health Systems Models Dataverse.
+      <description>To facilitate the sharing of model data by the Australian mental health modelling community, Acumen curates an open access data repository. The data repository is the Australian Mental Health Systems Models Dataverse.
 If you have data from a mental health modelling project that you would like to share via this repository, check out this tutorial about how to do so.</description>
     </item>
     
@@ -56,8 +56,8 @@ If you have data from a mental health modelling project that you would like to s
       <pubDate>Mon, 22 Aug 2022 21:29:20 +0200</pubDate>
       
       <guid>/blog/2022/08/22/open-code/</guid>
-      <description>To facilitate the sharing of model code by the Australian mental health modelling community, our network curates an open access code repository. The code repository is the Australian Mental Health Systems Models Zenodo Community.
-Linked to this repository is the network&amp;rsquo;s GitHub organisation. Currently our GitHub organisation is just used to host the source code for this website, but over time we aim to use it to share brief code snippets that may not be appropriate for archiving in our Zenodo repository.</description>
+      <description>To facilitate the sharing of model code by the Australian mental health modelling community, Acumen curates an open access code repository. The code repository is the Australian Mental Health Systems Models Zenodo Community.
+Linked to this repository is Acumen&amp;rsquo;s GitHub organisation. Currently our GitHub organisation is just used to host the source code for this website, but over time we aim to use it to share brief code snippets that may not be appropriate for archiving in our Zenodo repository.</description>
     </item>
     
     <item>
@@ -326,7 +326,7 @@ Message: Government spending on mental health in most of the relevant countries 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>How to contact us If you would like to contact us, you can do so by post at the address provided in the side panel or by email at info@qcmhr.uq.edu.au. Please note that as we are currently a network sustained by the voluntary time commitments of our members we may be slow to respond to contacts.</description>
+      <description>How to contact us If you would like to contact us, you can do so by post at the address provided in the side panel or by email at info@qcmhr.uq.edu.au. Please note that as we are currently an alliance sustained by the voluntary time commitments of our members we may be slow to respond to contacts.</description>
     </item>
     
     <item>
@@ -335,7 +335,7 @@ Message: Government spending on mental health in most of the relevant countries 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/members/</guid>
-      <description>Our network comprises experts in mental health modelling, service planning and policy from across Australia.
+      <description>Acumen comprises experts in mental health modelling, service planning and policy from across Australia.
 Monash University, Division of Health Economics – Professor Cathy Mihalopoulos, Dr Yong Yi Lee and Dr Long Le
 Orygen – Professor Pat McGorry, Matthew Hamilton and Dr Caroline Gao
 The Queensland Centre for Mental Health Research (QCMHR) – Professor Harvey Whiteford, Dr Sandra Diminic and Dr Zoe Rutherford
@@ -348,9 +348,9 @@ Southern Synergy – Dr Joanne Enticott, Dr Katrina Long and Professor Graham Me
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/purpose/</guid>
-      <description>The National Mental Health Systems Modelling Network aims to improve population mental health through ensuring mental health system planners have access to the highest quality decision aids and to provide policymakers with the tools to better addres the social determinants of mental ill-health.
-The National Mental Health Systems Modelling Network will do this by:
-Creating a national network to identify opportunities for collaboration and data sharing in mental health systems modelling;</description>
+      <description>Acumen aims to improve population mental health through ensuring mental health system planners have access to the highest quality decision aids and to provide policymakers with the tools to better addres the social determinants of mental ill-health.
+Acumen will do this by:
+Creating a national alliance to identify opportunities for collaboration and data sharing in mental health systems modelling;</description>
     </item>
     
     <item>
@@ -359,7 +359,7 @@ Creating a national network to identify opportunities for collaboration and data
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/supportus/</guid>
-      <description>Currently, the work of the network is principally advanced through the vouluntary contribution of time and effort from network members. We believe that to further develop the mental health modelling field and to improve access for mental health planners to the highest quality decision support tools will require ongoing centralised resourcing of training, data infrastructure and quality-assurance tools. We will therefore welcome approaches from potential philanthropic funders to explore how we can partner to improve mental health outcomes in Australia (see how to contact us).</description>
+      <description>Currently, the work of Acumen is principally advanced through the vouluntary contribution of time and effort from Acumen members. We believe that to further develop the mental health modelling field and to improve access for mental health planners to the highest quality decision support tools will require ongoing centralised resourcing of training, data infrastructure and quality-assurance tools. We will therefore welcome approaches from potential philanthropic funders to explore how we can partner to improve mental health outcomes in Australia (see how to contact us).</description>
     </item>
     
   </channel>

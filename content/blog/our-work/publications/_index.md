@@ -7,4 +7,4 @@ banner: img/banners/tamara-gak-unsplash.jpg
 #     weight: 40
 ---
 
-Network members have published extensively on modelling methods and the application of model based analysis to topics in mental health policy and system design. A selection of some of the output most relevant to current issues in mental health systems modelling in Australia is provided in this section.
+Acumen members have published extensively on modelling methods and the application of model based analysis to topics in mental health policy and system design. A selection of some of the output most relevant to current issues in mental health systems modelling in Australia is provided in this section.

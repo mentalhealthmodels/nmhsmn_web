@@ -11,6 +11,6 @@ tags:
 title: Australian Mental Health Systems Models Dataverse
 ---
 
-To facilitate the sharing of model data by the Australian mental health modelling community, our network curates an open access data repository. The data repository is the [Australian Mental Health Systems Models Dataverse](https://dataverse.harvard.edu/dataverse/openmind).
+To facilitate the sharing of model data by the Australian mental health modelling community, Acumen curates an open access data repository. The data repository is the [Australian Mental Health Systems Models Dataverse](https://dataverse.harvard.edu/dataverse/openmind).
 
 If you have data from a mental health modelling project that you would like to share via this repository, check out [this tutorial](../../../..//resources/modeller-resources/tutorials/managing-open-code-and-data) about how to do so.

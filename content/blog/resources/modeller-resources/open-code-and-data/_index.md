@@ -7,7 +7,7 @@ banner: img/banners/markus-spiske-unsplash.jpg
 #     weight: 40
 ---
 
-To facilitate the sharing of model code and data by the Australian mental health modelling community, our network curates two open access repositories.
+To facilitate the sharing of model code and data by the Australian mental health modelling community, Acumen curates two open access repositories.
 
 - For code, we maintain the [Australian Mental Health Systems Models Zenodo Community](https://zenodo.org/communities/openmind/).
 
