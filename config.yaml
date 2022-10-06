@@ -1,5 +1,5 @@
 baseurl: "https://www.acumen-mh.org"
-title: Acumen - Alliance for Mental Health Systems Modelling
+title: Acumen - Alliance for Mental Health Systems Models
 theme: hugo-universal-theme
 languageCode: en-us
 defaultContentLanguage: en
@@ -153,10 +153,10 @@ menu:
       weight: 5
 params:
   about_us: <p>We are an alliance of academics, service planners and policy professionals who build and use models of mental health systems. We collaborate to improve the quality, usefulness and impact of these models.</p>
-  address: "<p class=\"text-uppercase\"><strong>Acumen - Alliance for Mental Health Systems Modelling.</strong>\n        <br>Queensland Centre for Mental Health Research\n        <br>Level 3, Dawson House\n        <br>The Park Centre for Mental Health Treatment,
+  address: "<p class=\"text-uppercase\"><strong>Acumen - Alliance for Mental Health Systems Models.</strong>\n        <br>Queensland Centre for Mental Health Research\n        <br>Level 3, Dawson House\n        <br>The Park Centre for Mental Health Treatment,
 Research and Education\n        <br>Wacol\n <br>QLD 4076\n
     \       <br>\n        <strong>Australia</strong>\n      </p>\n      "
-  author: Acumen - Alliance for Mental Health Systems Modelling
+  author: Acumen - Alliance for Mental Health Systems Models
   carouselCustomers:
     auto_play: no
     items: 6
@@ -178,7 +178,7 @@ Research and Education\n        <br>Wacol\n <br>QLD 4076\n
     title: Alliance Members
   contact_form_ajax: no
   contact_url: /contact/
-  copyright: Copyright (c) 2022 - 2022, Acumen - Alliance for Mental Health Systems Modelling; all rights reserved.
+  copyright: Copyright (c) 2022 - 2022, Acumen - Alliance for Mental Health Systems Models; all rights reserved.
   date_format: January 2, 2006
   default_sharing_image: img/sharing-default.png
   defaultDescription: Supporting mental health reform through better decision models
@@ -204,7 +204,7 @@ Research and Education\n        <br>Wacol\n <br>QLD 4076\n
   latitude: '-27.49873516764946' #-, 
   logo: img/logo.png # Need to update when we have a logo
   logo_small: img/logo-small.png # Need to update when we have a logo
-  logo_text: Acumen - Alliance for Mental Health Systems Modelling
+  logo_text: Acumen - Alliance for Mental Health Systems Models
   longitude: '153.0118860343866'
   mainSections: blog
   recent_posts:
