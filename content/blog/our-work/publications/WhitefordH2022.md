@@ -18,7 +18,7 @@ title: "Mental health systems modelling for evidence-informed service reform in 
 
 **Peer reviewed**: No.
 
-**Authors**: Whiteford, Harvey and Bagheri, Nasser and Diminic, Sandra and Enticott, Joanne and Gao, Caroline X and Hamilton, Matthew and Hickie, Ian and Le, Long K and Lee, Yong Y and Long, Katrina M and et al.
+**Authors**: Whiteford, Harvey and Bagheri, Nasser and Diminic, Sandra and Enticott, Joanne and Gao, Caroline X and Hamilton, Matthew and Hickie, Ian and Le, Long K and Lee, Yong Y and Long, Katrina M and McGorry, Patrick and Meadows, Graham and Mihalopoulos, Cathrine and Occhipinti, Jo-An and Rock, Daniel and Rosenberg, Sebastian and Salvador-Carulla, Luis and Skinner, Adam.
 
 **Publication**: PsyArXiv
 
