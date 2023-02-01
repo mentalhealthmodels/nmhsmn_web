@@ -7,6 +7,6 @@
 #     The Hugo theme supplied to the wizard : devcows/hugo-universal-theme
 #     Copied contents of temporary directory into cloned local github repository
 # 5. Tested successful installation of Hugo Universal theme by running 
-blogdown::serve_site()
+# blogdown::serve_site()
 # 6. Began editing.
 # 7. Installed and configured hugodown (quite an involved process, will not document here - refer to https://hugodown.r-lib.org).

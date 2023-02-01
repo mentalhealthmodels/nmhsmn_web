@@ -16,9 +16,9 @@ Acumen comprises experts in mental health modelling, service planning and policy
 
 - Southern Synergy – Professor Graham Meadows, Dr Joanne Enticott and Dr Katrina Long 
 
-- University of Canberra – Professor Luis Salvador-Carulla and Dr Nasser Bagheri
+- University of Canberra – Professor Luis Salvador-Carulla and Associate Professor Nasser Bagheri
 
 - The University of Sydney, Brain and Mind Centre – Professor Ian Hickie, Dr Sebastian Rosenberg, Associate Professor Jo-An Occhipinti and Dr Adam Skinner
 
-- Western Australia Primary Health Alliance (WAPHA) – Professor Danny Rock
+- University of Western Australia and Western Australia Primary Health Alliance (WAPHA) – Professor Danny Rock
 <!--add blocks of content here to add more sections to the community page -->
