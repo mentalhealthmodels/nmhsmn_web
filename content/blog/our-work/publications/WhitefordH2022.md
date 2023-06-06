@@ -8,7 +8,7 @@ categories:
 - Publications (Mental Health Policy)
 - Resources for Modellers
 - Resources for Planners
-date: "2020-11-02T21:29:20+02:00"
+date: "2023-05-14T21:29:20+02:00"
 tags:
 - Model Implementation
 - Types of Models
@@ -16,15 +16,15 @@ tags:
 title: "Mental health systems modelling for evidence-informed service reform in Australia"
 ---
 
-**Peer reviewed**: No.
+**Peer reviewed**: Yes.
 
 **Authors**: Whiteford, Harvey and Bagheri, Nasser and Diminic, Sandra and Enticott, Joanne and Gao, Caroline X and Hamilton, Matthew and Hickie, Ian and Le, Long K and Lee, Yong Y and Long, Katrina M and McGorry, Patrick and Meadows, Graham and Mihalopoulos, Cathrine and Occhipinti, Jo-An and Rock, Daniel and Rosenberg, Sebastian and Salvador-Carulla, Luis and Skinner, Adam.
 
 **Publication**: PsyArXiv
 
-**Year**: 2022
+**Year**: 2023
 
-**DOI**: https://doi.org/10.31234/osf.io/uqsgy
+**DOI**: https://doi.org/10.1177/00048674231172113
 
 **Method**: Descriptive overview of the role of modelling in mental health policy and system design, explanation of concepts useful for understanding mental health modelling and overview of how ta new network of modellers and planners hopes to support the development of better and more useful mental health systems models. 
 
@@ -32,11 +32,12 @@ title: "Mental health systems modelling for evidence-informed service reform in 
 
 
 **BibTeX**: @misc{whiteford_bagheri_diminic_enticott_gao_hamilton_hickie_le_lee_long_et al._2022,
- title={Mental health systems modelling for evidence-informed service reform in Australia},
- url={psyarxiv.com/uqsgy},
- DOI={10.31234/osf.io/uqsgy},
- publisher={PsyArXiv},
- author={Whiteford, Harvey and Bagheri, Nasser and Diminic, Sandra and Enticott, Joanne and Gao, Caroline X and Hamilton, Matthew and Hickie, Ian and Le, Long K and Lee, Yong Y and Long, Katrina M and et al.},
- year={2022},
- month={Oct}
+title={Mental health systems modelling for evidence-informed service reform in Australia},
+url={https://doi.org/10.1177/00048674231172113},
+DOI={10.1177/00048674231172113},
+journal={Australian \& New Zealand Journal of Psychiatry},
+publisher={SAGE Publications Sage UK: London, England},
+author={Whiteford, Harvey and Bagheri, Nasser and Diminic, Sandra and Enticott, Joanne and Gao, Caroline X and Hamilton, Matthew and Hickie, Ian and Le, Long K and Lee, Yong Y and Long, Katrina M and et al.},
+year={2023},
+ month={May}
 }

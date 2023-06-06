@@ -362,8 +362,8 @@ make_pubs_entries_ls <- function(pubs_df,
                               DOI_PLACEHOLDER <- ..5
                               JOURNAL_LONG_PLACEHOLDER <- ..6
                               KEYWORDS_PLACEHOLDER <- ..21
-                              METHOD_PLACEHOLDER <- ..8
-                              MESSAGE_PLACEHOLDER <- ..9
+                              METHOD_PLACEHOLDER <- ..9
+                              MESSAGE_PLACEHOLDER <- ..8
                               PR_PLACEHOLDER <- ifelse(..25 =="4","Yes","No")
                               TITLE_PLACEHOLDER <- ..13
                               YEAR_PLACEHOLDER <- ..16

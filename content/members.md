@@ -8,7 +8,7 @@ title: Our members
 Acumen comprises experts in mental health modelling, service planning and policy from across Australia.
 
 
-- Monash University, Division of Health Economics – Professor Cathy Mihalopoulos, Dr Yong Yi Lee and Dr Long Le
+- Monash University Health Economics Group – Professor Cathy Mihalopoulos, Dr Yong Yi Lee and Dr Long Le
 
 - Orygen – Professor Patrick McGorry, Matthew Hamilton and Dr Caroline Gao
 

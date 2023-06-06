@@ -130,21 +130,21 @@ meta_ls &lt;- procureSlot(Y,&quot;a_Ready4usePointer@b_Ready4useRepos@dv_ds_meta
 <pre class="r"><code>ymh_clinical_tb %&gt;%
   head()</code></pre>
 <pre><code>## # A tibble: 6 × 43
-##   fkClie…¹ round d_interv…² d_age d_gen…³ d_sex…⁴ d_sex…⁵ d_ATSI d_cou…⁶ d_eng…⁷
-##   &lt;chr&gt;    &lt;fct&gt; &lt;date&gt;     &lt;int&gt; &lt;chr&gt;   &lt;chr&gt;   &lt;fct&gt;   &lt;chr&gt;  &lt;chr&gt;   &lt;chr&gt;  
-## 1 Partici… Base… 2020-03-22    14 Male    Male    Hetero… No     Austra… Yes    
-## 2 Partici… Base… 2020-06-15    19 Female  Female  Hetero… Yes    Other   No     
-## 3 Partici… Base… 2020-08-20    21 Female  Female  Other   &lt;NA&gt;   &lt;NA&gt;    &lt;NA&gt;   
-## 4 Partici… Base… 2020-05-23    12 Female  Female  Hetero… Yes    Other   No     
-## 5 Partici… Base… 2020-04-05    19 Male    Male    Hetero… Yes    Other   No     
-## 6 Partici… Base… 2020-06-09    19 Male    Male    Hetero… Yes    Other   No     
-## # … with 33 more variables: d_english_native &lt;chr&gt;, d_studying_working &lt;chr&gt;,
+##   fkClientID  round d_interview_date d_age d_gender d_sex_birth_s d_sexual_ori_s
+##   &lt;chr&gt;       &lt;fct&gt; &lt;date&gt;           &lt;int&gt; &lt;chr&gt;    &lt;chr&gt;         &lt;fct&gt;         
+## 1 Participan… Base… 2020-03-22          14 Male     Male          Heterosexual  
+## 2 Participan… Base… 2020-06-15          19 Female   Female        Heterosexual  
+## 3 Participan… Base… 2020-08-20          21 Female   Female        Other         
+## 4 Participan… Base… 2020-05-23          12 Female   Female        Heterosexual  
+## 5 Participan… Base… 2020-04-05          19 Male     Male          Heterosexual  
+## 6 Participan… Base… 2020-06-09          19 Male     Male          Heterosexual  
+## # ℹ 36 more variables: d_ATSI &lt;chr&gt;, d_country_bir_s &lt;chr&gt;,
+## #   d_english_home &lt;chr&gt;, d_english_native &lt;chr&gt;, d_studying_working &lt;chr&gt;,
 ## #   d_relation_s &lt;chr&gt;, s_centre &lt;chr&gt;, c_p_diag_s &lt;chr&gt;,
 ## #   c_clinical_staging_s &lt;chr&gt;, k6_total &lt;int&gt;, phq9_total &lt;int&gt;,
 ## #   bads_total &lt;int&gt;, gad7_total &lt;int&gt;, oasis_total &lt;int&gt;, scared_total &lt;int&gt;,
 ## #   c_sofas &lt;int&gt;, aqol6d_q1 &lt;int&gt;, aqol6d_q2 &lt;int&gt;, aqol6d_q3 &lt;int&gt;,
-## #   aqol6d_q4 &lt;int&gt;, aqol6d_q5 &lt;int&gt;, aqol6d_q6 &lt;int&gt;, aqol6d_q7 &lt;int&gt;,
-## #   aqol6d_q8 &lt;int&gt;, aqol6d_q9 &lt;int&gt;, aqol6d_q10 &lt;int&gt;, aqol6d_q11 &lt;int&gt;, …</code></pre>
+## #   aqol6d_q4 &lt;int&gt;, aqol6d_q5 &lt;int&gt;, aqol6d_q6 &lt;int&gt;, aqol6d_q7 &lt;int&gt;, …</code></pre>
 <p>We can also request to ingest multiple specified objects from a Dataverse Dataset.</p>
 <pre class="r"><code>data_3_ls &lt;- ingest(X,
                    fls_to_ingest_chr = c(&quot;ymh_clinical_tb&quot;,&quot;ymh_clinical_dict_r3&quot;),
