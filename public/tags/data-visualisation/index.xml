@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Visualisation on Acumen - Alliance for Mental Health Systems Modelling</title>
-    <link>/tags/data-visualisation/</link>
-    <description>Recent content in Data Visualisation on Acumen - Alliance for Mental Health Systems Modelling</description>
+    <title>DATA VISUALISATION on Acumen - Alliance for Mental Health Systems Models</title>
+    <link>https://www.acumen-mh.org/tags/data-visualisation/</link>
+    <description>Recent content in DATA VISUALISATION on Acumen - Alliance for Mental Health Systems Models</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2020 21:29:20 +0200</lastBuildDate><atom:link href="/tags/data-visualisation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 May 2020 21:29:20 +0200</lastBuildDate><atom:link href="https://www.acumen-mh.org/tags/data-visualisation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experts’ perceptions on the use of visual analytics for complex mental healthcare planning: an exploratory study</title>
-      <link>/blog/2020/05/07/walshe2020/</link>
+      <link>https://www.acumen-mh.org/blog/2020/05/07/walshe2020/</link>
       <pubDate>Thu, 07 May 2020 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2020/05/07/walshe2020/</guid>
+      <guid>https://www.acumen-mh.org/blog/2020/05/07/walshe2020/</guid>
       <description>Peer reviewed: Yes.
 Authors: Walsh, Erin I and Chung, Younjin and Cherbuin, Nicolas and Salvador-Carulla, Luis.
 Publication: BMC Medical Research Methodology
@@ -20,6 +20,22 @@ Year: 2020
 DOI: https://doi.org/10.1186/s12874-020-00986-0
 Method: Online survey of an international pool of policy-makers, health agency directors, and researchers with extensive and direct experience of using visual analytics tools for complex mental healthcare systems planning.
 Message: Preliminary findings indicated that, despite a clear need to extract information from highly complex data, experts tend to utilise visualisations that are most familiar to them, widely understood, and not necessarily the most appropriate.</description>
+    </item>
+    
+    <item>
+      <title>Role of visual analytics in supporting mental healthcare systems research and policy: A systematic scoping review</title>
+      <link>https://www.acumen-mh.org/blog/2019/05/10/chungyrole2020u/</link>
+      <pubDate>Fri, 10 May 2019 17:27:23 +0000</pubDate>
+      
+      <guid>https://www.acumen-mh.org/blog/2019/05/10/chungyrole2020u/</guid>
+      <description>Peer reviewed: Yes
+Authors: Chung, Younjin and Bagheri, Nasser and Salinas-Perez, Jose Alberto and Smurthwaite, Kayla and Walsh, Erin and Furst, MaryAnne and Rosenberg, Sebastian and Salvador-Carulla, Luis
+Publication: International Journal of Information Management.
+Year: 2020
+DOI: https://doi.org/10.1016/j.ijinfomgt.2019.04.012
+Method: Scoping review.
+Message: Visual analytics is needed for mental healthcare systems research and policy.
+BibTeX: @article{ChungYRole2020U, title={Role of visual analytics in supporting mental healthcare systems research and policy: A systematic scoping review}, author={Chung, Younjin and Bagheri, Nasser and Salinas-Perez, Jose Alberto and Smurthwaite, Kayla and Walsh, Erin and Furst, MaryAnne and Rosenberg, Sebastian and Salvador-Carulla, Luis}, journal={International Journal of Information Management}, volume={50}, pages={}, year={2020}, publisher={Elsevier BV}}</description>
     </item>
     
   </channel>

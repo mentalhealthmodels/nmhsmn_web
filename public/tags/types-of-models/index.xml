@@ -1,27 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Types of Models on Acumen - Alliance for Mental Health Systems Modelling</title>
-    <link>/tags/types-of-models/</link>
-    <description>Recent content in Types of Models on Acumen - Alliance for Mental Health Systems Modelling</description>
+    <title>Types of Models on Acumen - Alliance for Mental Health Systems Models</title>
+    <link>https://www.acumen-mh.org/tags/types-of-models/</link>
+    <description>Recent content in Types of Models on Acumen - Alliance for Mental Health Systems Models</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Aug 2022 21:29:20 +0200</lastBuildDate><atom:link href="/tags/types-of-models/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 May 2023 21:29:20 +0200</lastBuildDate><atom:link href="https://www.acumen-mh.org/tags/types-of-models/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using systems modelling for evidence-informed mental health reform in Australia.</title>
-      <link>/blog/2022/08/27/first-paper/</link>
-      <pubDate>Sat, 27 Aug 2022 21:29:20 +0200</pubDate>
+      <link>https://www.acumen-mh.org/blog/2023/05/13/first-paper/</link>
+      <pubDate>Sat, 13 May 2023 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2022/08/27/first-paper/</guid>
+      <guid>https://www.acumen-mh.org/blog/2023/05/13/first-paper/</guid>
       <description>To introduce Acumen, members pooled their expertise to draft an article about the role of systems modelling in Australian mental health reform processes. The article provides an overview of current and previous mental health reform plans in Australia, identifies and describes different modelling approaches and the types of topics they are particularly well suited to addressing and discusses challenges and opportunities for planners and policymakers relating to the commissioning, development and use of model based tools.</description>
     </item>
     
     <item>
+      <title>Mental health systems modelling for evidence-informed service reform in Australia</title>
+      <link>https://www.acumen-mh.org/blog/2023/05/14/whitefordh2022/</link>
+      <pubDate>Sun, 14 May 2023 21:29:20 +0200</pubDate>
+      
+      <guid>https://www.acumen-mh.org/blog/2023/05/14/whitefordh2022/</guid>
+      <description>Peer reviewed: Yes.
+Authors: Whiteford, Harvey and Bagheri, Nasser and Diminic, Sandra and Enticott, Joanne and Gao, Caroline X and Hamilton, Matthew and Hickie, Ian and Le, Long K and Lee, Yong Y and Long, Katrina M and McGorry, Patrick and Meadows, Graham and Mihalopoulos, Cathrine and Occhipinti, Jo-An and Rock, Daniel and Rosenberg, Sebastian and Salvador-Carulla, Luis and Skinner, Adam.
+Publication: PsyArXiv
+Year: 2023
+DOI: https://doi.org/10.1177/00048674231172113
+Method: Descriptive overview of the role of modelling in mental health policy and system design, explanation of concepts useful for understanding mental health modelling and overview of how ta new network of modellers and planners hopes to support the development of better and more useful mental health systems models.</description>
+    </item>
+    
+    <item>
       <title>The National Mental Health Service Planning Framework: Where has it come from and what is its future?</title>
-      <link>/blog/2020/11/02/whitefordh2020/</link>
+      <link>https://www.acumen-mh.org/blog/2020/11/02/whitefordh2020/</link>
       <pubDate>Mon, 02 Nov 2020 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2020/11/02/whitefordh2020/</guid>
+      <guid>https://www.acumen-mh.org/blog/2020/11/02/whitefordh2020/</guid>
       <description>Peer reviewed: Yes.
 Authors: Whiteford, Harvey and Diminic, Sandra.
 Publication: Australian and New Zealand Journal of Psychiatry
@@ -33,24 +47,33 @@ Message: Decentralised regional planning requires the application of a planning 
     
     <item>
       <title>Beyond prevention: which interventions will flatten the mental health and suicide curve post COVID-19.</title>
-      <link>/blog/2020/05/14/covid-sky/</link>
+      <link>https://www.acumen-mh.org/blog/2020/05/14/covid-sky/</link>
       <pubDate>Thu, 14 May 2020 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2020/05/14/covid-sky/</guid>
+      <guid>https://www.acumen-mh.org/blog/2020/05/14/covid-sky/</guid>
       <description>Year: 2020
 Type: Webinar
-Presenters: Hickie, Ian and Occhipinti, Jo-An and Sturgess, Julie and Iorfino, Frank and Lawson, Kenny and Hamilton, Matthew
+Presenters: Hickie, Ian and Occhipinti, Jo-An and Sturgess, Julie and Iorfino, Frank and Lawson, Kenny and Hamilton, Matthew.
 Institution: Brain and Mind Centre, University of Sydney
 Topic: An overview of a number of modelling projects to help identify appropriate policy responses to the anticipated mental health impacts of the COVID-19 pandemic.
 Duration: 1 hour, 12 minutes</description>
     </item>
     
     <item>
+      <title>What is a mental health systems model?</title>
+      <link>https://www.acumen-mh.org/blog/2020/05/14/whatisamhsm/</link>
+      <pubDate>Thu, 14 May 2020 21:29:20 +0200</pubDate>
+      
+      <guid>https://www.acumen-mh.org/blog/2020/05/14/whatisamhsm/</guid>
+      <description>A mental health systems model is a mathematical representation of the systems (economic, environmental, service, social and technical) that shape population mental health. These mathematical representations can be succinct (a brief mathematical formula) or highly detailed (complex networks of linked equations expressed as large bodies of computer code). When applied to relevant data, these models can produce insights to help planners and policy makers address a range of decision problems.</description>
+    </item>
+    
+    <item>
       <title>Simulation modelling in mental health: A systematic review</title>
-      <link>/blog/2017/12/01/longk2018/</link>
+      <link>https://www.acumen-mh.org/blog/2017/12/01/longk2018/</link>
       <pubDate>Fri, 01 Dec 2017 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2017/12/01/longk2018/</guid>
+      <guid>https://www.acumen-mh.org/blog/2017/12/01/longk2018/</guid>
       <description>Peer reviewed: Yes
 Authors: Long, Katrina M and Meadows, Graham N
 Publication: Journal of Simulation

@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Acumen - Alliance for Mental Health Systems Models</title>
-    <link>/categories/</link>
+    <link>https://www.acumen-mh.org/categories/</link>
     <description>Recent content in Categories on Acumen - Alliance for Mental Health Systems Models</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Aug 2022 21:13:14 -0500</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 May 2023 21:29:20 +0200</lastBuildDate><atom:link href="https://www.acumen-mh.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Resources for Modellers</title>
-      <link>/categories/resources-for-modellers/</link>
-      <pubDate>Sun, 28 Aug 2022 21:13:14 -0500</pubDate>
+      <title>Publications (Mental Health Policy)</title>
+      <link>https://www.acumen-mh.org/categories/publications-mental-health-policy/</link>
+      <pubDate>Sun, 14 May 2023 21:29:20 +0200</pubDate>
       
-      <guid>/categories/resources-for-modellers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tutorials</title>
-      <link>/categories/tutorials/</link>
-      <pubDate>Sun, 28 Aug 2022 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/tutorials/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resources for Planners</title>
-      <link>/categories/resources-for-planners/</link>
-      <pubDate>Sat, 27 Aug 2022 21:29:20 +0200</pubDate>
-      
-      <guid>/categories/resources-for-planners/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Decision Aids (Publicly Available)</title>
-      <link>/categories/decision-aids-publicly-available/</link>
-      <pubDate>Mon, 22 Aug 2022 21:29:20 +0200</pubDate>
-      
-      <guid>/categories/decision-aids-publicly-available/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Decision Aids (Restricted Availability)</title>
-      <link>/categories/decision-aids-restricted-availability/</link>
-      <pubDate>Mon, 22 Aug 2022 21:29:20 +0200</pubDate>
-      
-      <guid>/categories/decision-aids-restricted-availability/</guid>
+      <guid>https://www.acumen-mh.org/categories/publications-mental-health-policy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications (Modelling Methods)</title>
-      <link>/categories/publications-modelling-methods/</link>
-      <pubDate>Tue, 23 Nov 2021 21:29:20 +0200</pubDate>
+      <link>https://www.acumen-mh.org/categories/publications-modelling-methods/</link>
+      <pubDate>Sun, 14 May 2023 21:29:20 +0200</pubDate>
       
-      <guid>/categories/publications-modelling-methods/</guid>
+      <guid>https://www.acumen-mh.org/categories/publications-modelling-methods/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications (Mental Health Policy)</title>
-      <link>/categories/publications-mental-health-policy/</link>
-      <pubDate>Fri, 21 May 2021 21:29:20 +0200</pubDate>
+      <title>Resources for Modellers</title>
+      <link>https://www.acumen-mh.org/categories/resources-for-modellers/</link>
+      <pubDate>Sun, 14 May 2023 21:29:20 +0200</pubDate>
       
-      <guid>/categories/publications-mental-health-policy/</guid>
+      <guid>https://www.acumen-mh.org/categories/resources-for-modellers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources for Planners</title>
+      <link>https://www.acumen-mh.org/categories/resources-for-planners/</link>
+      <pubDate>Sun, 14 May 2023 21:29:20 +0200</pubDate>
+      
+      <guid>https://www.acumen-mh.org/categories/resources-for-planners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://www.acumen-mh.org/categories/tutorials/</link>
+      <pubDate>Sun, 28 Aug 2022 21:13:14 -0500</pubDate>
+      
+      <guid>https://www.acumen-mh.org/categories/tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision Aids (Publicly Available)</title>
+      <link>https://www.acumen-mh.org/categories/decision-aids-publicly-available/</link>
+      <pubDate>Mon, 22 Aug 2022 21:29:20 +0200</pubDate>
+      
+      <guid>https://www.acumen-mh.org/categories/decision-aids-publicly-available/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision Aids (Restricted Availability)</title>
+      <link>https://www.acumen-mh.org/categories/decision-aids-restricted-availability/</link>
+      <pubDate>Mon, 22 Aug 2022 21:29:20 +0200</pubDate>
+      
+      <guid>https://www.acumen-mh.org/categories/decision-aids-restricted-availability/</guid>
       <description></description>
     </item>
     

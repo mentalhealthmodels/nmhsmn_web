@@ -17,7 +17,7 @@
 
 <meta name="description" content="Supporting mental health reform through better decision models">
 
-<meta name="generator" content="Hugo 0.101.0" />
+<meta name="generator" content="Hugo 0.109.0">
 
 
 <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
@@ -31,11 +31,11 @@
 
 
 
-  <link href="/css/style.turquoise.css" rel="stylesheet" id="theme-stylesheet">
+  <link href="/css/style.marsala.css" rel="stylesheet" id="theme-stylesheet">
 
 
 
-<link href="/css/custom.css?1661920995" rel="stylesheet">
+<link href="/css/custom.css?1686099427" rel="stylesheet">
 
 
 
@@ -54,7 +54,7 @@
 <link href="/css/owl.theme.css" rel="stylesheet">
 
 
-<link rel="alternate" href="/index.xml" type="application/rss+xml" title="Acumen - Alliance for Mental Health Systems Models">
+<link rel="alternate" href="https://www.acumen-mh.org/index.xml" type="application/rss+xml" title="Acumen - Alliance for Mental Health Systems Models">
 
 
 
@@ -67,9 +67,9 @@
 <meta property="og:site_name" content="Acumen - Alliance for Mental Health Systems Models">
 <meta property="og:title" content="Access data in the Australian Mental Health Systems Models Dataverse Collection.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="/blog/2022/08/28/access_open_data/" />
+<meta property="og:url" content="https://www.acumen-mh.org/blog/2022/08/28/access_open_data/" />
 <meta property="og:description" content="Supporting mental health reform through better decision models">
-<meta property="og:image" content="img/banners/openminddv.png">
+<meta property="og:image" content="https://www.acumen-mh.org/img/banners/openminddv.png">
 <meta property="og:image:type" content="image/png">
 
 
@@ -97,7 +97,7 @@
 
 <meta name="twitter:title" content="Access data in the Australian Mental Health Systems Models Dataverse …">
 
-<meta name="twitter:image" content="img/banners/openminddv.png">
+<meta name="twitter:image" content="https://www.acumen-mh.org/img/banners/openminddv.png">
 
 <meta name="twitter:description" content="Supporting mental health reform through better decision models">
 
@@ -461,52 +461,50 @@
 
                         <div id="post-content">
                           <h1 id="1-objectives">1. Objectives</h1>
-<p>In this tutorial we will:</p>
+<p>On completion of this tutorial you should be able to:</p>
 <ul>
 <li>
-<p>Describe the knowedge, skills and software requirements for completing this tutorial;</p>
+<p>Understand basic concepts relating to the Australian Mental Health Systems Models Dataverse Collection; and</p>
 </li>
 <li>
-<p>Briefly describe the concepts relating to the Australian Mental Health Systems Models Dataverse repository; and</p>
-</li>
-<li>
-<p>Outline the steps required to search for and download files contained in repository datasets using two alternative approaches;</p>
+<p>Have the ability to search for, download and ingest files contained in Dataverse Datasets that are linked to by the Australian Mental Health Systems Models Dataverse Collection using two alternative approaches;</p>
 <ul>
-<li>Using a web based interface (very simple, suitable for low volume requests where reproducibility is not required); and</li>
-<li>Using R commands (an approach that requires a little more up-front learning, but which can be used in automated and reproducible workflows)</li>
+<li>Using a web based interface; and</li>
+<li>Using R commands.</li>
 </ul>
 </li>
 </ul>
 <h1 id="2-prerequisites">2. Prerequisites</h1>
-<p>You can complete most of this tutorial without any specialist skills or software other than a web-browser connected to the Internet. However, if you wish to try running the R code for finding and downloading files described in the last part of the tutorial, then you must have R (and ideally RStudio as well) installed on your machine. Instructions for how to install this software are available here: <a href="https://rstudio-education.github.io/hopr/starting.html">https://rstudio-education.github.io/hopr/starting.html</a></p>
+<p>You can complete most of this tutorial without any specialist skills or software other than having a web-browser connected to the Internet. However, if you wish to try running the R code for finding and downloading files described in the last part of the tutorial, then you must have R (and ideally RStudio as well) installed on your machine. Instructions for how to install this software are available at <a href="https://rstudio-education.github.io/hopr/starting.html">https://rstudio-education.github.io/hopr/starting.html</a> .</p>
 <h1 id="3-concepts">3. Concepts</h1>
-<p>Before searching for or retrieving data from the Australian Mental Health Systems Models Dataverse, the following concepts are useful to understand:</p>
+<p>Before searching for or retrieving data from the Australian Mental Health Systems Models Dataverse Collection, the following concepts are useful to understand:</p>
 <ul>
 <li>
 <p>The <strong>Dataverse Project</strong> is &ldquo;an open source web application to share, preserve, cite, explore, and analyze research data.&rdquo; It is developed at Harvard&rsquo;s Institute for Quantitative Social Science (IQSS). More information about the project is available on the <a href="https://dataverse.org">Dataverse Project&rsquo;s website</a>.</p>
 </li>
 <li>
-<p>There are many <strong>Dataverse installations</strong> around the world (85 at the time of writing this tutorial). Each installation is an instance of an institution installing the Dataverse Project&rsquo;s software on its own servers to create and manage online data repositories. At the time of writing there is one Australian Dataverse installation, the <a href="https://dataverse.ada.edu.au">Australian Data Archive</a>.</p>
+<p>There are many <strong>Dataverse Installations</strong> around the world (85 at the time of writing this tutorial). Each Dataverse Installation is an instance of an organisation installing the Dataverse Project&rsquo;s software on its own servers to create and manage online data repositories. At the time of writing there is one Australian Dataverse Installation listed on the Dataverse Project&rsquo;s website, which is the <a href="https://dataverse.ada.edu.au">Australian Data Archive</a>.</p>
 </li>
 <li>
-<p>The <strong>Harvard Dataverse</strong> is a Dataverse installation that is managed by Harvard University, that is open to researchers from any discipline from anywhere in the world. More details are available from <a href="https://dataverse.harvard.edu">its website</a>.</p>
+<p>The <strong>Harvard Dataverse</strong> is a Dataverse Installation that is managed by Harvard University, that is open to researchers from all disciplines from anywhere in the world. More details are available from <a href="https://dataverse.harvard.edu">its website</a>.</p>
 </li>
 <li>
-<p>A <strong>Dataverse Collection</strong> (frequently and confusingly also referred to as simply a &ldquo;Dataverse&rdquo;) is a part of a Dataverse installation that a user can set up to host multiple &ldquo;Dataverse Datasets&rdquo; (see next bullet point). Dataverse Collections typically share common attributes (for example, are in the same topic area or produced by the same group(s) of researchers) and can be branded to a limited degree. Dataverse Collections will also contain descriptive metadata about the purpose and ownership of the collection.</p>
+<p>A <strong>Dataverse Collection</strong> (frequently and confusingly also referred to as simply a &ldquo;Dataverse&rdquo;) is a part of a Dataverse Installation that a user can set up to host multiple &ldquo;Dataverse Datasets&rdquo; (see next bullet point). Dataverse Collections typically share common attributes (for example, are in the same topic area or produced by the same group(s) of researchers) and can be branded to a limited degree. Dataverse Collections will also contain descriptive metadata about the purpose and ownership of the collection.</p>
 </li>
 <li>
 <p>A <strong>Dataverse Dataset</strong> is a uniquely identified collection of files (some of which, again confusingly, can be tabular data files of the type that researchers typically refer to as &ldquo;datasets&rdquo;) within a <strong>Dataverse Collection</strong>. Each Dataverse Dataset will have a name, a Digital Object Identifier, a version number, citation information and details of the licensing/terms of use that apply to its contents.</p>
 </li>
 <li>
-<p>A <strong>Linked Dataverse Dataset</strong> is a Dataverse Dataset that appears in a Dataverse Collection&rsquo;s list of contents without actually being in that Dataverse collection (it is hosted in another Dataverse Collection and is potentially owned and controlled by another user).</p>
+<p>A <strong>Linked Dataverse Dataset</strong> is a Dataverse Dataset that appears in a Dataverse Collection&rsquo;s list of contents without actually being in that Dataverse Collection (it is hosted in another Dataverse Collection and is potentially owned and controlled by another user).</p>
 </li>
 <li>
-<p>The <strong>Australian Mental Health Systems Models Dataverse Collection</strong> (which we will refer to as &ldquo;our Dataverse Collection&rdquo;) is a Dataverse Collection of Linked Dataverse Datasets within the Harvard Dataverse. We established our Dataverse Collectionin the Harvard Dataverse because of the robustness and flexibility that this service provides. As it is a collection of Linked Dataverse Datasets, modelling groups can use our Dataverse Collection as an additional promotion / distribution channel to share Dataverse Datasets from their own Harvard Dataverse Collections without surrendering any control over the management of their data (they continue to curate their Dataverse Dataset and can modify Dataverse Dataset contents, metadata and terms of use as they see fit). Our intention with this collection is for it to promote easy access to <strong>non-confidential data</strong> relevant to modelling Australian mental health policy and service planning topics.</p>
+<p>The <strong>Australian Mental Health Systems Models Dataverse Collection</strong> (which we will refer to as &ldquo;our Dataverse Collection&rdquo;) is a Dataverse Collection of Linked Dataverse Datasets within the Harvard Dataverse. We established our Dataverse Collection in the Harvard Dataverse because of the robustness and flexibility that this service provides. A factor in our choice of the Harvard Dataverse was that the aim of our Dataverse Collection is to promote easy access to <strong>non-confidential data</strong> relevant to modelling Australian mental health policy and service planning topics. The non-confidential nature of the data means that the additional administrative requirements that some other Dataverse Installations place on users were potentially unnecessary for our specific purposes. As a collection of Linked Dataverse Datasets, our Dataverse Collection can be used by modelling groups as both a centralised location to find relevant data and as an additional promotion / distribution channel to share Dataverse Datasets from their own Harvard Dataverse Collections without surrendering any control over the management of their data (they continue to curate their Dataverse Dataset and can modify Dataverse Dataset contents, metadata and terms of use as they see fit).</p>
 </li>
 </ul>
 <h1 id="3-search-and-download-dataset-files">3. Search and download dataset files</h1>
 <p>There are multiple options for searching and downloading files contained in our Dataverse Collection. This tutorial will discuss just two - one based on using a web browser and the other based on using R commands. For details on other options, it is recommended to consult the Harvard Dataverse <a href="https://guides.dataverse.org/en/latest/user/index.html">user guide</a> and (for more technical readers) <a href="https://guides.dataverse.org/en/latest/api/index.html#">api guide</a>.</p>
 <h2 id="31-web-browser-approach">3.1. Web browser approach</h2>
+<p>Searching and retriving data from our Dataverse Collection via a web-browser is very simple, and this methods is suitable for low volume requests (i.e. occasional use) where reproducibility is not important.</p>
 <p>To find and download data using your web browser, implement the following steps:</p>
 <ul>
 <li>
@@ -530,41 +528,127 @@
 </ul>
 <p>More detail on some of the above steps is available in the following section of the Harvard Dataverse user guide: <a href="https://guides.dataverse.org/en/latest/user/find-use-data.html#finding-data">https://guides.dataverse.org/en/latest/user/find-use-data.html#finding-data</a></p>
 <h2 id="32-using-r-commands">3.2 Using R commands</h2>
+<p>Some limitations of relying purely on a web-browser are that it is a purely manual approach that can become inefficient for large number of data requests and which is not reproducible (thereby limiting transparency about the specific data items / versions used in an analysis). It can therefore be desirable to explore alternatives that are based on programming commands. Programmatic approaches have the advantage of being more readily incorporated into automated and reproducible workflows.</p>
+<p>There are a range of software tools in different languages that can be used to programmatically search and retrieve files in Dataverse Collections. More information on these resources on <a href="https://guides.dataverse.org/en/latest/api/client-libraries.html">a dedicated page within the Dataverse Project&rsquo;s documentation</a>.</p>
+<p>One of these tools is <code>dataverse</code> - &ldquo;the R Client for Dataverse Repositories&rdquo;. The <code>dataverse</code> R package has a range of functions that are very helpful for general tasks relating to the search and retrieval of files contained in Dataverse Datasets. These functions are not the focus of this tutorial, but you can read more about them on the [packages documentation website]((<a href="https://iqss.github.io/dataverse-client-r/">https://iqss.github.io/dataverse-client-r/</a>).</p>
+<p>The remainder of this tutorial is focused on the use of another R package called <code>ready4use</code> which created by Orygen to help manage open-source data for use in mental health models. The <code>ready4use</code> R package extends the <code>dataverse</code> R package and one of its applications is to ingest R objects stored in Dataverse Datasets in the &ldquo;.Rds&rdquo; file format directly into an R Session&rsquo;s working memory. More information about <code>ready4use</code> is available on its <a href="https://ready4-dev.github.io/ready4use/index.html">documentation website</a>.</p>
+<h3 id="321-install-and-load-required-r-packages">3.2.1 Install and load required R packages</h3>
+<p>As <code>ready4use</code> is still a development package, you may need to first install the <code>devtools</code> package to help install it. The following commands entered in your R console will do this.</p>
 <div class="highlight">
-<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='nf'><a href='https://rdrr.io/r/base/summary.html'>summary</a></span><span class='o'>(</span><span class='nv'>cars</span><span class='o'>)</span></span><span><span class='c'>#&gt;      speed           dist       </span></span>
-<span><span class='c'>#&gt;  Min.   : 4.0   Min.   :  2.00  </span></span>
-<span><span class='c'>#&gt;  1st Qu.:12.0   1st Qu.: 26.00  </span></span>
-<span><span class='c'>#&gt;  Median :15.0   Median : 36.00  </span></span>
-<span><span class='c'>#&gt;  Mean   :15.4   Mean   : 42.98  </span></span>
-<span><span class='c'>#&gt;  3rd Qu.:19.0   3rd Qu.: 56.00  </span></span>
-<span><span class='c'>#&gt;  Max.   :25.0   Max.   :120.00</span></span><span></span>
-<span><span class='nv'>fit</span> <span class='o'>&lt;-</span> <span class='nf'><a href='https://rdrr.io/r/stats/lm.html'>lm</a></span><span class='o'>(</span><span class='nv'>dist</span> <span class='o'>~</span> <span class='nv'>speed</span>, data <span class='o'>=</span> <span class='nv'>cars</span><span class='o'>)</span></span></code></pre>
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='nf'>utils</span><span class='nf'>::</span><span class='nf'><a href='https://rdrr.io/r/utils/install.packages.html'>install.packages</a></span><span class='o'>(</span><span class='s'>"devtools"</span><span class='o'>)</span></span>
+<span><span class='nf'>devtools</span><span class='nf'>::</span><span class='nf'><a href='https://remotes.r-lib.org/reference/install_github.html'>install_github</a></span><span class='o'>(</span><span class='s'>"ready4-dev/ready4use"</span><span class='o'>)</span></span></code></pre>
+</div>
+<p>We now load the <code>ready4use</code> package and the <code>ready4</code> framework for youth mental health modelling that it depends on. The <code>ready4</code> framework will have been automatically installed along with <code>ready4use.</code></p>
+<div class="highlight">
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='kr'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='o'>(</span><span class='nv'><a href='https://ready4-dev.github.io/ready4/'>ready4</a></span><span class='o'>)</span></span>
+<span><span class='kr'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='o'>(</span><span class='nv'><a href='https://ready4-dev.github.io/ready4use/'>ready4use</a></span><span class='o'>)</span></span></code></pre>
+</div>
+<h3 id="322-specify-repository-details">3.2.2 Specify repository details</h3>
+<p>The next step is to create a <code>Ready4useRepos</code> object, which in this example we will call <code>X</code>, that contains the details of the Dataverse Dataset from which we wish to retrieve R objects. We need to supply three pieces of information to <code>Ready4useRepos</code>. Two of these items of information will be the same for any data item retrieved from our Dataverse Collection and are the Dataverse Collection identifier (which for us is &ldquo;openmind&rdquo;) and the server on which the containing Dataverse Installation is hosted (in our case &ldquo;dataverse.harvard.edu&rdquo;). The one item of information that will vary based on your requirements is the name / identifier (DOI) of the Dataverse Dataset from which we wish to retrieve data. In this example we are using the DOI for the &ldquo;Synthetic (fake) youth mental health datasets and data dictionaries&rdquo; Dataverse Dataset.</p>
+<div class="highlight">
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='nv'>X</span> <span class='o'>&lt;-</span> <span class='nf'><a href='https://ready4-dev.github.io/ready4use/reference/Ready4useRepos-class.html'>Ready4useRepos</a></span><span class='o'>(</span>dv_nm_1L_chr <span class='o'>=</span> <span class='s'>"openmind"</span>,</span>
+<span>                    dv_server_1L_chr <span class='o'>=</span> <span class='s'>"dataverse.harvard.edu"</span>,</span>
+<span>                    dv_ds_nm_1L_chr <span class='o'>=</span> <span class='s'>"https://doi.org/10.7910/DVN/HJXYKQ"</span><span class='o'>)</span></span></code></pre>
+</div>
+<p>Having supplied the details of where the data is stored we can now ingest the data we are interested in. We can either ingest all R object in the selected Dataverse Dataset or just objects that we specify. By default R objects are ingested along with their metadata, but we can choose not to ingest the metadata.</p>
+<h3 id="323-ingest-all-r-objects-from-a-dataverse-dataset-along-with-its-metadata">3.2.3 Ingest all R objects from a Dataverse Dataset along with its metadata</h3>
+<p>To ingest all R objects in the dataset, we enter the following command.</p>
+<div class="highlight">
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='nv'>Y</span> <span class='o'>&lt;-</span> <span class='nf'><a href='https://ready4-dev.github.io/ready4/reference/ingest-methods.html'>ingest</a></span><span class='o'>(</span><span class='nv'>X</span><span class='o'>)</span></span></code></pre>
+</div>
+<p>We can now create separate list objects for the ingested data and its metadata.</p>
+<div class="highlight">
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='nv'>data_ls</span> <span class='o'>&lt;-</span> <span class='nf'><a href='https://ready4-dev.github.io/ready4/reference/procureSlot-methods.html'>procureSlot</a></span><span class='o'>(</span><span class='nv'>Y</span>,<span class='s'>"b_Ready4useIngest@objects_ls"</span><span class='o'>)</span></span>
+<span><span class='nv'>meta_ls</span> <span class='o'>&lt;-</span> <span class='nf'><a href='https://ready4-dev.github.io/ready4/reference/procureSlot-methods.html'>procureSlot</a></span><span class='o'>(</span><span class='nv'>Y</span>,<span class='s'>"a_Ready4usePointer@b_Ready4useRepos@dv_ds_metadata_ls$ds_ls"</span><span class='o'>)</span></span></code></pre>
+</div>
+<p>We can itemise the data objects we have ingested with the following command.</p>
+<div class="highlight">
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='nf'><a href='https://rdrr.io/r/base/names.html'>names</a></span><span class='o'>(</span><span class='nv'>data_ls</span><span class='o'>)</span></span></code></pre>
 </div>
 <div class="highlight">
-<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='nv'>fit</span></span><span><span class='c'>#&gt; </span></span>
-<span><span class='c'>#&gt; Call:</span></span>
-<span><span class='c'>#&gt; lm(formula = dist ~ speed, data = cars)</span></span>
-<span><span class='c'>#&gt; </span></span>
-<span><span class='c'>#&gt; Coefficients:</span></span>
-<span><span class='c'>#&gt; (Intercept)        speed  </span></span>
-<span><span class='c'>#&gt;     -17.579        3.932</span></span></code></pre>
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='c'>#&gt; [1] "eq5d_ds_dict"         "eq5d_ds_tb"           "ymh_clinical_dict_r3"</span></span>
+<span><span class='c'>#&gt; [4] "ymh_clinical_tb"</span></span></code></pre>
 </div>
-<h1 id="worked-example">Worked example</h1>
-<p>Some simple code to demonstrate how to use it.</p>
+<p>We can also see what metadata fields we have ingested.</p>
 <div class="highlight">
-<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='nf'><a href='https://rdrr.io/r/graphics/par.html'>par</a></span><span class='o'>(</span>mar <span class='o'>=</span> <span class='nf'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='o'>(</span><span class='m'>0</span>, <span class='m'>1</span>, <span class='m'>0</span>, <span class='m'>1</span><span class='o'>)</span><span class='o'>)</span></span>
-<span><span class='nf'><a href='https://rdrr.io/r/graphics/pie.html'>pie</a></span><span class='o'>(</span></span>
-<span>  <span class='nf'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='o'>(</span><span class='m'>280</span>, <span class='m'>60</span>, <span class='m'>20</span><span class='o'>)</span>,</span>
-<span>  <span class='nf'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='o'>(</span><span class='s'>'Sky'</span>, <span class='s'>'Sunny side of pyramid'</span>, <span class='s'>'Shady side of pyramid'</span><span class='o'>)</span>,</span>
-<span>  col <span class='o'>=</span> <span class='nf'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='o'>(</span><span class='s'>'#0292D8'</span>, <span class='s'>'#F7EA39'</span>, <span class='s'>'#C4B632'</span><span class='o'>)</span>,</span>
-<span>  init.angle <span class='o'>=</span> <span class='o'>-</span><span class='m'>50</span>, border <span class='o'>=</span> <span class='kc'>NA</span></span>
-<span><span class='o'>)</span></span></code></pre>
-<div class="figure" style="text-align: center">
-<img src="/blog/resources/modeller-resources/tutorials/Managing-Open-Code-And-Data/Access_Open_Data_files/figure-html/pie-1.png" alt="A fancy pie chart." width="700px" />
-<p class="caption">
-A fancy pie chart.
-</p>
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='nf'><a href='https://rdrr.io/r/base/names.html'>names</a></span><span class='o'>(</span><span class='nv'>meta_ls</span><span class='o'>)</span></span></code></pre>
 </div>
+<div class="highlight">
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='c'>#&gt;  [1] "id"                  "datasetId"           "datasetPersistentId"</span></span>
+<span><span class='c'>#&gt;  [4] "storageIdentifier"   "versionNumber"       "versionMinorNumber" </span></span>
+<span><span class='c'>#&gt;  [7] "versionState"        "lastUpdateTime"      "releaseTime"        </span></span>
+<span><span class='c'>#&gt; [10] "createTime"          "termsOfUse"          "fileAccessRequest"  </span></span>
+<span><span class='c'>#&gt; [13] "metadataBlocks"      "files"</span></span></code></pre>
+</div>
+<p>There can be a lot of useful information contained in this metadata list object. For example, we can retrieve descriptive information about the Dataverse Dataset from which we have ingested data.</p>
+<div class="highlight">
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='nv'>meta_ls</span><span class='o'>$</span><span class='nv'>metadataBlocks</span><span class='o'>$</span><span class='nv'>citation</span><span class='o'>$</span><span class='nv'>fields</span><span class='o'>$</span><span class='nv'>value</span><span class='o'>[[</span><span class='m'>7</span><span class='o'>]</span><span class='o'>]</span><span class='o'>$</span><span class='nv'>dsDescriptionValue</span><span class='o'>$</span><span class='nv'>value</span></span></code></pre>
+</div>
+<div class="highlight">
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='c'>#&gt; [1] "The datasets in this collection are entirely fake. They were developed principally to demonstrate the workings of a number of utility scoring and mapping algorithms. However, they may be of more general use to others. In some limited cases, some of the included files could be used in exploratory simulation based analyses. However, you should read the metadata descriptors for each file to inform yourself of the validity and limitations of each fake dataset. To open the RDS format files included in this dataset, the R package ready4use needs to be installed (see https://ready4-dev.github.io/ready4use/ ). It is also recommended that you install the youthvars package ( https://ready4-dev.github.io/youthvars/) as this provides useful tools for inspecting and validating each dataset."</span></span></code></pre>
+</div>
+<p>The metadata also contains descriptive information on each file in the Dataverse Dataset.</p>
+<div class="highlight">
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='nv'>meta_ls</span><span class='o'>$</span><span class='nv'>files</span><span class='o'>$</span><span class='nv'>description</span><span class='o'>[</span><span class='m'>5</span><span class='o'>]</span></span></code></pre>
+</div>
+<div class="highlight">
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='c'>#&gt; [1] "A synthetic (fake) dataset representing clients in an Australian primary youth mental health service. This dataset was generated from parameter values derived from a sample of 1107 clients of headspace services using a script that is also included in this dataset. The purpose of this synthetic dataset was to allow the replication code for a utility mapping study (see: https://doi.org/10.1101/2021.07.07.21260129) to be run by those lacking access to the original dataset. The dataset may also have some limited value as an input dataset for purely exploratory studies in simulation studies of headspace clients, as its source dataset was reasonably representative of the headpace client population. However, it should be noted that the algorithm that generated this dataset only captures aspects of the joint distributions of the psychological and health utility measures. Other sample characteristic variables (age, gender, etc) are only representative of the source dataset when considered in isolation, rather than jointly."</span></span></code></pre>
+</div>
+<h3 id="324-ingest-all-r-objects-from-a-dataverse-dataset-without-metadata">3.2.4 Ingest all R objects from a Dataverse Dataset without metadata</h3>
+<p>If we wished to ingest only the R objects without metadata, we could have simply run the following command.</p>
+<div class="highlight">
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='nv'>data_2_ls</span> <span class='o'>&lt;-</span> <span class='nf'><a href='https://ready4-dev.github.io/ready4/reference/ingest-methods.html'>ingest</a></span><span class='o'>(</span><span class='nv'>X</span>,</span>
+<span>                    metadata_1L_lgl <span class='o'>=</span> <span class='kc'>F</span><span class='o'>)</span></span></code></pre>
+</div>
+<p>We can see that this ingest is identical to that made using the previous method.</p>
+<div class="highlight">
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='nf'><a href='https://rdrr.io/r/base/identical.html'>identical</a></span><span class='o'>(</span><span class='nv'>data_ls</span>, <span class='nv'>data_2_ls</span><span class='o'>)</span></span></code></pre>
+</div>
+<div class="highlight">
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='c'>#&gt; [1] TRUE</span></span></code></pre>
+</div>
+<h3 id="325-ingest-selected-r-objects">3.2.5 Ingest selected R objects</h3>
+<p>If we only want to ingest one specific object, we can supply its name.</p>
+<div class="highlight">
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='nv'>ymh_clinical_tb</span> <span class='o'>&lt;-</span> <span class='nf'><a href='https://ready4-dev.github.io/ready4/reference/ingest-methods.html'>ingest</a></span><span class='o'>(</span><span class='nv'>X</span>,</span>
+<span>                          fls_to_ingest_chr <span class='o'>=</span> <span class='nf'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='o'>(</span><span class='s'>"ymh_clinical_tb"</span><span class='o'>)</span>,</span>
+<span>                          metadata_1L_lgl <span class='o'>=</span> <span class='kc'>F</span><span class='o'>)</span></span></code></pre>
+</div>
+<p>The output from an object specific call to the <code>ingest</code> method is the requested object.</p>
+<div class="highlight">
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='nv'>ymh_clinical_tb</span> <span class='o'><a href='https://magrittr.tidyverse.org/reference/pipe.html'>%&gt;%</a></span></span>
+<span>  <span class='nf'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='o'>(</span><span class='o'>)</span></span></code></pre>
+</div>
+<div class="highlight">
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='c'>#&gt; <span style='color: #555555;'># A tibble: 6 × 43</span></span></span>
+<span><span class='c'>#&gt;   fkClie…¹ round d_interv…² d_age d_gen…³ d_sex…⁴ d_sex…⁵ d_ATSI d_cou…⁶ d_eng…⁷</span></span>
+<span><span class='c'>#&gt;   <span style='color: #555555; font-style: italic;'>&lt;chr&gt;</span>    <span style='color: #555555; font-style: italic;'>&lt;fct&gt;</span> <span style='color: #555555; font-style: italic;'>&lt;date&gt;</span>     <span style='color: #555555; font-style: italic;'>&lt;int&gt;</span> <span style='color: #555555; font-style: italic;'>&lt;chr&gt;</span>   <span style='color: #555555; font-style: italic;'>&lt;chr&gt;</span>   <span style='color: #555555; font-style: italic;'>&lt;fct&gt;</span>   <span style='color: #555555; font-style: italic;'>&lt;chr&gt;</span>  <span style='color: #555555; font-style: italic;'>&lt;chr&gt;</span>   <span style='color: #555555; font-style: italic;'>&lt;chr&gt;</span>  </span></span>
+<span><span class='c'>#&gt; <span style='color: #555555;'>1</span> Partici… Base… 2020-03-22    14 Male    Male    Hetero… No     Austra… Yes    </span></span>
+<span><span class='c'>#&gt; <span style='color: #555555;'>2</span> Partici… Base… 2020-06-15    19 Female  Female  Hetero… Yes    Other   No     </span></span>
+<span><span class='c'>#&gt; <span style='color: #555555;'>3</span> Partici… Base… 2020-08-20    21 Female  Female  Other   <span style='color: #BB0000;'>NA</span>     <span style='color: #BB0000;'>NA</span>      <span style='color: #BB0000;'>NA</span>     </span></span>
+<span><span class='c'>#&gt; <span style='color: #555555;'>4</span> Partici… Base… 2020-05-23    12 Female  Female  Hetero… Yes    Other   No     </span></span>
+<span><span class='c'>#&gt; <span style='color: #555555;'>5</span> Partici… Base… 2020-04-05    19 Male    Male    Hetero… Yes    Other   No     </span></span>
+<span><span class='c'>#&gt; <span style='color: #555555;'>6</span> Partici… Base… 2020-06-09    19 Male    Male    Hetero… Yes    Other   No     </span></span>
+<span><span class='c'>#&gt; <span style='color: #555555;'># … with 33 more variables: d_english_native &lt;chr&gt;, d_studying_working &lt;chr&gt;,</span></span></span>
+<span><span class='c'>#&gt; <span style='color: #555555;'>#   d_relation_s &lt;chr&gt;, s_centre &lt;chr&gt;, c_p_diag_s &lt;chr&gt;,</span></span></span>
+<span><span class='c'>#&gt; <span style='color: #555555;'>#   c_clinical_staging_s &lt;chr&gt;, k6_total &lt;int&gt;, phq9_total &lt;int&gt;,</span></span></span>
+<span><span class='c'>#&gt; <span style='color: #555555;'>#   bads_total &lt;int&gt;, gad7_total &lt;int&gt;, oasis_total &lt;int&gt;, scared_total &lt;int&gt;,</span></span></span>
+<span><span class='c'>#&gt; <span style='color: #555555;'>#   c_sofas &lt;int&gt;, aqol6d_q1 &lt;int&gt;, aqol6d_q2 &lt;int&gt;, aqol6d_q3 &lt;int&gt;,</span></span></span>
+<span><span class='c'>#&gt; <span style='color: #555555;'>#   aqol6d_q4 &lt;int&gt;, aqol6d_q5 &lt;int&gt;, aqol6d_q6 &lt;int&gt;, aqol6d_q7 &lt;int&gt;,</span></span></span>
+<span><span class='c'>#&gt; <span style='color: #555555;'>#   aqol6d_q8 &lt;int&gt;, aqol6d_q9 &lt;int&gt;, aqol6d_q10 &lt;int&gt;, aqol6d_q11 &lt;int&gt;, …</span></span></span></code></pre>
+</div>
+<p>We can also request to ingest multiple specified objects from a Dataverse Dataset.</p>
+<div class="highlight">
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='nv'>data_3_ls</span> <span class='o'>&lt;-</span> <span class='nf'><a href='https://ready4-dev.github.io/ready4/reference/ingest-methods.html'>ingest</a></span><span class='o'>(</span><span class='nv'>X</span>,</span>
+<span>                    fls_to_ingest_chr <span class='o'>=</span> <span class='nf'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='o'>(</span><span class='s'>"ymh_clinical_tb"</span>,<span class='s'>"ymh_clinical_dict_r3"</span><span class='o'>)</span>,</span>
+<span>                    metadata_1L_lgl <span class='o'>=</span> <span class='kc'>F</span><span class='o'>)</span></span></code></pre>
+</div>
+<p>This last request produces a list of ingested objects.</p>
+<div class="highlight">
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='nf'><a href='https://rdrr.io/r/base/names.html'>names</a></span><span class='o'>(</span><span class='nv'>data_3_ls</span><span class='o'>)</span></span></code></pre>
+</div>
+<div class="highlight">
+<pre class='chroma'><code class='language-r' data-lang='r'><span><span class='c'>#&gt; [1] "ymh_clinical_dict_r3" "ymh_clinical_tb"</span></span></code></pre>
 </div>
 
                         </div>
@@ -594,7 +678,7 @@ A fancy pie chart.
         <form action="//google.com/search" method="get" accept-charset="UTF-8" role="search">
             <div class="input-group">
                 <input type="search" name="q" class="form-control" placeholder="Search">
-                <input type="hidden" name="sitesearch" value="/">
+                <input type="hidden" name="sitesearch" value="https://www.acumen-mh.org/">
                 <span class="input-group-btn">
                     <button type="submit" class="btn btn-template-main"><i class="fas fa-search"></i></button>
                 </span>
@@ -628,23 +712,23 @@ A fancy pie chart.
             </li>
             
             <li>
-                <a href="/categories/publications-mental-health-policy">PUBLICATIONS-MENTAL-HEALTH-POLICY (7)</a>
+                <a href="/categories/publications-mental-health-policy">PUBLICATIONS-MENTAL-HEALTH-POLICY (12)</a>
             </li>
             
             <li>
-                <a href="/categories/publications-modelling-methods">PUBLICATIONS-MODELLING-METHODS (10)</a>
+                <a href="/categories/publications-modelling-methods">PUBLICATIONS-MODELLING-METHODS (17)</a>
             </li>
             
             <li>
-                <a href="/categories/resources-for-modellers">RESOURCES-FOR-MODELLERS (22)</a>
+                <a href="/categories/resources-for-modellers">RESOURCES-FOR-MODELLERS (32)</a>
             </li>
             
             <li>
-                <a href="/categories/resources-for-planners">RESOURCES-FOR-PLANNERS (18)</a>
+                <a href="/categories/resources-for-planners">RESOURCES-FOR-PLANNERS (26)</a>
             </li>
             
             <li>
-                <a href="/categories/tutorials">TUTORIALS (1)</a>
+                <a href="/categories/tutorials">TUTORIALS (2)</a>
             </li>
             
         </ul>
@@ -734,6 +818,10 @@ A fancy pie chart.
             </li>
             
             <li >
+                <a href="/tags/regional-planning"><i class="fas fa-tags"></i> regional-planning</a>
+            </li>
+            
+            <li >
                 <a href="/tags/repositories"><i class="fas fa-tags"></i> repositories</a>
             </li>
             
@@ -770,6 +858,14 @@ A fancy pie chart.
             </li>
             
             <li >
+                <a href="/tags/systems-dynamics-models"><i class="fas fa-tags"></i> systems-dynamics-models</a>
+            </li>
+            
+            <li >
+                <a href="/tags/taxonomies"><i class="fas fa-tags"></i> taxonomies</a>
+            </li>
+            
+            <li >
                 <a href="/tags/technical-efficiency"><i class="fas fa-tags"></i> technical-efficiency</a>
             </li>
             
@@ -783,6 +879,10 @@ A fancy pie chart.
             
             <li >
                 <a href="/tags/uses-of-modelling"><i class="fas fa-tags"></i> uses-of-modelling</a>
+            </li>
+            
+            <li >
+                <a href="/tags/uses-of-models"><i class="fas fa-tags"></i> uses-of-models</a>
             </li>
             
             <li >
@@ -825,7 +925,7 @@ A fancy pie chart.
         <div class="col-md-4 col-sm-6">
             <h4>About us</h4>
 
-            <p>We are an alliance of academics and service planners who build and use models of mental health systems. We collaborate to improve the quality, usefulness and impact of these models.</p>
+            <p>We are an alliance of academics, service planners and policy professionals who build and use models of mental health systems. We collaborate to improve the quality, usefulness and impact of these models.</p>
 
             <hr class="hidden-md hidden-lg hidden-sm">
 
@@ -842,40 +942,40 @@ A fancy pie chart.
                 
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
-                        <a href="/blog/1/01/01/motivation/">
-                          
-                            <img src="/img/banners/markus-winkler-unsplash.jpg" class="img-responsive" alt="Motivation: why share model code and data?">
-                          
-                        </a>
-                    </div>
-                    <div class="name same-height-always">
-                        <h5><a href="/blog/1/01/01/motivation/">Motivation: why share model code and data?</a></h5>
-                    </div>
-                </div>
-                
-                <div class="item same-height-row clearfix">
-                    <div class="image same-height-always">
-                        <a href="/blog/2022/08/28/access_open_data/">
-                          
-                            <img src="/img/banners/openminddv.png" class="img-responsive" alt="Access data in the Australian Mental Health Systems Models Dataverse Collection.">
-                          
-                        </a>
-                    </div>
-                    <div class="name same-height-always">
-                        <h5><a href="/blog/2022/08/28/access_open_data/">Access data in the Australian Mental Health Systems Models Dataverse Collection.</a></h5>
-                    </div>
-                </div>
-                
-                <div class="item same-height-row clearfix">
-                    <div class="image same-height-always">
-                        <a href="/blog/2022/08/27/first-paper/">
+                        <a href="https://www.acumen-mh.org/blog/2023/05/13/first-paper/">
                           
                             <img src="/img/banners/alessandro-bianchi-unsplash.jpg" class="img-responsive" alt="Using systems modelling for evidence-informed mental health reform in Australia.">
                           
                         </a>
                     </div>
                     <div class="name same-height-always">
-                        <h5><a href="/blog/2022/08/27/first-paper/">Using systems modelling for evidence-informed mental health reform in Australia.</a></h5>
+                        <h5><a href="https://www.acumen-mh.org/blog/2023/05/13/first-paper/">Using systems modelling for evidence-informed mental health reform in Australia.</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="https://www.acumen-mh.org/blog/2022/08/28/motivation/">
+                          
+                            <img src="/img/banners/markus-winkler-unsplash.jpg" class="img-responsive" alt="Why share model code and data?">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="https://www.acumen-mh.org/blog/2022/08/28/motivation/">Why share model code and data?</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="https://www.acumen-mh.org/blog/2022/08/28/access_open_data/">
+                          
+                            <img src="/img/banners/openminddv.png" class="img-responsive" alt="Access data in the Australian Mental Health Systems Models Dataverse Collection.">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="https://www.acumen-mh.org/blog/2022/08/28/access_open_data/">Access data in the Australian Mental Health Systems Models Dataverse Collection.</a></h5>
                     </div>
                 </div>
                 

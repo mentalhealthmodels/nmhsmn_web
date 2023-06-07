@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>System Dynamics Models on Acumen - Alliance for Mental Health Systems Modelling</title>
-    <link>/tags/system-dynamics-models/</link>
-    <description>Recent content in System Dynamics Models on Acumen - Alliance for Mental Health Systems Modelling</description>
+    <title>System Dynamics Models on Acumen - Alliance for Mental Health Systems Models</title>
+    <link>https://www.acumen-mh.org/tags/system-dynamics-models/</link>
+    <description>Recent content in System Dynamics Models on Acumen - Alliance for Mental Health Systems Models</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 May 2021 21:29:20 +0200</lastBuildDate><atom:link href="/tags/system-dynamics-models/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 May 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://www.acumen-mh.org/tags/system-dynamics-models/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Federal and state cooperation necessary but not sufficient for effective regional mental health systems: insights from systems modelling and simulation</title>
-      <link>/blog/2021/05/21/occhipintij2021a/</link>
+      <link>https://www.acumen-mh.org/blog/2021/05/21/occhipintij2021a/</link>
       <pubDate>Fri, 21 May 2021 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2021/05/21/occhipintij2021a/</guid>
+      <guid>https://www.acumen-mh.org/blog/2021/05/21/occhipintij2021a/</guid>
       <description>Peer reviewed: Yes
 Authors: Occhipinti, Jo-An and Skinner, Adam and Carter, Samantha and Heath, Jacinta and Lawson, Kenny and McGill, Katherine and McClure, Rod and Hickie, Ian B.
 Publication: Scientific Reports.
@@ -23,10 +23,10 @@ Method: A system dynamics model of pathways between psychological distress, the 
     
     <item>
       <title>Reducing youth suicide: systems modelling and simulation to guide targeted investments across the determinants</title>
-      <link>/blog/2021/03/12/occhipintij2021/</link>
+      <link>https://www.acumen-mh.org/blog/2021/03/12/occhipintij2021/</link>
       <pubDate>Fri, 12 Mar 2021 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2021/03/12/occhipintij2021/</guid>
+      <guid>https://www.acumen-mh.org/blog/2021/03/12/occhipintij2021/</guid>
       <description>Peer reviewed: Yes.
 Authors: Occhipinti, Jo-An and Skinner, Adam and Iorfino, Frank and Lawson, Kenny and Sturgess, Julie and Burgess, Warren and Davenport, Tracey and Hudson, Danica and Hickie, Ian.
 Publication: BMC Medicine.
@@ -37,10 +37,10 @@ Method: Using a participatory approach, and informed by a range of national, sta
     
     <item>
       <title>Systems modelling and simulation to inform strategic decision making for suicide prevention in rural New South Wales (Australia)</title>
-      <link>/blog/2020/06/17/atkinsonj2020b/</link>
+      <link>https://www.acumen-mh.org/blog/2020/06/17/atkinsonj2020b/</link>
       <pubDate>Wed, 17 Jun 2020 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2020/06/17/atkinsonj2020b/</guid>
+      <guid>https://www.acumen-mh.org/blog/2020/06/17/atkinsonj2020b/</guid>
       <description>Peer reviewed: Yes.
 Authors: Atkinson, Jo-An and Skinner, Adam and Hackney, Sue and Mason, Linda and Heffernan, Mark and Currier, Dianne and King, Kylie and Pirkis, Jane.
 Publication: Australian and New Zealand Journal of Psychiatry.
@@ -51,10 +51,10 @@ Method: A system dynamics model for the rural and remote population catchment of
     
     <item>
       <title>The impact of reducing psychiatric beds on suicide rates</title>
-      <link>/blog/2019/07/02/atkinsonj2021/</link>
+      <link>https://www.acumen-mh.org/blog/2019/07/02/atkinsonj2021/</link>
       <pubDate>Tue, 02 Jul 2019 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2019/07/02/atkinsonj2021/</guid>
+      <guid>https://www.acumen-mh.org/blog/2019/07/02/atkinsonj2021/</guid>
       <description>Peer reviewed: Yes.
 Authors: Atkinson, Jo-An and Page, Andrew and Skinner, Adam and Heffernan, Mark and Prodan, Ante and Hickie, Ian B.
 Publication: Frontiers in Psychiatry.

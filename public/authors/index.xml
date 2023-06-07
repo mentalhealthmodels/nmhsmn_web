@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Acumen - Alliance for Mental Health Systems Models</title>
-    <link>/authors/</link>
+    <link>https://www.acumen-mh.org/authors/</link>
     <description>Recent content in Authors on Acumen - Alliance for Mental Health Systems Models</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Aug 2022 21:13:14 -0500</lastBuildDate><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 May 2023 21:29:20 +0200</lastBuildDate><atom:link href="https://www.acumen-mh.org/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Matthew Hamilton</title>
-      <link>/authors/matthew-hamilton/</link>
-      <pubDate>Sun, 28 Aug 2022 21:13:14 -0500</pubDate>
+      <title>Admin</title>
+      <link>https://www.acumen-mh.org/authors/admin/</link>
+      <pubDate>Sun, 14 May 2023 21:29:20 +0200</pubDate>
       
-      <guid>/authors/matthew-hamilton/</guid>
+      <guid>https://www.acumen-mh.org/authors/admin/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Admin</title>
-      <link>/authors/admin/</link>
-      <pubDate>Sat, 27 Aug 2022 21:29:20 +0200</pubDate>
+      <title>Matthew Hamilton</title>
+      <link>https://www.acumen-mh.org/authors/matthew-hamilton/</link>
+      <pubDate>Sun, 28 Aug 2022 21:13:14 -0500</pubDate>
       
-      <guid>/authors/admin/</guid>
+      <guid>https://www.acumen-mh.org/authors/matthew-hamilton/</guid>
       <description></description>
     </item>
     

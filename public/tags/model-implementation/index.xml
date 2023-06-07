@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Model implementation on Acumen - Alliance for Mental Health Systems Modelling</title>
-    <link>/tags/model-implementation/</link>
-    <description>Recent content in Model implementation on Acumen - Alliance for Mental Health Systems Modelling</description>
+    <title>MODEL IMPLEMENTATION on Acumen - Alliance for Mental Health Systems Models</title>
+    <link>https://www.acumen-mh.org/tags/model-implementation/</link>
+    <description>Recent content in MODEL IMPLEMENTATION on Acumen - Alliance for Mental Health Systems Models</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Aug 2019 21:29:20 +0200</lastBuildDate><atom:link href="/tags/model-implementation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 May 2023 21:29:20 +0200</lastBuildDate><atom:link href="https://www.acumen-mh.org/tags/model-implementation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mental health systems modelling for evidence-informed service reform in Australia</title>
+      <link>https://www.acumen-mh.org/blog/2023/05/14/whitefordh2022/</link>
+      <pubDate>Sun, 14 May 2023 21:29:20 +0200</pubDate>
+      
+      <guid>https://www.acumen-mh.org/blog/2023/05/14/whitefordh2022/</guid>
+      <description>Peer reviewed: Yes.
+Authors: Whiteford, Harvey and Bagheri, Nasser and Diminic, Sandra and Enticott, Joanne and Gao, Caroline X and Hamilton, Matthew and Hickie, Ian and Le, Long K and Lee, Yong Y and Long, Katrina M and McGorry, Patrick and Meadows, Graham and Mihalopoulos, Cathrine and Occhipinti, Jo-An and Rock, Daniel and Rosenberg, Sebastian and Salvador-Carulla, Luis and Skinner, Adam.
+Publication: PsyArXiv
+Year: 2023
+DOI: https://doi.org/10.1177/00048674231172113
+Method: Descriptive overview of the role of modelling in mental health policy and system design, explanation of concepts useful for understanding mental health modelling and overview of how ta new network of modellers and planners hopes to support the development of better and more useful mental health systems models.</description>
+    </item>
+    
     <item>
       <title>Factors affecting the implementation of simulation modelling in healthcare: A longitudinal case study evaluation</title>
-      <link>/blog/2019/08/20/longk2020/</link>
+      <link>https://www.acumen-mh.org/blog/2019/08/20/longk2020/</link>
       <pubDate>Tue, 20 Aug 2019 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2019/08/20/longk2020/</guid>
+      <guid>https://www.acumen-mh.org/blog/2019/08/20/longk2020/</guid>
       <description>Peer reviewed: Yes
 Authors: Long, Katrina M and McDermott, F and Meadows, Graham N
 Publication: Journal of the Operational Research Society
@@ -20,6 +34,21 @@ Year: 2020
 DOI: https://doi.org/10.1080/01605682.2019.1650624
 Method: A qualitative, longitudinal case study approach, grounded in Pragmatism, complexity theory, and the critical incident approach exploring implementation of simulation modelling in healthcare.
 Message: Twenty-three critical incidents were identified, including changes in government policy and funding, organisational context, intervention activities, project management, and staffing. The analysis revealed a complex adaptive system, where the role of specific implementation factors changed over time, and through interaction with each other.</description>
+    </item>
+    
+    <item>
+      <title>A decision support system for assessing management interventions in a mental health ecosystem: The case of Bizkaia (Basque Country, Spain)</title>
+      <link>https://www.acumen-mh.org/blog/2019/02/14/garc%C3%ADa-alonsoca2019u/</link>
+      <pubDate>Thu, 14 Feb 2019 18:37:24 +0000</pubDate>
+      
+      <guid>https://www.acumen-mh.org/blog/2019/02/14/garc%C3%ADa-alonsoca2019u/</guid>
+      <description>Peer reviewed: Yes
+Authors: García-Alonso, Carlos R. and Almeda, Nerea and Salinas-Pérez, José A. and Gutiérrez-Colosía, Mencía R. and Uriarte-Uriarte, José J. and Salvador-Carulla, Luis
+Publication: PLOS ONE.
+Year: 2019
+DOI: https://doi.org/10.1371/journal.pone.0212179
+Method: A Monte-Carlo simulation combined with a fuzzy inference engine was used to examine the Relative Technical Efficiency (RTE) of three proposed intervention scenarios.
+Message: Decision makers can use information from this approach to design new interventions and policies.</description>
     </item>
     
   </channel>

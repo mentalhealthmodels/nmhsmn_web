@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorials on Acumen - Alliance for Mental Health Systems Models</title>
-    <link>/blog/resources/modeller-resources/tutorials/</link>
+    <link>https://www.acumen-mh.org/blog/resources/modeller-resources/tutorials/</link>
     <description>Recent content in Tutorials on Acumen - Alliance for Mental Health Systems Models</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Aug 2022 21:13:14 -0500</lastBuildDate><atom:link href="/blog/resources/modeller-resources/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Aug 2022 21:13:14 -0500</lastBuildDate><atom:link href="https://www.acumen-mh.org/blog/resources/modeller-resources/tutorials/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

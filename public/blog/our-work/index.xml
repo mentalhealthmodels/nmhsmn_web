@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Our work on Acumen - Alliance for Mental Health Systems Models</title>
-    <link>/blog/our-work/</link>
+    <link>https://www.acumen-mh.org/blog/our-work/</link>
     <description>Recent content in Our work on Acumen - Alliance for Mental Health Systems Models</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Aug 2022 21:29:20 +0200</lastBuildDate><atom:link href="/blog/our-work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 May 2023 21:29:20 +0200</lastBuildDate><atom:link href="https://www.acumen-mh.org/blog/our-work/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

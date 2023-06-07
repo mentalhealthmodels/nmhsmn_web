@@ -44,7 +44,7 @@ pubs_entries_ls <- make_pubs_entries_ls(pubs_df,
                                         tmpl_pub_md_chr = readLines("Prep/pub_template/publication.md"))
 write_items_as_md(pubs_entries_ls,
                   pub_entries_dir_1L_chr = "content/blog/our-work/publications",#"content/publication",
-                  overwrite_1L_lgl = F)
+                  overwrite_1L_lgl = T)
 # 
 # pubs_df <- make_pubs_df(#path_to_bib_1L_chr = "PREP/sydney.bib",#"PREP/My_PR_PUBS.bib"
 #   categories_chr = c("MOD, PLA, POL") %>% transform_categories(),

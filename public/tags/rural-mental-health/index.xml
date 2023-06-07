@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rural Mental Health on Acumen - Alliance for Mental Health Systems Modelling</title>
-    <link>/tags/rural-mental-health/</link>
-    <description>Recent content in Rural Mental Health on Acumen - Alliance for Mental Health Systems Modelling</description>
+    <title>Rural Mental Health on Acumen - Alliance for Mental Health Systems Models</title>
+    <link>https://www.acumen-mh.org/tags/rural-mental-health/</link>
+    <description>Recent content in Rural Mental Health on Acumen - Alliance for Mental Health Systems Models</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2020 21:29:20 +0200</lastBuildDate><atom:link href="/tags/rural-mental-health/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Feb 2023 04:44:23 +0000</lastBuildDate><atom:link href="https://www.acumen-mh.org/tags/rural-mental-health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Patterns of mental healthcare provision in rural areas: A demonstration study in Australia and Europe</title>
+      <link>https://www.acumen-mh.org/blog/2023/02/06/salinas-perezjpatterns2023u/</link>
+      <pubDate>Mon, 06 Feb 2023 04:44:23 +0000</pubDate>
+      
+      <guid>https://www.acumen-mh.org/blog/2023/02/06/salinas-perezjpatterns2023u/</guid>
+      <description>Peer reviewed: Yes
+Authors: Salinas-Perez, Jose A. and Gutierrez-Colosia, Mencia R. and Garcia-Alonso, Carlos R. and Furst, Mary Anne and Tabatabaei-Jafari, Hossein and Kalseth, Jorid and Perkins, David and Rosen, Alan and Rock, Daniel and Salvador-Carulla, Luis
+Publication: Frontiers in Psychiatry.
+Year: 2023
+DOI: https://doi.org/10.3389/fpsyt.2023.993197
+Method: Mental health services in three countries were described and classified using the Description and Evaluation of Services and Directories of Long Term Care mapping tool.</description>
+    </item>
+    
     <item>
       <title>Systems modelling and simulation to inform strategic decision making for suicide prevention in rural New South Wales (Australia)</title>
-      <link>/blog/2020/06/17/atkinsonj2020b/</link>
+      <link>https://www.acumen-mh.org/blog/2020/06/17/atkinsonj2020b/</link>
       <pubDate>Wed, 17 Jun 2020 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2020/06/17/atkinsonj2020b/</guid>
+      <guid>https://www.acumen-mh.org/blog/2020/06/17/atkinsonj2020b/</guid>
       <description>Peer reviewed: Yes.
 Authors: Atkinson, Jo-An and Skinner, Adam and Hackney, Sue and Mason, Linda and Heffernan, Mark and Currier, Dianne and King, Kylie and Pirkis, Jane.
 Publication: Australian and New Zealand Journal of Psychiatry.

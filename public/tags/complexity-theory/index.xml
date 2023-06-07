@@ -1,18 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Complexity Theory on Acumen - Alliance for Mental Health Systems Modelling</title>
-    <link>/tags/complexity-theory/</link>
-    <description>Recent content in Complexity Theory on Acumen - Alliance for Mental Health Systems Modelling</description>
+    <title>Complexity Theory on Acumen - Alliance for Mental Health Systems Models</title>
+    <link>https://www.acumen-mh.org/tags/complexity-theory/</link>
+    <description>Recent content in Complexity Theory on Acumen - Alliance for Mental Health Systems Models</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2020 21:29:20 +0200</lastBuildDate><atom:link href="/tags/complexity-theory/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Sep 2021 14:07:10 +0000</lastBuildDate><atom:link href="https://www.acumen-mh.org/tags/complexity-theory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mental health: build predictive models to steer policy</title>
+      <link>https://www.acumen-mh.org/blog/2021/09/26/occhipintijmental2021s/</link>
+      <pubDate>Sun, 26 Sep 2021 14:07:10 +0000</pubDate>
+      
+      <guid>https://www.acumen-mh.org/blog/2021/09/26/occhipintijmental2021s/</guid>
+      <description>Peer reviewed: Yes
+Authors: Occhipinti, Jo-An and Skinner, Adam and Doraiswamy, P. Murali and Fox, Cameron and Herrman, Helen and Saxena, Shekhar and London, Elisha and Song, Yun Ju Christine and Hickie, Ian B.
+Publication: Nature.
+Year: 2021
+DOI: https://doi.org/10.1038/d41586-021-02581-9
+Method: Commentary.
+Message: Systems modelling has potential to assist global decision-makers to make proactive economic, social, public health, and health system investments to arrest the COVID pandemic’s impacts on mental health.</description>
+    </item>
+    
     <item>
       <title>The science of complex systems is needed to ameliorate the impacts of COVID-19 on mental health</title>
-      <link>/blog/2020/11/25/atkinsonj2020/</link>
+      <link>https://www.acumen-mh.org/blog/2020/11/25/atkinsonj2020/</link>
       <pubDate>Wed, 25 Nov 2020 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2020/11/25/atkinsonj2020/</guid>
+      <guid>https://www.acumen-mh.org/blog/2020/11/25/atkinsonj2020/</guid>
       <description>Peer reviewed: Yes.
 Authors: Atkinson, Jo-An and Song, Yun Ju Christine and Merikangas, Kathleen R and Skinner, Adam and Prodan, Ante and Iorfino, Frank and Freebairn, Louise and Rose, Danya and Ho, Nicholas and Crouse, Jacob and Zipunnikov, Vadim and Hickie, Ian.
 Publication: Frontiers in Psychiatry.
@@ -24,10 +39,10 @@ Message: Applications of systems modeling in mental health research and practice
     
     <item>
       <title>Factors affecting the implementation of simulation modelling in healthcare: A longitudinal case study evaluation</title>
-      <link>/blog/2019/08/20/longk2020/</link>
+      <link>https://www.acumen-mh.org/blog/2019/08/20/longk2020/</link>
       <pubDate>Tue, 20 Aug 2019 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2019/08/20/longk2020/</guid>
+      <guid>https://www.acumen-mh.org/blog/2019/08/20/longk2020/</guid>
       <description>Peer reviewed: Yes
 Authors: Long, Katrina M and McDermott, F and Meadows, Graham N
 Publication: Journal of the Operational Research Society

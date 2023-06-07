@@ -1,18 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Suicide Prevention on Acumen - Alliance for Mental Health Systems Modelling</title>
-    <link>/tags/suicide-prevention/</link>
-    <description>Recent content in Suicide Prevention on Acumen - Alliance for Mental Health Systems Modelling</description>
+    <title>Suicide Prevention on Acumen - Alliance for Mental Health Systems Models</title>
+    <link>https://www.acumen-mh.org/tags/suicide-prevention/</link>
+    <description>Recent content in Suicide Prevention on Acumen - Alliance for Mental Health Systems Models</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Mar 2021 21:29:20 +0200</lastBuildDate><atom:link href="/tags/suicide-prevention/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Aug 2021 05:35:05 +0000</lastBuildDate><atom:link href="https://www.acumen-mh.org/tags/suicide-prevention/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Regional suicide prevention planning: a dynamic simulation modelling analysis</title>
+      <link>https://www.acumen-mh.org/blog/2021/08/31/skinneraregional2021q/</link>
+      <pubDate>Tue, 31 Aug 2021 05:35:05 +0000</pubDate>
+      
+      <guid>https://www.acumen-mh.org/blog/2021/08/31/skinneraregional2021q/</guid>
+      <description>Peer reviewed: Yes
+Authors: Skinner, Adam and Occhipinti, Jo-An and Song, Yun Ju Christine and Hickie, Ian B.
+Publication: BJPsych Open.
+Year: 2021
+DOI: https://doi.org/10.1192/bjo.2021.989
+Method: A systems dynamics model for 10 Primary Health Networks (PHNs) in New South Wales that serve regions that vary in terms of population size, geographic area, population density, levels of disadvantage and suicide rates.
+Message: There is potential for substantial variation in projected reductions in suicide mortality if implementing a standardised state-based suicide prevention strategy versus a regionally driven approach.</description>
+    </item>
+    
     <item>
       <title>Reducing youth suicide: systems modelling and simulation to guide targeted investments across the determinants</title>
-      <link>/blog/2021/03/12/occhipintij2021/</link>
+      <link>https://www.acumen-mh.org/blog/2021/03/12/occhipintij2021/</link>
       <pubDate>Fri, 12 Mar 2021 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2021/03/12/occhipintij2021/</guid>
+      <guid>https://www.acumen-mh.org/blog/2021/03/12/occhipintij2021/</guid>
       <description>Peer reviewed: Yes.
 Authors: Occhipinti, Jo-An and Skinner, Adam and Iorfino, Frank and Lawson, Kenny and Sturgess, Julie and Burgess, Warren and Davenport, Tracey and Hudson, Danica and Hickie, Ian.
 Publication: BMC Medicine.
@@ -23,10 +38,10 @@ Method: Using a participatory approach, and informed by a range of national, sta
     
     <item>
       <title>Systems modelling and simulation to inform strategic decision making for suicide prevention in rural New South Wales (Australia)</title>
-      <link>/blog/2020/06/17/atkinsonj2020b/</link>
+      <link>https://www.acumen-mh.org/blog/2020/06/17/atkinsonj2020b/</link>
       <pubDate>Wed, 17 Jun 2020 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2020/06/17/atkinsonj2020b/</guid>
+      <guid>https://www.acumen-mh.org/blog/2020/06/17/atkinsonj2020b/</guid>
       <description>Peer reviewed: Yes.
 Authors: Atkinson, Jo-An and Skinner, Adam and Hackney, Sue and Mason, Linda and Heffernan, Mark and Currier, Dianne and King, Kylie and Pirkis, Jane.
 Publication: Australian and New Zealand Journal of Psychiatry.
@@ -37,10 +52,10 @@ Method: A system dynamics model for the rural and remote population catchment of
     
     <item>
       <title>The impact of reducing psychiatric beds on suicide rates</title>
-      <link>/blog/2019/07/02/atkinsonj2021/</link>
+      <link>https://www.acumen-mh.org/blog/2019/07/02/atkinsonj2021/</link>
       <pubDate>Tue, 02 Jul 2019 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2019/07/02/atkinsonj2021/</guid>
+      <guid>https://www.acumen-mh.org/blog/2019/07/02/atkinsonj2021/</guid>
       <description>Peer reviewed: Yes.
 Authors: Atkinson, Jo-An and Page, Andrew and Skinner, Adam and Heffernan, Mark and Prodan, Ante and Hickie, Ian B.
 Publication: Frontiers in Psychiatry.

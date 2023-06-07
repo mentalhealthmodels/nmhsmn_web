@@ -2,17 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications (Mental Health Policy) on Acumen - Alliance for Mental Health Systems Models</title>
-    <link>/categories/publications-mental-health-policy/</link>
+    <link>https://www.acumen-mh.org/categories/publications-mental-health-policy/</link>
     <description>Recent content in Publications (Mental Health Policy) on Acumen - Alliance for Mental Health Systems Models</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 May 2021 21:29:20 +0200</lastBuildDate><atom:link href="/categories/publications-mental-health-policy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 May 2023 21:29:20 +0200</lastBuildDate><atom:link href="https://www.acumen-mh.org/categories/publications-mental-health-policy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mental health systems modelling for evidence-informed service reform in Australia</title>
+      <link>https://www.acumen-mh.org/blog/2023/05/14/whitefordh2022/</link>
+      <pubDate>Sun, 14 May 2023 21:29:20 +0200</pubDate>
+      
+      <guid>https://www.acumen-mh.org/blog/2023/05/14/whitefordh2022/</guid>
+      <description>Peer reviewed: Yes.
+Authors: Whiteford, Harvey and Bagheri, Nasser and Diminic, Sandra and Enticott, Joanne and Gao, Caroline X and Hamilton, Matthew and Hickie, Ian and Le, Long K and Lee, Yong Y and Long, Katrina M and McGorry, Patrick and Meadows, Graham and Mihalopoulos, Cathrine and Occhipinti, Jo-An and Rock, Daniel and Rosenberg, Sebastian and Salvador-Carulla, Luis and Skinner, Adam.
+Publication: PsyArXiv
+Year: 2023
+DOI: https://doi.org/10.1177/00048674231172113
+Method: Descriptive overview of the role of modelling in mental health policy and system design, explanation of concepts useful for understanding mental health modelling and overview of how ta new network of modellers and planners hopes to support the development of better and more useful mental health systems models.</description>
+    </item>
+    
+    <item>
+      <title>Sound Decision Making in Uncertain Times: Can Systems Modelling Be Useful for Informing Policy and Planning for Suicide Prevention?</title>
+      <link>https://www.acumen-mh.org/blog/2022/01/28/occhipintijsound2022s/</link>
+      <pubDate>Fri, 28 Jan 2022 02:59:55 +0000</pubDate>
+      
+      <guid>https://www.acumen-mh.org/blog/2022/01/28/occhipintijsound2022s/</guid>
+      <description>Peer reviewed: Yes
+Authors: Occhipinti, Jo-An and Rose, Danya and Skinner, Adam and Rock, Daniel and Song, Yun Ju C. and Prodan, Ante and Rosenberg, Sebastian and Freebairn, Louise and Vacher, Catherine and Hickie, Ian B.
+Publication: International Journal of Environmental Research and Public Health.
+Year: 2022
+DOI: https://doi.org/10.3390/ijerph19031468
+Method: A systems dynamics model for Western Australia was run for multiple competing scenarios.
+Message: Systems models can inform robust decision making despite uncertainty about the trajectories of population mental health outcomes.</description>
+    </item>
+    
+    <item>
+      <title>Mental health: build predictive models to steer policy</title>
+      <link>https://www.acumen-mh.org/blog/2021/09/26/occhipintijmental2021s/</link>
+      <pubDate>Sun, 26 Sep 2021 14:07:10 +0000</pubDate>
+      
+      <guid>https://www.acumen-mh.org/blog/2021/09/26/occhipintijmental2021s/</guid>
+      <description>Peer reviewed: Yes
+Authors: Occhipinti, Jo-An and Skinner, Adam and Doraiswamy, P. Murali and Fox, Cameron and Herrman, Helen and Saxena, Shekhar and London, Elisha and Song, Yun Ju Christine and Hickie, Ian B.
+Publication: Nature.
+Year: 2021
+DOI: https://doi.org/10.1038/d41586-021-02581-9
+Method: Commentary.
+Message: Systems modelling has potential to assist global decision-makers to make proactive economic, social, public health, and health system investments to arrest the COVID pandemic’s impacts on mental health.</description>
+    </item>
+    
+    <item>
+      <title>Regional suicide prevention planning: a dynamic simulation modelling analysis</title>
+      <link>https://www.acumen-mh.org/blog/2021/08/31/skinneraregional2021q/</link>
+      <pubDate>Tue, 31 Aug 2021 05:35:05 +0000</pubDate>
+      
+      <guid>https://www.acumen-mh.org/blog/2021/08/31/skinneraregional2021q/</guid>
+      <description>Peer reviewed: Yes
+Authors: Skinner, Adam and Occhipinti, Jo-An and Song, Yun Ju Christine and Hickie, Ian B.
+Publication: BJPsych Open.
+Year: 2021
+DOI: https://doi.org/10.1192/bjo.2021.989
+Method: A systems dynamics model for 10 Primary Health Networks (PHNs) in New South Wales that serve regions that vary in terms of population size, geographic area, population density, levels of disadvantage and suicide rates.
+Message: There is potential for substantial variation in projected reductions in suicide mortality if implementing a standardised state-based suicide prevention strategy versus a regionally driven approach.</description>
+    </item>
+    
     <item>
       <title>Federal and state cooperation necessary but not sufficient for effective regional mental health systems: insights from systems modelling and simulation</title>
-      <link>/blog/2021/05/21/occhipintij2021a/</link>
+      <link>https://www.acumen-mh.org/blog/2021/05/21/occhipintij2021a/</link>
       <pubDate>Fri, 21 May 2021 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2021/05/21/occhipintij2021a/</guid>
+      <guid>https://www.acumen-mh.org/blog/2021/05/21/occhipintij2021a/</guid>
       <description>Peer reviewed: Yes
 Authors: Occhipinti, Jo-An and Skinner, Adam and Carter, Samantha and Heath, Jacinta and Lawson, Kenny and McGill, Katherine and McClure, Rod and Hickie, Ian B.
 Publication: Scientific Reports.
@@ -23,10 +82,10 @@ Method: A system dynamics model of pathways between psychological distress, the 
     
     <item>
       <title>Reducing youth suicide: systems modelling and simulation to guide targeted investments across the determinants</title>
-      <link>/blog/2021/03/12/occhipintij2021/</link>
+      <link>https://www.acumen-mh.org/blog/2021/03/12/occhipintij2021/</link>
       <pubDate>Fri, 12 Mar 2021 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2021/03/12/occhipintij2021/</guid>
+      <guid>https://www.acumen-mh.org/blog/2021/03/12/occhipintij2021/</guid>
       <description>Peer reviewed: Yes.
 Authors: Occhipinti, Jo-An and Skinner, Adam and Iorfino, Frank and Lawson, Kenny and Sturgess, Julie and Burgess, Warren and Davenport, Tracey and Hudson, Danica and Hickie, Ian.
 Publication: BMC Medicine.
@@ -37,10 +96,10 @@ Method: Using a participatory approach, and informed by a range of national, sta
     
     <item>
       <title>The science of complex systems is needed to ameliorate the impacts of COVID-19 on mental health</title>
-      <link>/blog/2020/11/25/atkinsonj2020/</link>
+      <link>https://www.acumen-mh.org/blog/2020/11/25/atkinsonj2020/</link>
       <pubDate>Wed, 25 Nov 2020 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2020/11/25/atkinsonj2020/</guid>
+      <guid>https://www.acumen-mh.org/blog/2020/11/25/atkinsonj2020/</guid>
       <description>Peer reviewed: Yes.
 Authors: Atkinson, Jo-An and Song, Yun Ju Christine and Merikangas, Kathleen R and Skinner, Adam and Prodan, Ante and Iorfino, Frank and Freebairn, Louise and Rose, Danya and Ho, Nicholas and Crouse, Jacob and Zipunnikov, Vadim and Hickie, Ian.
 Publication: Frontiers in Psychiatry.
@@ -52,10 +111,10 @@ Message: Applications of systems modeling in mental health research and practice
     
     <item>
       <title>The National Mental Health Service Planning Framework: Where has it come from and what is its future?</title>
-      <link>/blog/2020/11/02/whitefordh2020/</link>
+      <link>https://www.acumen-mh.org/blog/2020/11/02/whitefordh2020/</link>
       <pubDate>Mon, 02 Nov 2020 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2020/11/02/whitefordh2020/</guid>
+      <guid>https://www.acumen-mh.org/blog/2020/11/02/whitefordh2020/</guid>
       <description>Peer reviewed: Yes.
 Authors: Whiteford, Harvey and Diminic, Sandra.
 Publication: Australian and New Zealand Journal of Psychiatry
@@ -67,10 +126,10 @@ Message: Decentralised regional planning requires the application of a planning 
     
     <item>
       <title>Systems modelling and simulation to inform strategic decision making for suicide prevention in rural New South Wales (Australia)</title>
-      <link>/blog/2020/06/17/atkinsonj2020b/</link>
+      <link>https://www.acumen-mh.org/blog/2020/06/17/atkinsonj2020b/</link>
       <pubDate>Wed, 17 Jun 2020 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2020/06/17/atkinsonj2020b/</guid>
+      <guid>https://www.acumen-mh.org/blog/2020/06/17/atkinsonj2020b/</guid>
       <description>Peer reviewed: Yes.
 Authors: Atkinson, Jo-An and Skinner, Adam and Hackney, Sue and Mason, Linda and Heffernan, Mark and Currier, Dianne and King, Kylie and Pirkis, Jane.
 Publication: Australian and New Zealand Journal of Psychiatry.
@@ -81,10 +140,10 @@ Method: A system dynamics model for the rural and remote population catchment of
     
     <item>
       <title>The impact of reducing psychiatric beds on suicide rates</title>
-      <link>/blog/2019/07/02/atkinsonj2021/</link>
+      <link>https://www.acumen-mh.org/blog/2019/07/02/atkinsonj2021/</link>
       <pubDate>Tue, 02 Jul 2019 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2019/07/02/atkinsonj2021/</guid>
+      <guid>https://www.acumen-mh.org/blog/2019/07/02/atkinsonj2021/</guid>
       <description>Peer reviewed: Yes.
 Authors: Atkinson, Jo-An and Page, Andrew and Skinner, Adam and Heffernan, Mark and Prodan, Ante and Hickie, Ian B.
 Publication: Frontiers in Psychiatry.
@@ -95,11 +154,27 @@ Message: Study findings suggest that i) not all reductions to psychiatric beds w
     </item>
     
     <item>
+      <title>A modelling tool for policy analysis to support the design of efficient and effective policy responses for complex public health problems</title>
+      <link>https://www.acumen-mh.org/blog/2015/03/02/atkinsonja2015s/</link>
+      <pubDate>Mon, 02 Mar 2015 04:45:45 +0000</pubDate>
+      
+      <guid>https://www.acumen-mh.org/blog/2015/03/02/atkinsonja2015s/</guid>
+      <description>Peer reviewed: Yes
+Authors: Atkinson, Jo-An and Page, Andrew and Wells, Robert and Milat, Andrew and Wilson, Andrew
+Publication: Implementation Science.
+Year: 2015
+DOI: https://doi.org/10.1186/s13012-015-0221-5
+Method: Commentary.
+Message: There is a strong case for inclusion of systems modelling in the analytic tool kit for identifying targeted investments likely to deliver efficient, effective &amp;amp; equitable impacts.
+BibTeX: @article{AtkinsonJA2015S, title={A modelling tool for policy analysis to support the design of efficient and effective policy responses for complex public health problems}, author={Atkinson, Jo-An and Page, Andrew and Wells, Robert and Milat, Andrew and Wilson, Andrew}, journal={Implementation Science}, volume={10}, pages={26}, year={2015}, publisher={Springer Science and Business Media LLC}}</description>
+    </item>
+    
+    <item>
       <title>Resources for mental health: scarcity, inequity, and inefficiency</title>
-      <link>/blog/2007/12/01/saxenas2007/</link>
+      <link>https://www.acumen-mh.org/blog/2007/12/01/saxenas2007/</link>
       <pubDate>Sat, 01 Dec 2007 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2007/12/01/saxenas2007/</guid>
+      <guid>https://www.acumen-mh.org/blog/2007/12/01/saxenas2007/</guid>
       <description>Peer reviewed: Yes.
 Authors: Saxena, Shekhar and Thornicroft, Graham and Knapp, Martin and Whiteford, Harvey.
 Publication: The Lancet.

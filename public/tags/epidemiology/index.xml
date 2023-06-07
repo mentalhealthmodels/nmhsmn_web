@@ -1,23 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Epidemiology on Acumen - Alliance for Mental Health Systems Modelling</title>
-    <link>/tags/epidemiology/</link>
-    <description>Recent content in Epidemiology on Acumen - Alliance for Mental Health Systems Modelling</description>
+    <title>Epidemiology on Acumen - Alliance for Mental Health Systems Models</title>
+    <link>https://www.acumen-mh.org/tags/epidemiology/</link>
+    <description>Recent content in Epidemiology on Acumen - Alliance for Mental Health Systems Models</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Aug 2022 21:29:20 +0200</lastBuildDate><atom:link href="/tags/epidemiology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Aug 2022 21:29:20 +0200</lastBuildDate><atom:link href="https://www.acumen-mh.org/tags/epidemiology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>National Mental Health Service Planning Framework - Planning Support Tool</title>
-      <link>/blog/2022/08/22/nmhpft/</link>
+      <link>https://www.acumen-mh.org/blog/2022/08/22/nmhpft/</link>
       <pubDate>Mon, 22 Aug 2022 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2022/08/22/nmhpft/</guid>
+      <guid>https://www.acumen-mh.org/blog/2022/08/22/nmhpft/</guid>
       <description>Purpose: To estimate need and expected demand for mental health care and the level and mix of mental health services required for a given population.
-Type: Tableau user interface to a needs based planning tool model.
+Type: Tableau user interface to a needs based planning model.
 Release status: Production release (V4.0).
 Intended users: Mental health planners working in licensed organisations (typically State and Territory Government departments, Local Hospital Networks and Primary Health Networks).
 Who can access it?: Intended users in licensed organisations can apply to be trained on using NMHSPF-PST.</description>
+    </item>
+    
+    <item>
+      <title>Sound Decision Making in Uncertain Times: Can Systems Modelling Be Useful for Informing Policy and Planning for Suicide Prevention?</title>
+      <link>https://www.acumen-mh.org/blog/2022/01/28/occhipintijsound2022s/</link>
+      <pubDate>Fri, 28 Jan 2022 02:59:55 +0000</pubDate>
+      
+      <guid>https://www.acumen-mh.org/blog/2022/01/28/occhipintijsound2022s/</guid>
+      <description>Peer reviewed: Yes
+Authors: Occhipinti, Jo-An and Rose, Danya and Skinner, Adam and Rock, Daniel and Song, Yun Ju C. and Prodan, Ante and Rosenberg, Sebastian and Freebairn, Louise and Vacher, Catherine and Hickie, Ian B.
+Publication: International Journal of Environmental Research and Public Health.
+Year: 2022
+DOI: https://doi.org/10.3390/ijerph19031468
+Method: A systems dynamics model for Western Australia was run for multiple competing scenarios.
+Message: Systems models can inform robust decision making despite uncertainty about the trajectories of population mental health outcomes.</description>
+    </item>
+    
+    <item>
+      <title>A modelling tool for policy analysis to support the design of efficient and effective policy responses for complex public health problems</title>
+      <link>https://www.acumen-mh.org/blog/2015/03/02/atkinsonja2015s/</link>
+      <pubDate>Mon, 02 Mar 2015 04:45:45 +0000</pubDate>
+      
+      <guid>https://www.acumen-mh.org/blog/2015/03/02/atkinsonja2015s/</guid>
+      <description>Peer reviewed: Yes
+Authors: Atkinson, Jo-An and Page, Andrew and Wells, Robert and Milat, Andrew and Wilson, Andrew
+Publication: Implementation Science.
+Year: 2015
+DOI: https://doi.org/10.1186/s13012-015-0221-5
+Method: Commentary.
+Message: There is a strong case for inclusion of systems modelling in the analytic tool kit for identifying targeted investments likely to deliver efficient, effective &amp;amp; equitable impacts.
+BibTeX: @article{AtkinsonJA2015S, title={A modelling tool for policy analysis to support the design of efficient and effective policy responses for complex public health problems}, author={Atkinson, Jo-An and Page, Andrew and Wells, Robert and Milat, Andrew and Wilson, Andrew}, journal={Implementation Science}, volume={10}, pages={26}, year={2015}, publisher={Springer Science and Business Media LLC}}</description>
     </item>
     
   </channel>

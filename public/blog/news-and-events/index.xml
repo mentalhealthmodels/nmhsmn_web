@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News and Events on Acumen - Alliance for Mental Health Systems Models</title>
-    <link>/blog/news-and-events/</link>
+    <link>https://www.acumen-mh.org/blog/news-and-events/</link>
     <description>Recent content in News and Events on Acumen - Alliance for Mental Health Systems Models</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Aug 2022 21:29:20 +0200</lastBuildDate><atom:link href="/blog/news-and-events/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 May 2023 21:29:20 +0200</lastBuildDate><atom:link href="https://www.acumen-mh.org/blog/news-and-events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using systems modelling for evidence-informed mental health reform in Australia.</title>
-      <link>/blog/2022/08/27/first-paper/</link>
-      <pubDate>Sat, 27 Aug 2022 21:29:20 +0200</pubDate>
+      <link>https://www.acumen-mh.org/blog/2023/05/13/first-paper/</link>
+      <pubDate>Sat, 13 May 2023 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2022/08/27/first-paper/</guid>
+      <guid>https://www.acumen-mh.org/blog/2023/05/13/first-paper/</guid>
       <description>To introduce Acumen, members pooled their expertise to draft an article about the role of systems modelling in Australian mental health reform processes. The article provides an overview of current and previous mental health reform plans in Australia, identifies and describes different modelling approaches and the types of topics they are particularly well suited to addressing and discusses challenges and opportunities for planners and policymakers relating to the commissioning, development and use of model based tools.</description>
     </item>
     

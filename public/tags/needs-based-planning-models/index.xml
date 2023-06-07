@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Needs Based Planning Models on Acumen - Alliance for Mental Health Systems Modelling</title>
-    <link>/tags/needs-based-planning-models/</link>
-    <description>Recent content in Needs Based Planning Models on Acumen - Alliance for Mental Health Systems Modelling</description>
+    <title>Needs Based Planning Models on Acumen - Alliance for Mental Health Systems Models</title>
+    <link>https://www.acumen-mh.org/tags/needs-based-planning-models/</link>
+    <description>Recent content in Needs Based Planning Models on Acumen - Alliance for Mental Health Systems Models</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Aug 2022 21:29:20 +0200</lastBuildDate><atom:link href="/tags/needs-based-planning-models/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Aug 2022 21:29:20 +0200</lastBuildDate><atom:link href="https://www.acumen-mh.org/tags/needs-based-planning-models/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>National Mental Health Service Planning Framework - Planning Support Tool</title>
-      <link>/blog/2022/08/22/nmhpft/</link>
+      <link>https://www.acumen-mh.org/blog/2022/08/22/nmhpft/</link>
       <pubDate>Mon, 22 Aug 2022 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2022/08/22/nmhpft/</guid>
+      <guid>https://www.acumen-mh.org/blog/2022/08/22/nmhpft/</guid>
       <description>Purpose: To estimate need and expected demand for mental health care and the level and mix of mental health services required for a given population.
-Type: Tableau user interface to a needs based planning tool model.
+Type: Tableau user interface to a needs based planning model.
 Release status: Production release (V4.0).
 Intended users: Mental health planners working in licensed organisations (typically State and Territory Government departments, Local Hospital Networks and Primary Health Networks).
 Who can access it?: Intended users in licensed organisations can apply to be trained on using NMHSPF-PST.</description>
@@ -22,10 +22,10 @@ Who can access it?: Intended users in licensed organisations can apply to be tra
     
     <item>
       <title>The National Mental Health Service Planning Framework: Where has it come from and what is its future?</title>
-      <link>/blog/2020/11/02/whitefordh2020/</link>
+      <link>https://www.acumen-mh.org/blog/2020/11/02/whitefordh2020/</link>
       <pubDate>Mon, 02 Nov 2020 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2020/11/02/whitefordh2020/</guid>
+      <guid>https://www.acumen-mh.org/blog/2020/11/02/whitefordh2020/</guid>
       <description>Peer reviewed: Yes.
 Authors: Whiteford, Harvey and Diminic, Sandra.
 Publication: Australian and New Zealand Journal of Psychiatry

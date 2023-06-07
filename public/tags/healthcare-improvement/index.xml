@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Healthcare Improvement on Acumen - Alliance for Mental Health Systems Modelling</title>
-    <link>/tags/healthcare-improvement/</link>
-    <description>Recent content in Healthcare Improvement on Acumen - Alliance for Mental Health Systems Modelling</description>
+    <title>Healthcare Improvement on Acumen - Alliance for Mental Health Systems Models</title>
+    <link>https://www.acumen-mh.org/tags/healthcare-improvement/</link>
+    <description>Recent content in Healthcare Improvement on Acumen - Alliance for Mental Health Systems Models</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Nov 2021 21:29:20 +0200</lastBuildDate><atom:link href="/tags/healthcare-improvement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Nov 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://www.acumen-mh.org/tags/healthcare-improvement/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Engaging Healthcare Staff and Stakeholders in Healthcare Simulation Modelling for Research Translation: A Systematic Review</title>
-      <link>/blog/2021/11/23/zabellt2021/</link>
+      <link>https://www.acumen-mh.org/blog/2021/11/23/zabellt2021/</link>
       <pubDate>Tue, 23 Nov 2021 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2021/11/23/zabellt2021/</guid>
+      <guid>https://www.acumen-mh.org/blog/2021/11/23/zabellt2021/</guid>
       <description>Peer reviewed: Yes.
 Authors: Zabell, Thea Simone and Long, Katrina M and Scott, Debbie and Hope, Judith and McLoughlin, Ian and Enticott, Joanne.
 Publication: Frontiers in Health Services.
@@ -24,10 +24,10 @@ Message: There is a large gap in the current literature of formal evaluation of 
     
     <item>
       <title>Regional planning for meaningful person-centred care in mental health: context is the signal not the noise</title>
-      <link>/blog/2017/12/01/rockd2020/</link>
+      <link>https://www.acumen-mh.org/blog/2017/12/01/rockd2020/</link>
       <pubDate>Fri, 01 Dec 2017 21:29:20 +0200</pubDate>
       
-      <guid>/blog/2017/12/01/rockd2020/</guid>
+      <guid>https://www.acumen-mh.org/blog/2017/12/01/rockd2020/</guid>
       <description>Peer reviewed: Yes.
 Authors: Rock, D and Cross, SP
 Publication: Epidemiology and Psychiatric Sciences

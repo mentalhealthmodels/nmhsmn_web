@@ -2,9 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Primers on Acumen - Alliance for Mental Health Systems Models</title>
-    <link>/blog/resources/planner-resources/primers/</link>
+    <link>https://www.acumen-mh.org/blog/resources/planner-resources/primers/</link>
     <description>Recent content in Primers on Acumen - Alliance for Mental Health Systems Models</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/blog/resources/planner-resources/primers/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 May 2020 21:29:20 +0200</lastBuildDate><atom:link href="https://www.acumen-mh.org/blog/resources/planner-resources/primers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a mental health systems model?</title>
+      <link>https://www.acumen-mh.org/blog/2020/05/14/whatisamhsm/</link>
+      <pubDate>Thu, 14 May 2020 21:29:20 +0200</pubDate>
+      
+      <guid>https://www.acumen-mh.org/blog/2020/05/14/whatisamhsm/</guid>
+      <description>A mental health systems model is a mathematical representation of the systems (economic, environmental, service, social and technical) that shape population mental health. These mathematical representations can be succinct (a brief mathematical formula) or highly detailed (complex networks of linked equations expressed as large bodies of computer code). When applied to relevant data, these models can produce insights to help planners and policy makers address a range of decision problems.</description>
+    </item>
+    
   </channel>
 </rss>

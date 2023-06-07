@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Managing open code and data on Acumen - Alliance for Mental Health Systems Models</title>
-    <link>/blog/resources/modeller-resources/tutorials/managing-open-code-and-data/</link>
+    <link>https://www.acumen-mh.org/blog/resources/modeller-resources/tutorials/managing-open-code-and-data/</link>
     <description>Recent content in Managing open code and data on Acumen - Alliance for Mental Health Systems Models</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Aug 2022 21:13:14 -0500</lastBuildDate><atom:link href="/blog/resources/modeller-resources/tutorials/managing-open-code-and-data/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Aug 2022 21:13:14 -0500</lastBuildDate><atom:link href="https://www.acumen-mh.org/blog/resources/modeller-resources/tutorials/managing-open-code-and-data/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Motivation: why share model code and data?</title>
-      <link>/blog/1/01/01/motivation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Why share model code and data?</title>
+      <link>https://www.acumen-mh.org/blog/2022/08/28/motivation/</link>
+      <pubDate>Sun, 28 Aug 2022 21:13:14 -0500</pubDate>
       
-      <guid>/blog/1/01/01/motivation/</guid>
+      <guid>https://www.acumen-mh.org/blog/2022/08/28/motivation/</guid>
       <description>There are many benefits to sharing model code and data in open access repositories. These benefits include helping to:
 demonstrate study reproducibility; improve model transparency; elicit feedback; identify errors; increase impact; and reduce duplication of effort across the mental health modelling field. However, there are also practical barriers to sharing model code and data in an appropriate manner. These barriers can include:
 concerns about data confidentiality and privacy; confusion about licensing; the need to identify appropriate storage and dissemination platforms; the time and effort required to prepare, document and curate content for public release; and lack of technical knowledge.</description>
@@ -20,15 +20,14 @@ concerns about data confidentiality and privacy; confusion about licensing; the 
     
     <item>
       <title>Access data in the Australian Mental Health Systems Models Dataverse Collection.</title>
-      <link>/blog/2022/08/28/access_open_data/</link>
+      <link>https://www.acumen-mh.org/blog/2022/08/28/access_open_data/</link>
       <pubDate>Sun, 28 Aug 2022 21:13:14 -0500</pubDate>
       
-      <guid>/blog/2022/08/28/access_open_data/</guid>
-      <description>1. Objectives In this tutorial we will:
-Describe the knowedge, skills and software requirements for completing this tutorial;
-Briefly describe the concepts relating to the Australian Mental Health Systems Models Dataverse repository; and
-Outline the steps required to search for and download files contained in repository datasets using two alternative approaches;
-Using a web based interface (very simple, suitable for low volume requests where reproducibility is not required); and Using R commands (an approach that requires a little more up-front learning, but which can be used in automated and reproducible workflows) 2.</description>
+      <guid>https://www.acumen-mh.org/blog/2022/08/28/access_open_data/</guid>
+      <description>1. Objectives On completion of this tutorial you should be able to:
+Understand basic concepts relating to the Australian Mental Health Systems Models Dataverse Collection; and
+Have the ability to search for, download and ingest files contained in Dataverse Datasets that are linked to by the Australian Mental Health Systems Models Dataverse Collection using two alternative approaches;
+Using a web based interface; and Using R commands. 2. Prerequisites You can complete most of this tutorial without any specialist skills or software other than having a web-browser connected to the Internet.</description>
     </item>
     
   </channel>
